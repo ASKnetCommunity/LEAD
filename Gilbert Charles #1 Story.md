@@ -14,12 +14,12 @@ The piece I titled "LETTER TO THE SOUTH SUDANESE"
 
 ## **LETTER TO THE SOUTH SUDANESE**
 
-Trauma breaks mine heart
+*Trauma breaks mine heart
 The suffering of my people shutters me
 The demolition of the Great motherland sharply instills pain in mine heart,
-The harmony; The love; The blessings of our for fathers devoured and turned into the hatred; the segregation and tribalism by a twist inflicting crisis.
+The harmony; The love; The blessings of our for fathers devoured and turned into the hatred; the segregation and tribalism by a twist inflicting crisis.*
 
-How long shall we remain Refugees?
+*How long shall we remain Refugees?
 When shall we feel the peace of our fatherland?
 Broken is mine heart,
 I'm torn between tolerance to pain and acceptance to death,
@@ -27,9 +27,9 @@ Dear fellow South Sudanese,
 I was in quietude merely sweethearted
 A cup of poison given to me to set me free in place of a pond of peace,
 I was plagued with undue melancholy of the shame of being in quietude,
-Let's arise.
+Let's arise.*
 
-My grandparents came into exile as Refugees,
+*My grandparents came into exile as Refugees,
 My parents gave birth to me in exile as a Refugee,
 For how long should the generation remain I exile as Refugees:
 Warib cing wa me ryemo cen man kare acel;
@@ -43,7 +43,7 @@ Together as South Sudan
 Egbwe Kolu a'a 
 Bukku panda yiek nhial
 Love without discrimination
-Happy South Sudan.
+Happy South Sudan.*
 
 ### Peace4SouthSudan
 
