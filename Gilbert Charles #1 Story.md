@@ -10,7 +10,7 @@ Enjoyed the moments with the family, Of course Boom 2016 comes and I get myself 
 and yeah no power to stop but only had to put down this set of piece to my dear fellow South Sudan seriously.
 The piece I titled "LETTER TO THE SOUTH SUDANESE" 
 
-LETTER TO THE SOUTH SUDANESE
+#LETTER TO THE SOUTH SUDANESE
 
 Trauma breaks mine heart
 The suffering of my people shutters me
@@ -43,7 +43,7 @@ Bukku panda yiek nhial
 Love without discrimination
 Happy South Sudan.
 
-#Peace4SouthSudan
+##Peace4SouthSudan
 
 The piece above expressed the pain I have deep inside my heart for what is happening to Our country South Sudan, Inspite of what is happening to my Country
 South Sudan, I still believe and will always believe that we can all still collect the remaining pieces of our bodies, enrich ourselves and learn to move with a positive hope of transformation.
