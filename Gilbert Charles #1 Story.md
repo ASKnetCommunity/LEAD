@@ -10,9 +10,9 @@ Enjoyed the moments with the family, Of course Boom 2016 comes and I get myself 
 and yeah no power to stop but only had to put down this set of piece to my dear fellow South Sudan seriously.
 The piece I titled "LETTER TO THE SOUTH SUDANESE" 
 
-**LETTER TO THE SOUTH SUDANESE**
+#**LETTER TO THE SOUTH SUDANESE**
 
-*Trauma breaks mine heart
+Trauma breaks mine heart
 The suffering of my people shutters me
 The demolition of the Great motherland sharply instills pain in mine heart,
 The harmony; The love; The blessings of our for fathers devoured and turned into the hatred; the segregation and tribalism by a twist inflicting crisis.
@@ -41,7 +41,7 @@ Together as South Sudan
 Egbwe Kolu a'a 
 Bukku panda yiek nhial
 Love without discrimination
-Happy South Sudan.*
+Happy South Sudan.
 
 ##Peace4SouthSudan
 
