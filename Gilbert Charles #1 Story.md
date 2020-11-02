@@ -49,3 +49,4 @@ Happy South Sudan.*
 
 The piece above expressed the pain I have deep inside my heart for what is happening to Our country South Sudan, Inspite of what is happening to my Country
 South Sudan, I still believe and will always believe that we can all still collect the remaining pieces of our bodies, enrich ourselves and learn to move with a positive hope of transformation.
+Besides transformation, technology has knocked on my door, all I need to do is concentrate.
