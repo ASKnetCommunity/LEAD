@@ -1,5 +1,7 @@
 # GILBERT'S STORY
 
+![](/pictures/Gilbert2.jpg)
+
 Hello friends and Community Members,
 I am Gilbert Charles by names but also friends call me Kane, shortened out from the name Kenyi as It's my birth name. 
 I am an enthusiastic South Sudanese born in a small Refugee Settlement named Robidire in Adjumani District on 30th November 1998.
