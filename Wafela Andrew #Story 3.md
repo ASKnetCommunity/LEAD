@@ -113,8 +113,8 @@ able to push any institution or unversity.
 Since while in school during holidays, I 
 could join my uncle  for skills in repair,he 
 was so nice and encouraging ,and after 
-        Four months later,I was able to start my own garage. 
-        I have been doing my things offline for 
+    Four months later,I was able to start my own garage. 
+    Ihave been doing my things offline for 
 20yrs now ,but what inspired me to 
 community activities was one of my 
 friends Mr vuga William who offered me 
@@ -124,27 +124,27 @@ pagirinya refugee camp where we were
 able to empower the young people in 
 that community with skills and 
 knowledge .
-       This is where i learnt how interesting sharing 
+    This is where i learnt how interesting sharing 
 knowledge with community is 
 advantageous, as in you get expose to 
 new people,gain knowledge because in 
 #Ascotek we do things  jointly in the 
 way that the owner of the device  is 
 taught how to fix items on their own 
-       And besides that we gain more knowledge since a great number of collaborators are involved.
-       The big bang so interesting was of 
+   And besides that we gain more knowledge since a great number of collaborators are involved.
+   The big bang so interesting was of 
 recent in 2019 repair cafe organised by 
 YEF, at ruyo guest house in adjumani 
 which was so inspiring ,skills learnt 
 ,friendship created etc.
-        Therefore doing together with the  
+   Therefore doing together with the  
 community is more more of exposure to 
 knowledge and skills than doing things 
 with selfishness,
-         However due to the knowledge acquired from #Askotek,
+    However due to the knowledge acquired from #Askotek,
 I was able to build an FM transmitter ,to the level of
 giving sound,had it been not because #Askotek culture i wouldn't
 have made it regards to mr maliamungu richard
 Who mentored me during the 2019 training held,
-at YEF,abou building led light.
+at YEF,about building led light.
           Long live open tool collaboration 2020-2021.
