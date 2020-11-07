@@ -1,4 +1,5 @@
- Hello World
+ Hello World!
+ 
 Am Dawa Edina Hillary a  second time South Sudanese refugee in Uganda, I was brought to Uganda when I was one month old and we went back to South Sudan after a year because my mom was uncomfortable living in the camp so we were staying in South Sudan but deep in the bush around 5km from the main road.This time I came alone in 2013 at the beginning of the tribal war, I fainted twice because of gunshots so I left South Sudan and run for my life.
  
 
@@ -7,6 +8,7 @@ I completed diploma in ICT,  and I was working with CTEN as an ICT instructor fo
     
 
 #Motivation
+
 I asked my dad a question when I was 6 years old, it was late in the evening, everyone laughed and went to sleep without telling me the answer so in the morning they nicknamed me😩😠😨 but I can't share my nickname with you guys. 
  And that question keeps on motivating me from day one of my life journey, 
 My dad didn't answer my question, He told me when I was joining secondary school that he can only me in finding the answer but he can't find it for me, because I may end up waiting for ready things for rest of my life as a father he can never tolerate that. Meaning he can help by paying my tuition but I should concentrate and find the answer to my question. 
@@ -31,6 +33,7 @@ Many organisations have come to help us in one way or another through trainings,
 But sometimes we the refugees we don't know what we want, we always run for money that helps for one or two days living trainings that can feed you family for life time, please let's take take trainings serious, even in your own country if you are not serious. You may go begging to put food on the Table, 
 
 #Peace message
+
 South Sudan will be great one day but are you prepared to be in the great country
 We should stop blame the leaders, we are refugees today because of you and me not the tribes we are blaming and not leaders
 Did the leaders for once held a gun and shoot no! Did the tribe hold a gun and shoot no, it's you and me,
