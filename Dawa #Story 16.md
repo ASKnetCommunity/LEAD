@@ -1,6 +1,8 @@
  Hello World!
  
 Am Dawa Edina Hillary a  second time South Sudanese refugee in Uganda, I was brought to Uganda when I was one month old and we went back to South Sudan after a year because my mom was uncomfortable living in the camp so we were staying in South Sudan but deep in the bush around 22KM from the town and 5km from the main road.This time I came alone to the Camp in 2013 at the beginning of the tribal war, I fainted twice because of gunshots so I left South Sudan and ran for my life.
+
+https://github.com/dawaedina27/-ASKnet-Track-II-participant-s-stories-Community-Empowerment-2020-2021/blob/main/Story%20Pics/Storypic1.jpg
  
 
 I was working with CTEN as an ICT instructor for a year, and I undergone many trainings to mention but a few ( CISCO instructors training, ASKnet training where I learnt ["how to build LED light,  Phone charger,  how to make a water filter prototyping, A local Network dish"] ,how to make briquettes, video editing training, etc. But unfortunately the project ended and my contract as well, so am back to square one i mean am now a job seeker.
