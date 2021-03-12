@@ -2,8 +2,7 @@
 title:  "Dut Andrew Kulang"
 metadate: "hide"
 categories: [ Participant, UI, Graphics ]
-image: "/assets/images/story2.jpg"
-visit: "https://crmrkt.com/jVMvBb"
+image: "/assets/images/story2.jpg"Participant
 ---
 
 ## Skills

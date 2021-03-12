@@ -2,8 +2,7 @@
 title:  "Wafela Andrew"
 metadate: "hide"
 categories: [ Participant, UI, Graphics ]
-image: "/assets/images/story.jpg"
-visit: "https://crmrkt.com/jVMvBb"
+image: "/assets/images/story.jpg"Participant
 ---
     
     

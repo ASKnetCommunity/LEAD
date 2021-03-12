@@ -2,8 +2,7 @@
 title:  "Mawa Robert"
 metadate: "hide"
 categories: [ Participant, UI, Graphics ]
-image: "/assets/images/story4.jpg"
-visit: "https://crmrkt.com/jVMvBb"
+image: "/assets/images/story4.jpg"Participant
 ---
 
 Mawa Robert is my name born on april/01/1996 in yei south sudan

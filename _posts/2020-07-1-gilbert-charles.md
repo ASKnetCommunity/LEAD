@@ -2,8 +2,7 @@
 title:  "Gilbert Charles"
 metadate: "hide"
 categories: [ Participant, Github, Telegram ]
-image: "/assets/images/gilbert.jpg"
-visit: "https://crmrkt.com/jVMvBb"
+image: "/assets/images/gilbert.jpg"Participant
 ---
 
 # GILBERT'S STORY
