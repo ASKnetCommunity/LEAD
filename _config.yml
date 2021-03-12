@@ -7,6 +7,8 @@ baseurl: '/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021'
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
+github: 'https://github.com/ASKnet-Open-Training/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021'
+branch: 'Pintereso-Theme'
 
 include: ["_pages"]
 permalink: /:title/
