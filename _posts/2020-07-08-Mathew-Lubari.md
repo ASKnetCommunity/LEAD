@@ -2,7 +2,7 @@
 title:  "Mathew-Lubari"
 metadate: "hide"
 categories: [ Premium, UI, Graphics ]
-image: "/assets/images/story.jpg"
+image: "/assets/images/mathew.jpg"
 visit: "https://crmrkt.com/jVMvBb"
 ---
 

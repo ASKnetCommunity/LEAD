@@ -2,7 +2,7 @@
 title:  "Mawa Robert"
 metadate: "hide"
 categories: [ Premium, UI, Graphics ]
-image: "/assets/images/story.jpg"
+image: "/assets/images/story4.jpg"
 visit: "https://crmrkt.com/jVMvBb"
 ---
 

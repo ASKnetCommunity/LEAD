@@ -7,4 +7,4 @@ The project carries or calls independent stories of the participants, and shall 
 Participants to this project are urge to commit all their stories eg. What inspired them to take part in the **#ASKnet 2020/2021 track ll** training?, What their lifes have been like in short lines to break life to their stories.
 
 
-![](assets/images/IMG_20201019_235441_044.jpg)
+![](assets/images/story6.jpg)
