@@ -2,5 +2,5 @@
 title:  "Sebastian"
 metadate: "hide"
 categories: [ Participant, UI, Graphics ]
-image: "/assets/images/story4.jpg"Participant
+image: "/assets/images/story4.jpg"
 ---

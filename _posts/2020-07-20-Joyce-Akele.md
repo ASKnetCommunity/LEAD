@@ -2,5 +2,5 @@
 title:  "Joyce Akele"
 metadate: "hide"
 categories: [ Participant, UI, Graphics ]
-image: "/assets/images/story3.jpg"Participant
+image: "/assets/images/story3.jpg"
 ---

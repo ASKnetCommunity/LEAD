@@ -2,7 +2,7 @@
 title:  "Timm Wille"
 metadate: "hide"
 categories: [ Mentor, Github, Telegram ]
-image: "/assets/images/timm.jpg"Participant
+image: "/assets/images/timm.jpg"
 ---
 
 # Hello World! You can call me `Timm`
