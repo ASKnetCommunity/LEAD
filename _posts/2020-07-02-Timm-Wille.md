@@ -8,7 +8,7 @@ visit: "https://crmrkt.com/jVMvBb"
 
 # Hello World! You can call me `Timm`
 <p align="center">
-<img src="pictures/Timm1.png" width=300>
+<img src="../assets/images/timm.jpg" width=300>
 </p>
 
 I am an Open Source Hardware and Circular Economy activist and renewable engergy engineer from Berlin, Germany. 
