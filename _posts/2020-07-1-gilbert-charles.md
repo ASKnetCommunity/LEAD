@@ -1,7 +1,7 @@
 ---
 title:  "Gilbert Charles"
 metadate: "hide"
-categories: [ Premium, UI, Graphics ]
+categories: [ Participant, Github, Telegram ]
 image: "/assets/images/gilbert.jpg"
 visit: "https://crmrkt.com/jVMvBb"
 ---

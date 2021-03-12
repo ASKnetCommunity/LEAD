@@ -1,7 +1,7 @@
 ---
 title:  "Timm Wille"
 metadate: "hide"
-categories: [ Premium, UI, Graphics ]
+categories: [ Mentor, Github, Telegram ]
 image: "/assets/images/timm.jpg"
 visit: "https://crmrkt.com/jVMvBb"
 ---
