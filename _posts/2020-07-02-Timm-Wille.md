@@ -1,7 +1,7 @@
 ---
 title:  "Timm Wille"
 metadate: "hide"
-categories: [ Mentor, Github, Telegram ]
+categories: [ Mentor, Github ]
 image: "/assets/images/timm.jpg"
 ---
 

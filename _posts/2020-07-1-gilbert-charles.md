@@ -1,7 +1,7 @@
 ---
 title:  "Gilbert Charles"
 metadate: "hide"
-categories: [ Participant, Github, Telegram ]
+categories: [ Participant, Github ]
 image: "/assets/images/gilbert.jpg"
 ---
 
