@@ -33,8 +33,8 @@ layout: default
     				{{ content }}
                     
                     {% if page.visit %}
-                    <p><a target="_blank" href="/{{ page.path }}" class="btn btn-gray d-block font-weight-bold">
-                        Edit profile <i class="fas fa-external-link-alt"></i></a>
+                    <p><a target="_blank" href="{{ site.github }}/tree/{{ site.branch }}/{{ page.path }}" class="btn btn-gray d-block font-weight-bold">
+                        Edit profile <i class="far fa-edit"></i></a>
                     </p>
                     {% endif %}
                     
