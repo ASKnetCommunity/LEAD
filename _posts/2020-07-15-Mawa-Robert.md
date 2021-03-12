@@ -1,7 +1,7 @@
 ---
 title:  "Mawa Robert"
 metadate: "hide"
-categories: [ Participant, UI, Graphics ]
+categories: [ Participant, UI ]
 image: "/assets/images/story4.jpg"
 ---
 

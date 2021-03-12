@@ -1,7 +1,7 @@
 ---
 title:  "Wafela Andrew"
 metadate: "hide"
-categories: [ Participant, UI, Graphics ]
+categories: [ Participant, UI ]
 image: "/assets/images/story.jpg"
 ---
     
