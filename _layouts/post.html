@@ -32,11 +32,10 @@ layout: default
                     
     				{{ content }}
                     
-                    {% if page.visit %}
+                    
                     <p><a target="_blank" href="{{ site.github }}/tree/{{ site.branch }}/{{ page.path }}" class="btn btn-gray d-block font-weight-bold">
                         Edit profile <i class="far fa-edit"></i></a>
                     </p>
-                    {% endif %}
                     
                     {% for category in page.categories %}
                       <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
