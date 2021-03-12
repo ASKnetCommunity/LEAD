@@ -2,7 +2,7 @@
 title:  "Mathew-Lubari"
 metadate: "hide"
 categories: [ Participant, UI, Graphics ]
-image: "/assets/images/mathew16.jpg"
+image: "/assets/images/mathew-16.jpg"
 visit: "https://crmrkt.com/jVMvBb"
 ---
 
