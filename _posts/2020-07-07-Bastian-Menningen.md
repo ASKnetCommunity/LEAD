@@ -27,7 +27,7 @@ I joined the #ASKnet program in 2018 and initially worked on the #ASKotec case. 
   <div class="progress-bar bg-danger" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Build and deployment processes</div>
 </div>
 <div class="progress" style="height: 30px;">
-  <div class="progress-bar bg-success" role="progressbar" style="width: 40%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Communitacion (E-Mail & Telegram)</div>
+  <div class="progress-bar bg-success" role="progressbar" style="width: 40%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Communication (E-Mail & Telegram)</div>
 </div>
 
 ---
