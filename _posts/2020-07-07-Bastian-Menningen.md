@@ -40,7 +40,7 @@ I joined the #ASKnet program in 2018 and initially worked on the #ASKotec case. 
 <img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/project-askotec-case.jpg" />
 #ASKotec; the Access to Skills and Knowledge Open Tech Emergency Case is a resource kit for community trainers.
 
-My tasks: interior layout, building #ASKmods and documentation
+**My tasks:** interior layout, building #ASKmods and documentation
 
 <a class="btn btn-primary btn-sm" href="https://github.com/opencultureagency/ASKotec" role="button"><i class="fab fa-github"></i> Github Project</a> <a class="btn btn-primary btn-sm" href="https://askotec.openculture.agency/" role="button"><i class="fas fa-home"></i> Website</a>
 
@@ -52,7 +52,7 @@ My tasks: interior layout, building #ASKmods and documentation
 
 The official website of the #ASKotec Case, were you can find all information about it.
 
-My tasks: database, cms, front-end design and development
+**My tasks:** database, cms, front-end design and development
 
 <a class="btn btn-primary btn-sm" href="https://github.com/opencultureagency/ASKotec-Website" role="button"><i class="fab fa-github"></i> Github Project</a> <a class="btn btn-primary btn-sm" href="https://askotec.openculture.agency/" role="button"><i class="fas fa-home"></i> Website</a>
 
@@ -64,7 +64,7 @@ My tasks: database, cms, front-end design and development
 
 The #ASKnet Github-Guidance gives you a jumpstart to use Github.
 
-My tasks: jekyll and gihtub page development, creating templates and manuals
+**My tasks:** jekyll and gihtub page development, creating templates and manuals
 
 <a class="btn btn-primary btn-sm" href="https://github.com/ASKnet-Open-Training/Github-Guidance" role="button"><i class="fab fa-github"></i> Github Project</a> <a class="btn btn-primary btn-sm" href="https://asknet-open-training.github.io/Github-Guidance" role="button"><i class="fas fa-home"></i> Website</a>
 
@@ -76,7 +76,7 @@ My tasks: jekyll and gihtub page development, creating templates and manuals
 
 With the #ASKnet training plan you can compile and plan your individual training.
 
-my tasks: project management, interface design, concept
+**My tasks:** project management, interface design, concept
 
 <a class="btn btn-primary btn-sm" href="https://github.com/ASKtraining/Training" role="button"><i class="fab fa-github"></i> Github Project</a> <a class="btn btn-primary btn-sm" href="https://asktraining.github.io/Training/" role="button"><i class="fas fa-home"></i> Website</a>
 
@@ -88,7 +88,7 @@ my tasks: project management, interface design, concept
 
 A hall of fame from all participants and trainers for the track II training 2020/21
 
-my tasks: jekyll and gihtub page development, creating templates
+**My tasks:** jekyll and gihtub page development, creating templates
 
 <a class="btn btn-primary btn-sm" href="https://github.com/ASKnet-Open-Training/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021" role="button"><i class="fab fa-github"></i> Github Project</a> <a class="btn btn-primary btn-sm" href="https://asknet-open-training.github.io/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021/" role="button"><i class="fas fa-home"></i> Website</a>
 
