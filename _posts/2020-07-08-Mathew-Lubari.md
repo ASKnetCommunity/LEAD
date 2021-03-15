@@ -2,7 +2,7 @@
 title:  "Mathew-Lubari"
 metadate: "hide"
 categories: [ Participant, UI ]
-image: "/assets/images/mathew-16.jpg"
+image: "/assets/images/mathew.jpg"
 ---
 
 
