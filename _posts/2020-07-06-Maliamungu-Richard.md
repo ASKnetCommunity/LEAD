@@ -3,7 +3,7 @@ title:  "Maliamungu Richard"
 metadate: "hide"
 categories: [ Mentor, UI ]
 image: "/assets/images/story3.jpg"
-image: "![Screenshot_20210407-225303](https://user-images.githubusercontent.com/56769901/113927417-2301c680-97f6-11eb-8c7b-6c9cc1b8c0c1.png)"
+image: "Screenshot_20210407-225303.png"
 
 ---
 
