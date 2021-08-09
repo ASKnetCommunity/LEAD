@@ -2,7 +2,7 @@
 title:  "Bastian Menningen"
 metadate: "hide"
 categories: [ Mentor, UI, Berlin, Gihtub, Developer ]
-image: "/assets/images/bastian.jpg"
+image: "/assets/images/bastian-menningen/bastian.jpg"
 ---
 
 <p style="text-align:center; font-size:2em;"><a href="https://github.com/bmen"><i class="fab fa-github"></i></a> <a href="https://bmen.cc"><i class="fas fa-home"></i></a> <a href="https://t.me/b_men"><i class="fab fa-telegram"></i></a></p>
@@ -37,7 +37,7 @@ I joined the #ASKnet program in 2018 and initially worked on the #ASKotec case. 
 
 #### #ASKotec Case
 
-<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/project-askotec-case.jpg" />
+<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/bastian-menningen/project-askotec-case.jpg" />
 #ASKotec; the Access to Skills and Knowledge Open Tech Emergency Case is a resource kit for community trainers.
 
 **My tasks:** interior layout, building #ASKmods and documentation
@@ -48,7 +48,7 @@ I joined the #ASKnet program in 2018 and initially worked on the #ASKotec case. 
 
 #### #ASKotec Website
 
-<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/project-askotec-website.jpg" />
+<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/bastian-menningen/project-askotec-website.jpg" />
 
 The official website of the #ASKotec Case, were you can find all information about it.
 
@@ -60,7 +60,7 @@ The official website of the #ASKotec Case, were you can find all information abo
 
 #### #ASKnet Github Guidance
 
-<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/project-github-guidance.jpg" />
+<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/bastian-menningen/project-github-guidance.jpg" />
 
 The #ASKnet Github-Guidance gives you a jumpstart to use Github.
 
@@ -72,7 +72,7 @@ The #ASKnet Github-Guidance gives you a jumpstart to use Github.
 
 #### #ASKtraining
 
-<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/project-training-plan.jpg" />
+<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/bastian-menningen/project-training-plan.jpg" />
 
 With the #ASKnet training plan you can compile and plan your individual training.
 
@@ -84,7 +84,7 @@ With the #ASKnet training plan you can compile and plan your individual training
 
 #### #ASKnet Track II Stories
 
-<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/project-trackII-stories.jpg" />
+<img style="float:right; width: 200px; margin-left:10px;" src="../assets/images/bastian-menningen/project-trackII-stories.jpg" />
 
 A hall of fame from all participants and trainers for the track II training 2020/21
 
