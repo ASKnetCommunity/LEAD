@@ -2,5 +2,5 @@
 title:  "Richard Gama"
 metadate: "hide"
 categories: [ Participant, UI ]
-image: "/assets/images/story5.jpg"
+image: "/assets/images/placeholder.png"
 ---

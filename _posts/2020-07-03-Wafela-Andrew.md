@@ -2,7 +2,7 @@
 title:  "Wafela Andrew"
 metadate: "hide"
 categories: [ Participant, UI ]
-image: "/assets/images/story.jpg"
+image: "/assets/images/placeholder.png"
 ---
     
     

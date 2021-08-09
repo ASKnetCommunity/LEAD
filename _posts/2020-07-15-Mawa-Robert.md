@@ -2,7 +2,7 @@
 title:  "Mawa Robert"
 metadate: "hide"
 categories: [ Participant, UI ]
-image: "/assets/images/story4.jpg"
+image: "/assets/images/placeholder.png"
 ---
 
 Mawa Robert is my name born on april/01/1996 in yei south sudan
