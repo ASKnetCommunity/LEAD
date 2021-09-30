@@ -20,5 +20,5 @@ I started to research and develope methodes for Open Process Documentation and t
 
 ---
 >If you would like to connect or read more in detail you can choose here:
->- [Open Source Ecology Germany Profile | German](https://wiki.opensourceecology.de/Timm_Wille)
->- [Open Source Ecology Germany Profile | English](https://wiki.opensourceecology.de/En:Timm_Wille)
+>- [Open Source Ecology Germany Profile: German](https://wiki.opensourceecology.de/Timm_Wille)
+>- [Open Source Ecology Germany Profile: English](https://wiki.opensourceecology.de/En:Timm_Wille)
