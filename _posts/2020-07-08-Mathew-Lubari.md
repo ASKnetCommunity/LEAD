@@ -1,5 +1,5 @@
 ---
-title:  "Mathew-Lubari"
+title:  "Mathew Lubari"
 metadate: "hide"
 categories: [ Participant, UI ]
 image: "/assets/images/mathew-lubari/mathew.jpg"
