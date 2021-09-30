@@ -1,6 +1,6 @@
 ---
 title:  "Stephen Kovats"
 metadate: "hide"
-categories: [ Organisator, Berlin ]
+categories: [ Germany, Berlin ]
 image: "/assets/images/stephen-kovats/stephen.jpg"
 ---
