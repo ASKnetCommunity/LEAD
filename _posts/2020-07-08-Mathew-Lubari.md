@@ -15,6 +15,15 @@ I am a highly resourceful, reasonably flexible, innovative, and enthusiastic IT 
 
 Currently I am working for Community Technology Empowerment Network(CTEN) as a Project Manager. I started as a volunteering in the ICT department tasked with the role of managing all the innovation centers in Rhino Camp and Bidi Bidi. Before joining CTEN in 2017, I volunteered with RMF, Action Against Hunger and MSF France – in Uganda as a Community Informant supporting in community mobilization of PSNs and data collection and analysis services.
 
+Working with CTEN has given me great opportunities like trainings and Networking with others. 
+One of it was the ASKNet training which was conducted by r0g agency in 2018 where i was able to learn how to build a solar charger using the available resources. 
+during the training i worked all the night making a portable solar charger which took me about 7hrs where i succeeded in making.
+during the training i worked all the night making a portable solar charger which took me about 7hrs where i succeeded in making.this has given courage that when you want achieve something, you need to work tirelessly in other to get it done.
+
+I have also been a team leader for the track II training participants under Platform Africa coordinating with the team and Platform Africa. This training was organized by r0g agency and done virtually focused mainly on open documentation and collaboration. 
+During the course of the training, we organized three repair café session. Where we invited community members to bring in their broken or faulty electronic devices including bicycles to be fixed for use. We also invited experts from the different field of repair during the repair café session.
+
+
 ### Skills
 
 - Computer networks and system administration(WLAN and LAN)
