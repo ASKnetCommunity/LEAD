@@ -6,9 +6,6 @@ image: "/assets/images/timm-wille/timm.jpg"
 ---
 
 # Hello World! You can call me `Timm`
-<p align="center">
-<img src="../assets/images/timm.jpg" width=300>
-</p>
 
 I am an Open Source Hardware and Circular Economy activist and renewable engergy engineer from Berlin, Germany. 
 
@@ -23,5 +20,5 @@ I started to research and develope methodes for Open Process Documentation and t
 
 ---
 >If you would like to connect or read more in detail you can choose here:
->- [Open Source Ecology Germany Profile | German](https://wiki.opensourceecology.de/Timm_Wille)
->- [Open Source Ecology Germany Profile | English](https://wiki.opensourceecology.de/En:Timm_Wille)
+>- [Open Source Ecology Germany Profile: German](https://wiki.opensourceecology.de/Timm_Wille)
+>- [Open Source Ecology Germany Profile: English](https://wiki.opensourceecology.de/En:Timm_Wille)
