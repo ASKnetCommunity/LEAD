@@ -1,0 +1,48 @@
+# Site
+name: 'ASKnet Track II Members 2020/21'
+description: 'All members of the Track II Training 2020/21'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: '/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021'
+avatar: 'assets/images/sal.jpg'
+disqus: 'demowebsite'
+email: 'wowthemesnet@gmail.com'
+github: 'https://github.com/ASKnet-Open-Training/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021'
+branch: 'Pintereso-Theme'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+ 
+# Defaults
+defaults:
+
+  # all stories
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 30
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
