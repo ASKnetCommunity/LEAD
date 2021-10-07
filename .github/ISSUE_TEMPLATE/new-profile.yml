@@ -1,15 +1,13 @@
 name: New Profile
 description: Create a new profile
-title: Create a new profile
+title: [New Profile] Create Profile for ...
 body:
   - type: markdown
     attributes:
       value: |
-        Before you create a new profile, please search for the behaviour in the existing profiles. 
-        
-        ---
-        
-        Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
+        Thank you for taking the time to fill out some informations about you! Great to have you as part of the LEAD network!
+        If you already have a profile which you want to update, please use the following tutorial: [todo:write tutorial]
+                
   - type: input
     id: name
     attributes:
