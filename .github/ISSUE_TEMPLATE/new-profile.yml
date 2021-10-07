@@ -19,7 +19,7 @@ body:
     id: region
     attributes:
       label: Region
-      description: "In which region are you active? You can add several regions/cities/your country by separating them with commas."
+      description: "In which region are you active? You can add several regions/city/your country by separating them with commas."
     validations:
       required: true
   - type: input
@@ -58,13 +58,13 @@ body:
     id: description
     attributes:
       label: Description
-      description: Describe yourself in short words
+      description: Tell others about yourself, your story, your expertise in some short words or several paragraphs.
     validations:
       required: true
   - type: textarea
     id: profile-image
     attributes:
       label: Profile Image
-      description: You can upload a images for your profile by drag and drop into this textarea or click on the bottom of this textarea "Attach files by dragging & dropping, selecting or pasting them."
+      description: You can upload an image for your profile by dragging & dropping into this textarea or clicking on the bottom of this textarea and select your image. 
     validations:
       required: true
