@@ -26,7 +26,7 @@ body:
     id: tochange
     attributes:
       label: What needs to be changed?
-      description: "Please check the boxes for all information that you want to change"
+      description: "Please check the boxes for all information that you want to change. Leave boxes unticked if you want that respective information to remain unchanged in your profile."
       options:
         - label: Change Name
           required: false
