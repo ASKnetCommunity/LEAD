@@ -1,12 +1,11 @@
 name: New Profile
 description: Create a new profile
-title: [New Profile] Create Profile for ...
+title: "[New Profile] Create Profile for ..."
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for taking the time to fill out some informations about you! Great to have you as part of the LEAD network!
-        If you already have a profile which you want to update, please use the following tutorial: [todo:write tutorial]
+        "Thank you for taking the time to fill out some informations about you! Great to have you as part of the LEAD network! If you already have a profile which you want to update, please use the following tutorial: [todo:write tutorial]"
                 
   - type: input
     id: name
