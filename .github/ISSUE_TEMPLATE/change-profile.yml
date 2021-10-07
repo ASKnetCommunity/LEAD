@@ -28,17 +28,17 @@ body:
       label: What needs to be changed?
       description: "Please check the boxes for all information that you want to change"
       options:
-        - label: New Name
+        - label: Change Name
           required: false
-        - label: New Region
+        - label: Change Region
           required: false
-        - label: New Hub
+        - label: Change Hub
           required: false
-        - label: New Skills
+        - label: Change Skills
           required: false
-        - label: New Description
+        - label: Change Description
           required: false
-        - label: New Profile Image
+        - label: Change Profile Image
           required: false
     validations:
       required: true
