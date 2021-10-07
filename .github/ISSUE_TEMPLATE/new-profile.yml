@@ -1,0 +1,52 @@
+name: New Profile
+description: Create a new profile
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before you create a new profile, please search for the behaviour in the existing profiles. 
+        
+        ---
+        
+        Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: "This name will be published on the LEAD page"
+    validations:
+      required: true  
+  - type: input
+    id: region
+    attributes:
+      label: Region
+      description: "In which region are you active"
+    validations:
+      required: true
+  - type: input
+    id: hub
+    attributes:
+      label: Hub
+      description: "If you are active in a hub, you can indicate here in which"
+      placeholder: "Hub Name"
+    validations:
+      required: false
+  - type: dropdown
+    id: skills
+    attributes:
+      label: Skills
+      description: What are your skills?
+      options:
+        - Repair
+        - Computer
+        - Github
+        - Any else (please specify in the description!)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe yourself in short words
+    validations:
+      required: true
