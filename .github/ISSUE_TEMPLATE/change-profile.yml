@@ -28,7 +28,7 @@ body:
       label: What needs to be changed?
       description: "Please check the boxes for all information that you want to change"
       options:
-        - label: NewName
+        - label: Name
           required: false
         - label: NewRegion
           required: false
