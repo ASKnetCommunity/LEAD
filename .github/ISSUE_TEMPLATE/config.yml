@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Create a blank issue
+  - name: Blank issue
     url: https://github.com/ASKnetCommunity/LEAD/issues/new
-    about: Before opening a new issue, please search for the problem/topic in the existing issues.
+    about: Anything else? Before opening a new issue, please search for the problem/topic in the existing issues.
