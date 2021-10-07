@@ -38,10 +38,14 @@ body:
       label: Skills
       description: What are your skills?
       options:
-        - Repair
-        - Computer
-        - Github
-        - Any else (please specify in the description!)
+        - label: Repair
+          required: false
+        - label: Computer
+          required: false
+        - label: Github
+          required: false
+        - label: Any else (please specify in the description!)
+          required: false
     validations:
       required: true
   - type: textarea
