@@ -1,5 +1,6 @@
 name: New Profile
 description: Create a new profile
+title: Create a new profile
 body:
   - type: markdown
     attributes:
@@ -10,7 +11,7 @@ body:
         
         Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
   - type: input
-    id: title
+    id: name
     attributes:
       label: Name
       description: "This name will be published on the LEAD page"
