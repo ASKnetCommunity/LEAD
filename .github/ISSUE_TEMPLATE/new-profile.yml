@@ -6,13 +6,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for taking the time to fill out some informations about you! Great to have you as part of the LEAD network! If you already have a profile which you want to update, please use the following tutorial: (needs to be written)
+        Thank you for taking the time to fill out some informations about you! Great to have you as part of the LEAD network! Your data will be published on the LEAD page. If you already have a profile which you want to update, please use the following tutorial: (needs to be written)
                 
   - type: input
     id: name
     attributes:
       label: Name
-      description: "This name will be published on the LEAD page"
+      description: "your full name"
     validations:
       required: true  
   - type: input
@@ -20,6 +20,7 @@ body:
     attributes:
       label: Region
       description: "In which region are you active? You can add several regions/city/your country by separating them with commas."
+      placeholder: "e.g. Uganda, Rhino-Camp"
     validations:
       required: true
   - type: input
