@@ -26,7 +26,7 @@ body:
     id: tochange
     attributes:
       label: What needs to be changed?
-      description: "Please check the boxes for all information that you want to change. Leave boxes unticked if you want that respective information to remain unchanged in your profile. <br\>Please keep in mind: If you want to add some infos (e.g. a region) but want to keep your existing info (e.g. an old region that you still frequently visit), you need to write both in the text field. In our example you need to write your old region (maybe copy from your profile) and the new region. Otherwise, the LEAD maintainer has no way of knowing if the old infos need to be kept or should be overwritten with the new infos."
+      description: "Please check the boxes for all information that you want to change. Leave boxes unticked if you want that respective information to remain unchanged in your profile.    Please keep in mind: If you want to add some infos (e.g. a region) but want to keep your existing info (e.g. an old region that you still frequently visit), you need to write both in the text field. In our example you need to write your old region (maybe copy from your profile) and the new region. Otherwise, the LEAD maintainer has no way of knowing if the old infos need to be kept or should be overwritten with the new infos."
       options:
         - label: Change Name
           required: false
