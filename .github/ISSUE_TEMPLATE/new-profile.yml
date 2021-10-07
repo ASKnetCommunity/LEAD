@@ -19,7 +19,7 @@ body:
     id: region
     attributes:
       label: Region
-      description: "In which region are you active"
+      description: "In which region are you active? You can write several regions/cities/your country by separating them with commas."
     validations:
       required: true
   - type: input
@@ -36,11 +36,21 @@ body:
       label: Skills
       description: What are your skills?
       options:
+        - label: Hardware
+          required: false
         - label: Repair
           required: false
-        - label: Computer
+        - label: Software
           required: false
-        - label: Github
+        - label: Entrepreneurship
+          required: false
+        - label: Media Production
+          required: false
+        - label: Gender Equality Awareness
+          required: false
+        - label: Trauma Healing
+          required: false
+        - label: Financial Literacy
           required: false
         - label: Any else (please specify in the description!)
           required: false
