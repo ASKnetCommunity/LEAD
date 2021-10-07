@@ -10,7 +10,7 @@ body:
         
         Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
   - type: input
-    id: name
+    id: title
     attributes:
       label: Name
       description: "This name will be published on the LEAD page"
@@ -48,5 +48,12 @@ body:
     attributes:
       label: Description
       description: Describe yourself in short words
+    validations:
+      required: true
+  - type: textarea
+    id: profile-image
+    attributes:
+      label: Profile Image
+      description: You can upload a images for your profile by drag and drop into this textarea or click on the bottom of this textarea "Attach files by dragging & dropping, selecting or pasting them."
     validations:
       required: true
