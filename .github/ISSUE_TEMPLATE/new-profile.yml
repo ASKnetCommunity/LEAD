@@ -1,6 +1,7 @@
 name: New Profile
 description: Create a new profile
-title: "[New Profile] Create Profile for ..."
+title: "Create Profile for ..."
+labels: ["New Profile"]
 body:
   - type: markdown
     attributes:
