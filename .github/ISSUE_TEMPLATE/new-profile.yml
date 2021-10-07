@@ -32,7 +32,7 @@ body:
       placeholder: "Hub Name"
     validations:
       required: false
-  - type: dropdown
+  - type: checkboxes
     id: skills
     attributes:
       label: Skills
