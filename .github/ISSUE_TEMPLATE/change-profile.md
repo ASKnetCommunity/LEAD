@@ -1,0 +1,51 @@
+name: Change Profile
+description: Submit changes to your already existing profile
+title: "Change Profile for ..."
+labels: [ChangeProfile]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Here you can submit changes to your profile, if it exists already. 
+                
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: "your full name"
+    validations:
+      required: true  
+  - type: input
+    id: profile-url
+    attributes:
+      label: Profile Link
+      description: "Please input here the link (URL) to your profile on the LEAD website, or (if you're familiar) the link to your .md file in the _posts folder"
+    validations:
+      required: true  
+  - type: checkboxes
+    id: tochange
+    attributes:
+      label: What needs to be changed?
+      description: "Please check the boxes for all information that you want to change"
+      options:
+        - label: Name
+          required: false
+        - label: Region
+          required: false
+        - label: Hub
+          required: false
+        - label: Skills
+          required: false
+        - label: Description
+          required: false
+        - label: Profile Image
+          required: false
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: Description
+      description: "Here, please write down the changes that you want to make in your profile. A LEAD maintainer will copy these changes to your profile."
+    validations:
+      required: true
