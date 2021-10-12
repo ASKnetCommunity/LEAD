@@ -46,10 +46,23 @@ body:
         
         How and where do you want to be contacted? Fill in your contact details, and leave the fields blank that you don't use. We'd kindly ask to give at least one contact option. 
 
-  - type: markdown
+  - type: input
+    id: email
     attributes:
-      value: |
-        How and where do you want to be contacted? Fill in your contact details, and leave the fields blank that you don't use. We'd kindly ask to give at least one contact option. 
+      label: E-Mail
+      description: "your E-Mail address"
+      placeholder: ""
+    validations:
+      required: false
+  - type: input
+    id: tel
+    attributes:
+      label: Phone
+      description: "your phone number"
+      placeholder: ""
+    validations:
+      required: false
+
   - type: checkboxes
     id: skills
     attributes:
