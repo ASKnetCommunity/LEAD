@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for taking the time to fill out some informations about you! Great to have you as part of the LEAD network! Your data will be published on the LEAD page. If you already have a profile which you want to update, please use the following tutorial: [link](https://github.com/ASKnetCommunity/LEAD/wiki/Tutorial-%22New-Profile%22-(for-ASKnet-Peers)). [link2](https://www.google.com)
+        Thank you for taking the time to fill out some informations about you! Great to have you as part of the LEAD network! Your data will be published on the LEAD page. Here you can find a tutorial to help you in filling out your information: [link](https://github.com/ASKnetCommunity/LEAD/wiki/Tutorial-%22New-Profile%22-(for-ASKnet-Peers)). If you already have a profile which you want to update, please use [this link](https://github.com/ASKnetCommunity/LEAD/issues/new?assignees=&labels=ChangeProfile&template=change-profile.yml&title=Change+Profile+for+...) to submit your changes. 
                 
   - type: input
     id: name
