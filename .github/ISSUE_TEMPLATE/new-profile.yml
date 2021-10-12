@@ -43,6 +43,9 @@ body:
     attributes:
       value: |
         ## Contact 
+        
+        How and where do you want to be contacted? Fill in your contact details, and leave the fields blank that you don't use. We'd kindly ask to give at least one contact option. 
+
   - type: markdown
     attributes:
       value: |
