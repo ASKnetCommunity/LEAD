@@ -15,6 +15,14 @@ body:
       description: "your full name"
     validations:
       required: true  
+  - type: textarea
+    id: profile-image
+    attributes:
+      label: Profile Image
+      description: You can upload an image for your profile by dragging & dropping into this textarea or clicking on the bottom of this textarea and select your image. 
+    validations:
+      required: true
+      
   - type: input
     id: country
     attributes:
@@ -39,6 +47,7 @@ body:
       placeholder: "Hub Name"
     validations:
       required: false
+      
   - type: markdown
     attributes:
       value: |
@@ -150,6 +159,71 @@ body:
       placeholder: "0-100"
     validations:
       required: false 
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware
+      description: "experience with electronic and/or mechanical devices and hardware"
+      placeholder: "0-100"
+    validations:
+      required: false 
+  - type: input
+    id: community
+    attributes:
+      label: Community
+      description: "e.g. community building, connecting people, activism, trauma healing"
+      placeholder: "0-100"
+    validations:
+      required: false 
+  - type: input
+    id: orgdev
+    attributes:
+      label: Organizational Development
+      description: "e.g. entrepreneurship, project management, leading associations etc."
+      placeholder: "0-100"
+    validations:
+      required: false 
+  - type: input
+    id: media-art
+    attributes:
+      label: Media & Art
+      description: "e.g. audio/video/graphics skills, poetry, music"
+      placeholder: "0-100"
+    validations:
+      required: false 
+  - type: input
+    id: datasec
+    attributes:
+      label: Data Security
+      description: "e.g. privacy, encryption, protection of personal data"
+      placeholder: "0-100"
+    validations:
+      required: false 
+  - type: input
+    id: 
+    attributes:
+      label: 
+      description: "e.g. "
+      placeholder: "0-100"
+    validations:
+      required: false 
+  - type: input
+    id: opensource
+    attributes:
+      label: Open Source
+      description: "e.g. git, open source licenses"
+      placeholder: "0-100"
+    validations:
+      required: false 
+  - type: input
+    id: repair
+    attributes:
+      label: Repair
+      description: "e.g. managing repair cafes, skills on how to fix bikes, electronics et.c"
+      placeholder: "0-100"
+    validations:
+      required: false 
+
 
   - type: checkboxes
     id: skills
@@ -157,10 +231,6 @@ body:
       label: Skills
       description: What are your skills? You can specify other skills in your description text
       options:
-        - label: Hardware
-          required: false
-        - label: Repair
-          required: false
         - label: Entrepreneurship
           required: false
         - label: Media Production
@@ -178,12 +248,5 @@ body:
     attributes:
       label: Description
       description: Tell others about yourself, your story, your expertise in some short words or several paragraphs.
-    validations:
-      required: true
-  - type: textarea
-    id: profile-image
-    attributes:
-      label: Profile Image
-      description: You can upload an image for your profile by dragging & dropping into this textarea or clicking on the bottom of this textarea and select your image. 
     validations:
       required: true
