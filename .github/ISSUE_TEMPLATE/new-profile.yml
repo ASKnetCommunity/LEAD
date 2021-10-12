@@ -61,6 +61,71 @@ body:
       placeholder: "e.g. +254 12 345 6789"
     validations:
       required: false
+  - type: input
+    id: whatsapp
+    attributes:
+      label: WhatsApp
+      description: "your whatsapp phone number"
+      placeholder: "e.g. +254 12 345 6789"
+    validations:
+      required: false
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage
+      description: "your homepage"
+      placeholder: "https://www.yourwebsite.com"
+    validations:
+      required: false
+  - type: input
+    id: telegram
+    attributes:
+      label: Telegram
+      description: "your telegram username"
+    validations:
+      required: false
+  - type: input
+    id: github
+    attributes:
+      label: GitHub
+      description: "your github username"
+    validations:
+      required: false
+  - type: input
+    id: twitter
+    attributes:
+      label: Twitter
+      description: "your twitter username"
+    validations:
+      required: false
+  - type: input
+    id: facebook
+    attributes:
+      label: Facebook
+      description: "your facebook username"
+    validations:
+      required: false
+  - type: input
+    id: instagram
+    attributes:
+      label: Instagram
+      description: "your instagram username"
+    validations:
+      required: false
+  - type: input
+    id: mastodon
+    attributes:
+      label: Mastodon
+      description: "your mastodon profile link"
+    validations:
+      required: false
+  - type: input
+    id: wikifab
+    attributes:
+      label: WikiFab
+      description: "your wikifab username"
+    validations:
+      required: false
 
 
   - type: markdown
