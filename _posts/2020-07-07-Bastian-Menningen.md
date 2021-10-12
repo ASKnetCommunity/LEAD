@@ -1,7 +1,7 @@
 ---
 title:  "Bastian Menningen"
 metadate: "hide"
-categories: [ Mentor, UI, Berlin, Gihtub, Developer ]
+categories: [ Mentor, UI, Berlin, Github, Developer ]
 image: "/assets/images/bastian-menningen/bastian.jpg"
 ---
 
