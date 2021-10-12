@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Here you can submit changes to your profile, if it exists already. 
+        Here you can submit changes to your profile, if it exists already.  Here you can find a tutorial to help you in filling in your information: [link](https://github.com/ASKnetCommunity/LEAD/wiki/Tutorial-%22Change-Profile%22-(for-ASKnet-Peers)). If you don't have a profile yet but want to create a new profile, please use [this link](https://github.com/ASKnetCommunity/LEAD/issues/new?assignees=&labels=NewProfile&template=new-profile.yml&title=Create+Profile+for+...) to submit your changes. 
                 
   - type: input
     id: name
