@@ -58,8 +58,33 @@ body:
     attributes:
       label: Phone
       description: "your phone number"
+      placeholder: "e.g. +254 12 345 6789"
     validations:
       required: false
+
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Skills 
+        What are your skills? You can specify other skills in your description text. ~~~~please percentage 25 some experience, 50 can be trainer / mentor, 100 absolute professional. empty or 0 if nothing
+
+  - type: input
+    id: web
+    attributes:
+      label: Web
+      description: "e.g. research, using platforms, basic social media experience"
+      placeholder: "0-100"      
+    validations:
+      required: false
+  - type: input
+    id: software
+    attributes:
+      label: Software
+      description: "e.g. installing and using different programs, basic coding skills"
+      placeholder: "0-100"
+    validations:
+      required: false 
 
   - type: checkboxes
     id: skills
