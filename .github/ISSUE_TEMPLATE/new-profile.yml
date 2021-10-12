@@ -16,11 +16,19 @@ body:
     validations:
       required: true  
   - type: input
+    id: country
+    attributes:
+      label: Country
+      description: "In which country are you active?"
+      placeholder: "e.g. South Sudan"
+    validations:
+      required: true
+  - type: input
     id: region
     attributes:
       label: Region
-      description: "In which region are you active? You can add several regions/city/your country by separating them with commas."
-      placeholder: "e.g. Uganda, Rhino-Camp"
+      description: "In which region are you active? You can add several regions or cities by separating them with commas."
+      placeholder: "e.g. Juba, Rhino-Camp, Berlin"
     validations:
       required: true
   - type: input
@@ -31,6 +39,14 @@ body:
       placeholder: "Hub Name"
     validations:
       required: false
+  - type: markdown
+    attributes:
+      value: |
+        ## Contact 
+  - type: markdown
+    attributes:
+      value: |
+        How and where do you want to be contacted? Fill in your contact details, and leave the fields blank that you don't use. We'd kindly ask to give at least one contact option. 
   - type: checkboxes
     id: skills
     attributes:
