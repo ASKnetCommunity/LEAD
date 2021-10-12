@@ -26,7 +26,7 @@ body:
   - type: input
     id: country
     attributes:
-      label: Profile Image
+      label: Country
       description: "In which country are you active?"
       placeholder: "e.g. South Sudan"
     validations:
@@ -196,14 +196,6 @@ body:
     attributes:
       label: Data Security
       description: "e.g. privacy, encryption, protection of personal data"
-      placeholder: "0-100"
-    validations:
-      required: false 
-  - type: input
-    id: 
-    attributes:
-      label: 
-      description: "e.g. "
       placeholder: "0-100"
     validations:
       required: false 
