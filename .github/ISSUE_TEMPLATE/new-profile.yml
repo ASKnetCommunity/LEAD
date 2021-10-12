@@ -171,7 +171,7 @@ body:
     id: community
     attributes:
       label: Community
-      description: "e.g. community building, connecting people, activism, trauma healing"
+      description: "e.g. community building, connecting people, activism, trauma healing, gender equality awareness"
       placeholder: "0-100"
     validations:
       required: false 
@@ -179,7 +179,7 @@ body:
     id: orgdev
     attributes:
       label: Organizational Development
-      description: "e.g. entrepreneurship, project management, leading associations etc."
+      description: "e.g. entrepreneurship, project management, leading associations, financial literacy etc."
       placeholder: "0-100"
     validations:
       required: false 
@@ -217,24 +217,6 @@ body:
       required: false 
 
 
-  - type: checkboxes
-    id: skills
-    attributes:
-      label: Skills
-      description: What are your skills? You can specify other skills in your description text
-      options:
-        - label: Entrepreneurship
-          required: false
-        - label: Media Production
-          required: false
-        - label: Gender Equality Awareness
-          required: false
-        - label: Trauma Healing
-          required: false
-        - label: Financial Literacy
-          required: false
-    validations:
-      required: true
   - type: textarea
     id: description
     attributes:
