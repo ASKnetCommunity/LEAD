@@ -7,4 +7,4 @@ The project carries or calls independent stories of the participants, and shall 
 Participants to this project are urge to commit all their stories eg. What inspired them to take part in the **#ASKnet 2020/2021 track ll** training?, What their lifes have been like in short lines to break life to their stories.
 
 
-![](assets/images/story6.jpg)
+The Stories contiue to grow in the new adaptation of this Project: [**Local Expert Action Directory - LEAD**](https://github.com/ASKnetCommunity/LEAD)
