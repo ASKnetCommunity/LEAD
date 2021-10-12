@@ -96,8 +96,6 @@ body:
           required: false
         - label: Repair
           required: false
-        - label: Software
-          required: false
         - label: Entrepreneurship
           required: false
         - label: Media Production
