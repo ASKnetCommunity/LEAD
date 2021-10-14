@@ -1,5 +1,5 @@
 name: New Profile
-description: Create a new profile. [Tutorial](https://github.com/ASKnetCommunity/LEAD/wiki/) 
+description: Create a new profile (you can find tutorials in the wiki) 
 title: "Create Profile for ..."
 labels: [NewProfile]
 body:
