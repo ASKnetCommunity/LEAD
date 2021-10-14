@@ -141,7 +141,7 @@ body:
     attributes:
       value: |
         ## Skills 
-        What are your skills? You can specify other skills in your description text. ~~~~please percentage 25 some experience, 50 can be trainer / mentor, 100 absolute professional. empty or 0 if nothing
+        What are your skills? You can specify other skills in your description text. Please provide an estimation of your skill level on a scale from 0 to 100. As a guideline: 25 = some experience, 50 = I can be a trainer / mentor in that field, 100 = I am an absolute professional. Leave the field empty (or write 0) if you don't want to mention that specific skill on your profile. 
 
   - type: input
     id: web
