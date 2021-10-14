@@ -203,7 +203,7 @@ body:
     id: opensource
     attributes:
       label: Open Source
-      description: "e.g. git, open source licenses"
+      description: "e.g. git, open source philosophy, open source licenses"
       placeholder: "0-100"
     validations:
       required: false 
