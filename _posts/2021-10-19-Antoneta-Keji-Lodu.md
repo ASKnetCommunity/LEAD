@@ -6,10 +6,10 @@ country: South Sudan
 region: Juba
 hub: GoGirlsICT Initaitive
 mail: 
-phone: 211924658040
-whatsapp: 211924658040
+phone: +211924658040
+whatsapp: +211924658040
 website: 
-telegram: 211924658040
+telegram: +211924658040
 github: 
 twitter: 
 facebook: anthoneta.keji
