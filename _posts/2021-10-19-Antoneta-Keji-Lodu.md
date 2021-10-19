@@ -28,6 +28,9 @@ skills:
   - {name: Repair, color: '#fdb157', value: '0%'}
 ---
 I am trainer in podcasting
+
 I can use Audacity
+
 I love open source tools since they are free
+
 I create sounds and podcasts
