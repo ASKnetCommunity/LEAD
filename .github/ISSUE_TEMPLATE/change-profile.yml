@@ -1,7 +1,7 @@
 name: Change Profile
 description: Submit changes to your already existing profile (you can find tutorials in the wiki)
 title: "Change Profile for ..."
-labels: [ChangeProfile]
+labels: [Profile]
 body:
   - type: markdown
     attributes:
