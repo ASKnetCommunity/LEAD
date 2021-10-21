@@ -79,9 +79,9 @@ body:
     validations:
       required: false
   - type: input
-    id: homepage
+    id: website
     attributes:
-      label: Homepage
+      label: Website
       description: "your homepage"
       placeholder: "https://www.yourwebsite.com"
     validations:
