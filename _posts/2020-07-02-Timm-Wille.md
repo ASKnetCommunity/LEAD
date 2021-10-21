@@ -1,8 +1,21 @@
 ---
+layout: profile
 title:  "Timm Wille"
-metadate: "hide"
-categories: [ Mentor, Github ]
-image: "/assets/images/timm-wille/timm.jpg"
+image: "/assets/images/timm-wille/Timm-Wille-2.png"
+country: Germany
+region: Berlin
+hub: r0g Agency
+mail: timm@openculture.agency
+phone: +4917661304615
+whatsapp: 
+website: 
+telegram: timmw
+github: timmwille
+twitter: 
+facebook: 
+instagram: 
+mastodon: 
+wikifab: Timm
 ---
 
 # Hello World! You can call me `Timm`
