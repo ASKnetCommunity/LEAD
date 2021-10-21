@@ -4,7 +4,7 @@ title:  "NAME-HERE"
 image: "/assets/images/Iklas-Martin/Iklas-Martin.jpg"
 country: South Sudan
 region: Juba
-hub: GoGirlsICT Initaitive
+hub: GoGirlsICT Initiative
 mail: 
 phone: +211916139905
 whatsapp: +211916139905
