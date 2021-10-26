@@ -141,10 +141,6 @@ profile-country-labels:
     type : "South-Sudan"
   }
 - {
-    title : "Germany",
-    type : "Germany"
-  }
-- {
     title : "Uganda",
     type : "Uganda"
   }
