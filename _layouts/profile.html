@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<section class="section bg-primary position-relative"></section>
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7 col-sm-12">
+        {% if page.gallery %}
+        <div class="profile-gallery-slider">
+            {% for gallery in page.gallery %}
+              <img src="{{ site.baseurl }}/{{ gallery.url }}" alt="" />
+            {% endfor %}
+        </div>
+        
+        {% else %}
+        <img src="{{page.image | relative_url }}" class="img-fluid rounded mr-lg-5 mb-4" alt="{{page.title}}">
+        {% endif %}
+      </div>
+      <div class="col-lg-5 col-sm-12">
+        <h3 class="mb-5">{{ page.title | escape }}</h3>
+        {% if page.country %} 
+        <h4>Country:</h4>
+        <p>{{ page.country }}</p>
+        {% endif %}
+        {% if page.region %} 
+        <h4>Region:</h4>
+        <p>{{ page.region }}</p>
+        {% endif %}
+        {% if page.hub %} 
+        <h4>Hub:</h4>
+        <p>{{ page.hub }}</p>
+        {% endif %}
+        {% include social-media.html %}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 mt-4">
+        <div class="content fs-3">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+
+<!-- other profiles -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Other Profiles</h2>
+      </div>
+      {% for profile in site.profiles offset:0 limit:3 %}
+      {% include profile.html %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /other profiles -->

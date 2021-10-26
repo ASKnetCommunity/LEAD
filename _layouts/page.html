@@ -2,36 +2,24 @@
 layout: default
 ---
 
-<section class="bg-gray200 pt-5 pb-5">
-    
-    <div class="container">
-        
-    	<div class="row justify-content-center">
-            
-    		<div class="col-md-8">
-                
-    			<article class="card">
-
-                     {% if page.image %} 
-                        <img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
-                    {% endif %}
-
-                    <div class="card-body">
-
-                        <h1 class="display-4">
-                            {{page.title}} 
-                        </h1>
-
-                        {{ content }}
-
-                    </div>  
-                    
-    			</article>
-                
-    		</div>
-            
-    	</div>
-        
+<!-- page title -->
+<section class="page-title bg-primary position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1 class="text-white">{{ page.title }}</h1>
+      </div>
     </div>
-    
+  </div>
+  <!-- background shapes -->
+  <img src="{{ site.baseurl }}/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
 </section>
+<!-- /page title -->
+
+{{ content }}

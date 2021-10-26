@@ -1,48 +1,43 @@
-# Site
-name: 'ASKnet Track II Members 2020/21'
-description: 'All members of the Track II Training 2020/21'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: '/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021'
-avatar: 'assets/images/sal.jpg'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-github: 'https://github.com/ASKnet-Open-Training/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021'
-branch: 'main'
+baseurl: "/LEAD" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-include: ["_pages"]
-permalink: /:title/
-
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
- 
-# Defaults
-defaults:
-
-  # all stories
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-      
-# Syntax
+# Build settings
 markdown: kramdown
-highlighter: rouge
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll-remote-include
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
 
-# Pagination
-paginate: 30
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
 
+include:
+  - _pages
 
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+sass:
+  sass_dir: assets/scss
+  style: compressed
+
+# Collections
+
+collections:
+  profiles:
+    output: true
+    output_ext: .html
+    permalink: /profiles/:path/
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.text
+  - README.md
+  - SECURITY.md

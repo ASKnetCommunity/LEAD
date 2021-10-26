@@ -1,0 +1,28 @@
+<!-- social-media -->
+<ul class="list-unstyled social-media">
+    {% if page.website %}
+    <li class="website"><a href="{{ page.website }}" target="_blank"><i class="ti-home"></i></a></li>
+    {% endif %}
+    {% if page.mail %}
+    <li class="mail"><a href="mailto:{{ page.mail }}" target="_blank"><i class="ti-email"></i></a></li>
+    {% endif %}
+    {% if page.github %}
+    <li class="github"><a class="text-xl-start" href="https://github.com/{{ page.github }}" target="_blank"><i class="ti-github"></i></a></li>
+    {% endif %}
+    {% if page.twitter %}
+    <li class="twitter"><a href="https://twitter.com/{{ page.twitter }}" target="_blank"><i class="ti-twitter"></i></a></li>
+    {% endif %}
+    {% if page.facebook %}
+    <li class="facebook"><a href="https://www.facebook.com/{{ page.facebook }}" target="_blank"><i class="ti-facebook"></i></a></li>
+    {% endif %}
+    {% if page.instagram %}
+    <li class="instagram"><a href="https://www.instagram.com/{{ page.instagram }}" target="_blank"><i class="ti-instagram"></i></a></li>
+    {% endif %}
+    {% if page.whatsapp %}
+    <li class="whatsapp"><a href="https://wa.me/{{ page.whatsapp }}" target="_blank">Whatsapp</a></li>
+    {% endif %}
+    {% if page.telegram %}
+    <li class="telegram"><a href="https://t.me/{{ page.telegram }}" target="_blank">t</a></li>
+    {% endif %}
+</ul>
+<!-- /social-media -->
