@@ -66,7 +66,7 @@ body:
     id: tel
     attributes:
       label: Phone
-      description: "your phone number"
+      description: "Your phone number. <br> **Important: If you input your phone number, it will be visible on your LEAD profile and therefore for everyone on the internet! Just enter your number if you are okay with that,** otherwise leave the field empty."
       placeholder: "e.g. +254 12 345 6789"
     validations:
       required: false
@@ -74,7 +74,7 @@ body:
     id: whatsapp
     attributes:
       label: WhatsApp
-      description: "your whatsapp phone number"
+      description: "Your whatsapp phone number. <br> **Important: If you input your phone number, it will be visible on your LEAD profile and therefore for everyone on the internet! Just enter your number if you are okay with that,** otherwise leave the field empty."
       placeholder: "e.g. +254 12 345 6789"
     validations:
       required: false
