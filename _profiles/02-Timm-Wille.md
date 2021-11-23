@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Timm Wille"
-image: assets/images/profiles/Timm-Wille/Timm-Wille-2.png
+image: assets/images/profiles/Timm-Wille/Timm-Wille-2.jpg
 country: Germany
 region: Berlin
 hub: r0g Agency
