@@ -3,12 +3,15 @@
 
 title: LEAD
 logo: assets/images/asknet-logo-2.png
-author: #ASKnet
+author: '#ASKnet'
 description: Local • Expert • Action • Directory 
 email: steve.fruits@email.com
 phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
-copyright: CC-BY-SA 4.0 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: |
+ [MIT Licensed](https://github.com/ASKnetCommunity/LEAD/blob/main/LICENSE.txt) by #ASKnet 2021
+
+ Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: Add Profile, link: '#create-new-profile'}
