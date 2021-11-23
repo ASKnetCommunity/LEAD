@@ -18,12 +18,12 @@ mastodon:
 linkedin: https://www.linkedin.com/in/timm-wille-686319105/
 wikifab: Timm
 skills:
-  - {name: Open Source Hardware, qualification: '| [Link to my OSE Germany Profile](https://wiki.opensourceecology.de/En:Timm_Wille)
+  - {name: Open Source Hardware, number: 1, qualification: '| [Link to my OSE Germany Profile](https://wiki.opensourceecology.de/En:Timm_Wille)
   
   [The Open Tech Emergency Case to which I contributed significantly ](https://askotec.openculture.agency)'}
-  - {name: Open Tech & Repair, qualification: '[example projects](https://wikifab.org/wiki/Group:ASKnet_Open_Tech)'}
-  - {name: Circular Economy, qualification: '[Interview about Circular Economy](https://greennetproject.org/2019/04/29/timm-wille-eine-kreislaufwirtschaft-funktioniert-nicht-ohne-open-source-loesungen/)'}
-  - {name: Open Knowledge Advisor, qualification: '| [Workshops I conducted at Europe’s largest internet and digital society conference re:publica](https://re-publica.com/en/member/14388)
+  - {name: Open Tech & Repair, number: 2, qualification: '[example projects](https://wikifab.org/wiki/Group:ASKnet_Open_Tech)'}
+  - {name: Circular Economy, number: 3, qualification: '[Interview about Circular Economy](https://greennetproject.org/2019/04/29/timm-wille-eine-kreislaufwirtschaft-funktioniert-nicht-ohne-open-source-loesungen/)'}
+  - {name: Open Knowledge Advisor, number: 4, qualification: '| [Workshops I conducted at Europe’s largest internet and digital society conference re:publica](https://re-publica.com/en/member/14388)
   
   [Open Educational Guides to which I contributed significantly](https://openculture.agency/open-educational-resources/) '}
 ---
