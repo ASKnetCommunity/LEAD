@@ -143,6 +143,10 @@ profile-country-labels:
     type : "Uganda"
   }
 - {
+    title : "Germany",
+    type : "Germany"
+  }
+- {
     title : "Unknown",
     type : "Unknown"
   }
