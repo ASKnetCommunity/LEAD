@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Arkangelo Lemi"
-image: "/assets/images/profiles/Arkangelo-Lemi/Arkangelo-Lemi.jpg"
+image: "assets/images/profiles/Arkangelo-Lemi/Arkangelo-Lemi.jpg"
 country: Uganda
 region: West Nile
 hub: Platform Africa
