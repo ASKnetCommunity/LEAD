@@ -31,7 +31,31 @@ layout: default
         <h4>Hub:</h4>
         <p>{{ page.hub }}</p>
         {% endif %}
+        {% if page.skills %}              
+        <div class="panel-group" style="clear:both; margin-top:20px;" id="accordion" role="tablist" aria-multiselectable="true">
+          <h4>Skills:</h4>
+          {% for skill in page.skills %}
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="heading{{ skill.number }}">
+                <h4 class="panel-title">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ skill.number }}" aria-expanded="false" aria-controls="collapse{{ skill.number }}">
+                      {{ skill.name }}
+                        <span> </span>
+                    </a>
+                </h4>
+            </div>
+            <div id="collapse{{ skill.number }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                <div class="panel-body">
+                    <p>{{ skill.qualification | markdownify }}</p>
+                </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        {% endif %}
         {% include social-media.html %}
+                  
+        
       </div>
     </div>
     <div class="row">
