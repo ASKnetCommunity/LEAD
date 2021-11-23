@@ -5,7 +5,7 @@ The project carries or calls independent stories of experts, and shall be collec
 
 The local expertise can lead to trainings, collaboration, gatherings and much more. Feel free to contact any of the peers in your region or [suggest another profile](https://github.com/ASKnetCommunity/LEAD/issues) to be added. You might also want to contact one of the partner Hubs for participation.
 
-<img src="assets/images/gilbert-charles/gilbert-2.jpg" width="40%"/>
+<img src="assets/images/profiles/gilbert-charles/gilbert-2.jpg" width="40%"/>
 
 If you want to take part, you can start with creating a profile for yourself. You [find the tutorials here](https://github.com/ASKnetCommunity/LEAD/wiki). 
 
