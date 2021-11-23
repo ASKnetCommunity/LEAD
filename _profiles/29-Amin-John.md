@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Amin John"
-image: "/assets/images/profiles/Amin-John/Amin-John.jpg"
+image: "assets/images/profiles/Amin-John/Amin-John.jpg"
 country: Uganda
 region: West Nile
 hub: Platform Africa

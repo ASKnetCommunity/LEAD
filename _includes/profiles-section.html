@@ -2,7 +2,7 @@
 <section class="section">
   <div class="container">
     <div class="row mb-5">
-      <div class="col-12">
+      <div class="col-lg-12 d-none d-lg-inline">
         <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
           <label class="btn btn-sm btn-primary active">
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
@@ -12,6 +12,23 @@
             <input type="radio" name="shuffle-filter" value="{{ label.type }}" />{{ label.title }}
           </label>
           {% endfor %}
+        </div>
+      </div>
+      <div class="col-12 d-inline d-sm-none">
+        <button class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#filter-countries" aria-expanded="false" aria-controls="filter-countries">
+          Filter Countries
+        </button>
+        <div class="collapse" id="filter-countries">
+          <div class="btn-group btn-group-toggle justify-content-center btn-group-vertical" data-toggle="buttons">
+            <label class="btn btn-sm btn-primary active">
+              <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+            </label>
+            {% for label in site.data.settings.profile-country-labels %}
+            <label class="btn btn-sm btn-primary">
+              <input type="radio" name="shuffle-filter" value="{{ label.type }}" />{{ label.title }}
+            </label>
+            {% endfor %}
+          </div>
         </div>
       </div>
     </div>

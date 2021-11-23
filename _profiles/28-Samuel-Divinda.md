@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Samuel Divinda"
-image: "/assets/images/profiles/Samuel-Divinda/Samuel-Divinda.jpg"
+image: "assets/images/profiles/Samuel-Divinda/Samuel-Divinda.jpg"
 country: Uganda
 region: West Nile
 hub: Platform Africa
