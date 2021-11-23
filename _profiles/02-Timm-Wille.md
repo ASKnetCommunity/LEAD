@@ -27,7 +27,6 @@ skills:
   
   [Open Educational Guides to which I contributed significantly](https://openculture.agency/open-educational-resources/) '}
 ---
-{% include skills-section.html %}
 
 # Hello World! You can call me `Timm`
 
