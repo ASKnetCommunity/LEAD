@@ -11,7 +11,7 @@ address: 125/A, CA Commercial Area, California, USA
 copyright: |
  [MIT Licensed](https://github.com/ASKnetCommunity/LEAD/blob/main/LICENSE.txt) by #ASKnet 2021
 
- Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+ Credits for [Jekyll Theme](https://github.com/themefisher/kross-jekyll)
 
 menu:
 - {name: Add Profile, link: '#create-new-profile'}
