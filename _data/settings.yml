@@ -12,7 +12,7 @@ copyright: CC-BY-SA 4.0 2021 Designed by [Themefisher](https://themefisher.com) 
 
 menu:
 - {name: Add Profile, link: '#create-new-profile'}
-- {name: 'back to #ASKnet', link: 'https://www.asknet.community/'}
+- {name: 'About #ASKnet', link: 'https://www.asknet.community/'}
 - {name: View on Github, link: 'https://github.com/ASKnetCommunity/LEAD'}
 
 
