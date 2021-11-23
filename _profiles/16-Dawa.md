@@ -1,8 +1,8 @@
 ---
 layout: profile
 title:  "Dawa Edina Hillary"
-image: assets/images/profiles/placeholder.png
-country: South-Sudan
+image: assets/images/profiles/Dawa-Edina-Hillary/Dawa-Edina-Hillary.jpg
+country: Uganda
 region: 
 hub: 
 github: 
@@ -13,12 +13,6 @@ instagram:
 whatsapp: 
 telegram: 
 website: 
-skills:
-  - {name: Github, color: '#fdb157', value: '90%'}
-  - {name: Logo Design, color: '#9473e6', value: '60%'}
-  - {name: After Effects, color: '#bdecf6', value: '80%'}
-  - {name: Web App, color: '#ffbcaa', value: '70%'}
-
 ---
 
  Hello World!
