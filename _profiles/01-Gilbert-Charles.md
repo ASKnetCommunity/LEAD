@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Gilbert Charles"
-image: assets/images/profiles/gilbert-charles/gilbert.jpg
+image: assets/images/profiles/gilbert-charles/gilbert-cropped.jpg
 country: South-Sudan
 region: 
 hub: Unkown
