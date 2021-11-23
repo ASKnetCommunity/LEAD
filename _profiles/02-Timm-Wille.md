@@ -15,7 +15,7 @@ twitter: timmwille
 facebook: 
 instagram: 
 mastodon: 
-linkedin: https://www.linkedin.com/in/timm-wille-686319105/
+linkedin: timm-wille-686319105
 wikifab: Timm
 skills:
   - {name: Open Source Hardware, number: 1, qualification: '| [Link to my OSE Germany Profile](https://wiki.opensourceecology.de/En:Timm_Wille)
