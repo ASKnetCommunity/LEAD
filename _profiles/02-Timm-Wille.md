@@ -1,26 +1,33 @@
 ---
 layout: profile
 title:  "Timm Wille"
-image: assets/images/profiles/timm-wille/timm.jpg
+image: assets/images/profiles/Timm-Wille/Timm-Wille-2.png
 country: Germany
 region: Berlin
 hub: r0g Agency
 mail: 
 phone: 
 whatsapp: 
-website: 
+website: https://wiki.opensourceecology.de/En:Timm_Wille
 telegram: TimmW
-github: 
-twitter: 
+github: timmwille
+twitter: timmwille
 facebook: 
 instagram: 
 mastodon: 
-wikifab:
+linkedin: https://www.linkedin.com/in/timm-wille-686319105/
+wikifab: Timm
 skills:
-  - {name: Open Source Hardware, qualification: ' link zu OSEG? '}
-  - {name: Repair, qualification: ' link zu Workshops? '}
-  - {name: Community Management, qualification: ' ?? '}
+  - {name: Open Source Hardware, qualification: '| [Link to my OSE Germany Profile](https://wiki.opensourceecology.de/En:Timm_Wille)
+  
+  [The Open Tech Emergency Case to which I contributed significantly ](https://askotec.openculture.agency)'}
+  - {name: Open Tech & Repair, qualification: '[example projects](https://wikifab.org/wiki/Group:ASKnet_Open_Tech)'}
+  - {name: Circular Economy, qualification: '[Interview about Circular Economy](https://greennetproject.org/2019/04/29/timm-wille-eine-kreislaufwirtschaft-funktioniert-nicht-ohne-open-source-loesungen/)'}
+  - {name: Open Knowledge Advisor, qualification: '| [Workshops I conducted at Europe’s largest internet and digital society conference re:publica](https://re-publica.com/en/member/14388)
+  
+  [Open Educational Guides to which I contributed significantly](https://openculture.agency/open-educational-resources/) '}
 ---
+{% include skills-section.html %}
 
 # Hello World! You can call me `Timm`
 
