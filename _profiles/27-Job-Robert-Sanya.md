@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Job Robert Sanya"
-image: "/assets/images/profiles/job-robert-sanya/Job-Robert-Sanya.jpg"
+image: "assets/images/profiles/job-robert-sanya/Job-Robert-Sanya.jpg"
 country: Uganda
 region: West Nile
 hub: Platform Africa
