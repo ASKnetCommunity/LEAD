@@ -2,7 +2,7 @@
 layout: profile
 title:  "Dawa Edina Hillary"
 image: assets/images/profiles/Dawa-Edina-Hillary/Dawa-Edina-Hillary.jpg
-country: South-Sudan
+country: Uganda
 region: 
 hub: 
 github: 
