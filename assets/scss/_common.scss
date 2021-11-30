@@ -1,3 +1,5 @@
+@import "../plugins/fontawesome/fontawesome-icons.css";
+
 body {
   background-color: $body-color;
   overflow-x: hidden;
@@ -281,3 +283,52 @@ textarea.form-control{
   }
 }
 /* /card */
+
+.panel-group .panel{
+  border:none;
+  box-shadow:none;
+  border-radius: 10px;
+  margin-bottom:11px;
+}
+.panel .panel-heading{
+  padding: 0;
+  border-radius:10px;
+  border: none;
+}
+.panel-heading a{
+  color:#fff !important;
+  display: block;
+  border:none;
+  padding:20px 35px 20px;
+  font-size: 20px;
+  background-color:$primary-color;
+  font-weight:600;
+  position: relative;
+  color:#fff;
+  box-shadow:none;
+  transition:all 0.1s ease 0;
+}
+.panel-heading a:after, .panel-heading a.collapsed:after{
+  content: "\f068";
+  font-family: "Font Awesome 5 Free";
+  text-align: center;
+  position: absolute;
+  left:-20px;
+  top: 10px;
+  color:#fff;
+  background-color:$primary-color;
+  border: 5px solid #fff;
+  font-size: 15px;
+  width: 40px;
+  height:40px;
+  line-height: 30px;
+  border-radius: 50%;
+  transition:all 0.3s ease 0s;
+}
+.panel-heading:hover a:after,
+.panel-heading:hover a.collapsed:after{
+  transform:rotate(360deg);
+}
+.panel-heading a.collapsed:after{
+  content: "\f067";
+}

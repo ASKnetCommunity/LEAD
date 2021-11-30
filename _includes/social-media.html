@@ -19,10 +19,13 @@
     <li class="instagram"><a href="https://www.instagram.com/{{ page.instagram }}" target="_blank"><i class="ti-instagram"></i></a></li>
     {% endif %}
     {% if page.whatsapp %}
-    <li class="whatsapp"><a href="https://wa.me/{{ page.whatsapp }}" target="_blank">Whatsapp</a></li>
+    <li class="whatsapp"><a href="https://wa.me/{{ page.whatsapp }}" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
     {% endif %}
     {% if page.telegram %}
-    <li class="telegram"><a href="https://t.me/{{ page.telegram }}" target="_blank">t</a></li>
+    <li class="telegram"><a href="https://t.me/{{ page.telegram }}" target="_blank"><i class="fab fa-telegram-plane"></i></a></li>
+    {% endif %}
+    {% if page.linkedin %}
+    <li class="linkedin"><a href="https://www.linkedin.com/in/{{ page.linkedin }}" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
     {% endif %}
 </ul>
 <!-- /social-media -->

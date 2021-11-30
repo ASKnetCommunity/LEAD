@@ -2,7 +2,7 @@
 <section class="section">
   <div class="container">
     <div class="row mb-5">
-      <div class="col-12">
+      <div class="col-lg-12 d-none d-lg-inline">
         <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
           <label class="btn btn-sm btn-primary active">
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
@@ -14,12 +14,30 @@
           {% endfor %}
         </div>
       </div>
+      <div class="col-12 d-inline d-sm-none">
+        <button class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#filter-countries" aria-expanded="false" aria-controls="filter-countries">
+          Filter regions <span class="pl-2 float-right d-block" style="padding-top:0.1em"><i class="ti-arrow-circle-down"></i></span>
+        </button>
+        <div class="collapse" id="filter-countries">
+          <div class="btn-group btn-group-toggle justify-content-center btn-group-vertical" data-toggle="buttons">
+            <label class="btn btn-sm btn-primary active">
+              <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+            </label>
+            {% for label in site.data.settings.profile-country-labels %}
+            <label class="btn btn-sm btn-primary">
+              <input type="radio" name="shuffle-filter" value="{{ label.type }}" />{{ label.title }}
+            </label>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
     </div>
+
     <div class="row shuffle-wrapper">
       {% for profile in site.profiles %}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{ profile.country }}&quot;]">
         <div class="position-relative rounded hover-wrapper" style="cursor: pointer;">
-          <img src="{{site.baseurl}}/{{ profile.image }}" alt="profile-image" class="img-fluid rounded w-100 d-block">
+          <img src="{{ site.url }}/{{ profile.image }}" alt="profile-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
               <h4 class="text-light">{{ profile.title }}</h4>
@@ -29,7 +47,7 @@
               {% endfor %}
               {% endif %}
               <p class="text-light">Hub: {{ profile.hub }}</p>
-              <a class="btn btn-light btn-sm" href="{{ profile.url | prepend: site.baseurl }}">view profile</a>
+              <a class="btn btn-light btn-sm" href="{{ site.url }}{{  profile.url | prepend: site.baseurl }}">view profile</a>
             </div>
           </div>
         </div>
@@ -38,4 +56,14 @@
     </div>
   </div>
 </section>
+
+<!-- Randomization -->
+<script>
+  var profs = document.querySelector('.shuffle-wrapper');
+  for (var i = profs.children.length; i >= 0; i--) {
+    profs.appendChild(profs.children[Math.random() * i | 0]);
+  }
+</script>
+<!-- END Randomization -->
+
 <!-- /profiles -->

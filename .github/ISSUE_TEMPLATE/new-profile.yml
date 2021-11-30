@@ -222,7 +222,7 @@ body:
     validations:
       required: false
   - type: input
-    id: liknedin
+    id: linkedin
     attributes:
       label: LinkedIn
       placeholder: "URL to your LinkedIn Profile"

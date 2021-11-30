@@ -2,6 +2,7 @@
 css:
   - "/assets/plugins/bootstrap/bootstrap.min.css"
   - "/assets/plugins/themify-icons/themify-icons.css"
+  - "/assets/plugins/fontawesome/fontawesome-icons.css"
   - "/assets/plugins/slick/slick.css"
   - "/assets/plugins/slick/slick-theme.css"
 
