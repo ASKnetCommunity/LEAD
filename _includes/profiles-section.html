@@ -37,7 +37,7 @@
       {% for profile in site.profiles %}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{ profile.country }}&quot;]">
         <div class="position-relative rounded hover-wrapper" style="cursor: pointer;">
-          <img src="{{site.baseurl}}/{{ profile.image }}" alt="profile-image" class="img-fluid rounded w-100 d-block">
+          <img src="{{site.baseurl}}{{ profile.image }}" alt="profile-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
               <h4 class="text-light">{{ profile.title }}</h4>
