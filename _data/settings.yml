@@ -14,8 +14,8 @@ copyright: |
  Credits for [Jekyll Theme](https://github.com/themefisher/kross-jekyll)
 
 menu:
-- {name: Add Profile, link: '#create-new-profile'}
-- {name: 'About #ASKnet', link: 'https://www.asknet.community/'}
+- {name: Add Profile, link: '/index.html#create-new-profile'}
+- {name: 'back to #ASKnet', link: 'https://www.asknet.community/'}
 - {name: View on Github, link: 'https://github.com/ASKnetCommunity/LEAD'}
 
 
