@@ -13,10 +13,10 @@ telegram: +211924658040
 whatsapp: +211924658040
 website:
 skills:
-  - {name: Web, color: '#fdb157', value: '60%'}
-  - {name: Community, color: '#ffbcaa', value: '70%'}
-  - {name: Media and Art, color: '#9473e6', value: '90%'}
-  - {name: Open Source, color: '#ffbcaa', value: '50%'}
+  - {name: Web, number: 1, qualification: ''}
+  - {name: Community, number: 2, qualification: ''}
+  - {name: Media and Art, number: 3, qualification: ''}
+  - {name: Open Source, number: 4, qualification: ''}
 ---
 
 I am trainer in podcasting
@@ -26,5 +26,3 @@ I can use Audacity
 I love open source tools since they are free
 
 I create sounds and podcasts
-
-{% include skills-section.html %}

@@ -14,10 +14,11 @@ whatsapp:
 telegram: 
 website: 
 skills:
-  - {name: Github, color: '#fdb157', value: '90%'}
-  - {name: Logo Design, color: '#9473e6', value: '60%'}
-  - {name: After Effects, color: '#bdecf6', value: '80%'}
-  - {name: Web App, color: '#ffbcaa', value: '70%'}
+  - {name: 'Computer networks and system administration (WLAN and LAN)', number: 1, qualification: ''}
+  - {name: 'Computer repair and maintenance', number: 2, qualification: ''}
+  - {name: 'ICT skills trainings', number: 3, qualification: ''}
+  - {name: 'Fixing of electronic devices', number: 4, qualification: ''}
+  - {name: 'Management skills', number: 5, qualification: ''}
 ---
 
 
@@ -38,12 +39,4 @@ during the training i worked all the night making a portable solar charger which
 I have also been a team leader for the track II training participants under Platform Africa coordinating with the team and Platform Africa. This training was organized by r0g agency and done virtually focused mainly on open documentation and collaboration. 
 During the course of the training, we organized three repair café session. Where we invited community members to bring in their broken or faulty electronic devices including bicycles to be fixed for use. We also invited experts from the different field of repair during the repair café session.
 
-
-### Skills
-
-- Computer networks and system administration(WLAN and LAN)
-- Computer repair and maintenance
-- ICT skills trainings
-- Fixing of electronic devices
-- Management skills
 

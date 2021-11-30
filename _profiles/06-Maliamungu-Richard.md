@@ -16,15 +16,13 @@ telegram: Maliamungu Richard
 website: 
 wikifab: Maliamungu_Richard
 skills:
-  - {name: Web, color: '#fdb157', value: '100%'}
-  - {name: Software, color: '#9473e6', value: '50%'}
-  - {name: Hardware, color: '#bdecf6', value: '100%'}
-  - {name: Community, color: '#ffbcaa', value: '50%'}
-  - {name: Organizational Development, color: '#fdb157', value: '50%'}
-  - {name: Media and Art, color: '#9473e6', value: '25%'}
-  - {name: Data Security, color: '#bdecf6', value: '25%'}
-  - {name: Open Source, color: '#ffbcaa', value: '50%'}
-  - {name: Repair, color: '#fdb157', value: '100%'}
+  - {name: Web, number: 1, qualification: ''}
+  - {name: Software, number: 2, qualification: ''}
+  - {name: Hardware, number: 3, qualification: ''}
+  - {name: Community, number: 4, qualification: ''}
+  - {name: Organizational Development, number: 5, qualification: ''}
+  - {name: Open Source, number: 6, qualification: ''}
+  - {name: Repair, number: 7, qualification: ''}
 ---
 
 Maliamungu Richard is a 23 years, South Sudanese male, living in Eden Rhino camp refugee settlement in Uganda. This is mainly due to the civil war that erupted back in 2016 in the country. This negatively affected my education hence resort to learning by reading Open source books immediately after the introduction of #ASKotec in the 2018 media training in Eden Rhino camp. This pave way for me to participate in number of open tech events through the Hubs and later had a chance to be an Adjuct Trainer for r0g agency in 2020 #ASKnet project.

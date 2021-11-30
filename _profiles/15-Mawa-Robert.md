@@ -13,11 +13,6 @@ instagram:
 whatsapp: 
 telegram: 
 website: 
-skills:
-  - {name: Github, color: '#fdb157', value: '90%'}
-  - {name: Logo Design, color: '#9473e6', value: '60%'}
-  - {name: After Effects, color: '#bdecf6', value: '80%'}
-  - {name: Web App, color: '#ffbcaa', value: '70%'}
 ---
 
 Mawa Robert is my name born on april/01/1996 in yei south sudan
