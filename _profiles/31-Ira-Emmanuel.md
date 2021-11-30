@@ -10,7 +10,7 @@ mail: iraemman@gmail.com
 phone: +256760101383
 whatsapp: +256778813637
 website: 
-telegram: '+256778813637'
+telegram: IraOpigo
 github: Ira13637
 linkedin: ira-emmanuel-547958112
 twitter: Iraemmanuel3
