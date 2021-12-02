@@ -1,0 +1,154 @@
+name: Update Skills
+description: 'actualize an existing profile (Skills, Languages)'
+title: "Update Skills for ..."
+labels: [Profile]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out some informations about you! Great to have you as part of the #ASK network! Your data will be published on the LEAD website. 
+                
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: "Your full name."
+    validations:
+      required: true  
+
+  - type: input
+    id: languages
+    attributes:
+      label: Languages
+      description: "Please state which languages you speak (and at what level)"
+      placeholder: "e.g. English (very good)"
+    validations:
+      required: false
+
+################# Skills #################
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Skills 
+        What are your skills? Please just fill out your four main skills (or less). You can mention more in your profile text below. 
+        
+        Examples: 
+        - **Web** — e.g. research, using platforms, basic social media experience
+        - **Software** — e.g. installing and using different programs, basic coding skills
+        - **Hardware** — e.g. experience with electronic and/or mechanical devices and hardware
+        - **Community** — e.g. community building, connecting people, activism, trauma healing, gender equality awareness
+        - **Organizational Development** — e.g. entrepreneurship, project management, leading associations, financial literacy etc.
+        - **Media & Art** — e.g. audio/video/graphics skills, poetry, music
+        - **Data Security** — e.g. privacy, encryption, protection of personal data
+        - **Open Source** — e.g. git, open source philosophy, open source licenses
+        - **Repair** — e.g. managing repair cafes, skills on how to fix bikes, electronics etc.
+
+  - type: input
+    id: skill1t
+    attributes:
+      label: Skill 1
+      placeholder: "Which skill?"
+      description: 
+    validations:
+      required: false
+
+  - type: textarea
+    id: skill1
+    attributes:
+      label: Qualifications for Skill 1
+      description: |
+        For each skill please enter some qualifications, so others can verify what experience you have. That can be: 
+
+        - a **degree** or a **certificate** (no need to upload, just type what it is)
+        - information about a **prototype / product** you've created (can be a podcast, a video, a device you've built, or some other work you did). You can include links to other websites. 
+        - information about a **workshop / training** you've conducted
+        - a **recommendation** of an #ASKnet member or a former employer
+        - any **other website** where you and your skill is mentioned
+
+    validations:
+      required: false
+
+  - type: input
+    id: skill2t
+    attributes:
+      label: Skill 2
+      placeholder: "Which skill? Leave empty if doesn't apply. "
+    validations:
+      required: false
+
+  - type: textarea
+    id: skill2
+    attributes:
+      label: Qualifications for Skill 2
+      placeholder: leave empty if this doesn't apply to you      
+    validations:
+      required: false
+
+  - type: input
+    id: skill3t
+    attributes:
+      label: Skill 3
+      placeholder: "Which skill? Leave empty if doesn't apply. "
+    validations:
+      required: false
+
+  - type: textarea
+    id: skill3
+    attributes:
+      label: Qualifications for Skill 3
+      placeholder: leave empty if this doesn't apply to you
+    validations:
+      required: false
+
+  - type: input
+    id: skill4t
+    attributes:
+      label: Skill 4
+      placeholder: "Which skill? Leave empty if doesn't apply. "
+    validations:
+      required: false
+
+  - type: textarea
+    id: skill4
+    attributes:
+      label: Qualifications for Skill 4
+      placeholder: leave empty if this doesn't apply to you
+    validations:
+      required: false
+
+################## Contact ###################
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Contact 
+        
+        How and where do you want to be contacted? Fill in your contact details, and leave the fields that you don't use blank. We'd kindly ask to give at least one contact option. 
+        
+        **Please be aware that this information will be publicly visible on the internet! Just fill in those fields that you are okay with to be public.**
+        
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn
+      placeholder: "URL to your LinkedIn Profile"
+    validations:
+      required: false
+  - type: input
+    id: other
+    attributes:
+      label: Other
+      description: "If you prefer another way of being contacted, you can state it here. "
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ### You've made it! 
+
+        Submit your information by pressing "Submit new issue" down below (you may need to scroll a bit further). 
+
+
+
