@@ -2,7 +2,7 @@
 layout: profile
 title:  "Dawa Edina Hillary"
 image: assets/images/profiles/Dawa-Edina-Hillary/Dawa-Edina-Hillary.jpg
-country: South-Sudan
+country: Uganda
 region: 
 hub: 
 github: 
@@ -17,7 +17,7 @@ website:
 
  Hello World!
  
-I am Dawa Edina Hillary a  second time South Sudanese refugee in Uganda, I was brought to Uganda when I was one month old and we went back to South Sudan after a year because my mom was uncomfortable living in the camp so we were staying in South Sudan but deep in the bush around 22KM from the town and 5km from the main road.This time I came alone to the Camp in 2013 at the beginning of the tribal war, I fainted twice because of gunshots so I left South Sudan and ran for my life.
+I am Dawa Edina Hillary a  second time South Sudanese refugee in Uganda, I was brought to Uganda when I was one month old and we went back to South Sudan after a year because my mom was uncomfortable living in the camp so we were staying in South Sudan but deep in the bush around 22KM from the town and 5km from the main road. This time I came alone to the Camp in 2013 at the beginning of the tribal war, I fainted twice because of gunshots so I left South Sudan and ran for my life.
 
  
 

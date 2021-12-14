@@ -13,11 +13,6 @@ instagram: gilbips01
 whatsapp: +256778382228
 telegram: 
 website: 
-skills:
-  - {name: Github, color: '#fdb157', value: '90%'}
-  - {name: Logo Design, color: '#9473e6', value: '60%'}
-  - {name: After Effects, color: '#bdecf6', value: '80%'}
-  - {name: Web App, color: '#ffbcaa', value: '70%'}
 ---
 
 # GILBERT'S STORY
