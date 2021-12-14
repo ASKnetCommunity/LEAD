@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Joyce Akello"
-image: "/assets/images/profiles/Joyce-Akello/joyce-akello.jpg"
+image: "assets/images/profiles/Joyce-Akello/joyce-akello.jpg"
 country: Uganda
 region: Kampala
 hub: "r0g Agency"
