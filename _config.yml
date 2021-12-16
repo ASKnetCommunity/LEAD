@@ -1,3 +1,9 @@
+
+title      : "LEAD"
+description: "Local Expert Action Directory"
+author     : '#ASKnet'
+screenshot: https://raw.githubusercontent.com/ASKnetCommunity/LEAD/development/assets/images/screenshot.jpg
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
