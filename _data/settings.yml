@@ -138,8 +138,8 @@ services:
 # Profile Countries
 profile-country-labels:
 - {
-    title : "South-Sudan",
-    type : "South-Sudan"
+    title : "South Sudan",
+    type : "South Sudan"
   }
 - {
     title : "Uganda",

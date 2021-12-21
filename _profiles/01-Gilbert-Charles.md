@@ -2,7 +2,7 @@
 layout: profile
 title:  "Gilbert Charles"
 image: assets/images/profiles/gilbert-charles/gilbert-cropped.jpg
-country: South-Sudan
+country: South Sudan
 region: 
 hub: Unkown
 github: gibertgibs

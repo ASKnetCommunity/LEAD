@@ -2,7 +2,7 @@
 layout: profile
 title:  "Richard Gama"
 image: assets/images/profiles/richard-gama/richard.jpg
-country: South-Sudan
+country: South Sudan
 region: 
 hub: 
 github: 

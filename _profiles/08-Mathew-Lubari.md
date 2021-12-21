@@ -2,7 +2,7 @@
 layout: profile
 title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
-country: South-Sudan
+country: South Sudan
 region: 
 hub: 
 github: 
