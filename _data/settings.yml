@@ -15,8 +15,8 @@ copyright: |
 
 menu:
 - {name: Add Profile, link: '/index.html#create-new-profile'}
-- {name: 'back to #ASKnet', link: 'https://www.asknet.community/'}
-- {name: View on Github, link: 'https://github.com/ASKnetCommunity/LEAD'}
+- {name: 'back to #ASKnet <i class="ti-new-window"></i>', link: 'https://www.asknet.community/', tab: new}
+- {name: '<i class="ti-github" style="font-size: 20px;"></i>', link: 'https://github.com/ASKnetCommunity/LEAD', tab: new}
 
 
 #-------------------------------
