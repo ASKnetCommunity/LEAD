@@ -35,6 +35,9 @@
 
     <div class="row shuffle-wrapper">
       {% for profile in site.profiles %}
+      {% if profile.country == '' %}
+        {% assign profile.country = 'Unknown' %}
+      {% endif %}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{ profile.country }}&quot;]">
         <div class="position-relative rounded hover-wrapper" style="cursor: pointer;">
           <img src="{{ site.url }}/{{ profile.image }}" alt="profile-image" class="img-fluid rounded w-100 d-block">
