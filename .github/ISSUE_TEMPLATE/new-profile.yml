@@ -31,7 +31,7 @@ body:
       description: "In which country are you active?"
       placeholder: "e.g. South Sudan"
     validations:
-      required: false
+      required: true
       
   - type: input
     id: region
@@ -40,7 +40,7 @@ body:
       description: "In which region are you active? You can add several regions or cities by separating them with commas."
       placeholder: "e.g. Juba, Rhino-Camp, Berlin"
     validations:
-      required: false
+      required: true
 
   - type: input
     id: hub
