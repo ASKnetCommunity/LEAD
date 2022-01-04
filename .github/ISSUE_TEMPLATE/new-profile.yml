@@ -69,15 +69,14 @@ body:
         What are your skills? Please just fill out your four main skills (or less). You can mention more in your profile text below. 
         
         Examples: 
-        - **Web** — e.g. research, using platforms, basic social media experience
-        - **Software** — e.g. installing and using different programs, basic coding skills
-        - **Hardware** — e.g. experience with electronic and/or mechanical devices and hardware
-        - **Community** — e.g. community building, connecting people, activism, trauma healing, gender equality awareness
-        - **Organizational Development** — e.g. entrepreneurship, project management, leading associations, financial literacy etc.
-        - **Media & Art** — e.g. audio/video/graphics skills, poetry, music
-        - **Data Security** — e.g. privacy, encryption, protection of personal data
-        - **Open Source** — e.g. git, open source philosophy, open source licenses
-        - **Repair** — e.g. managing repair cafes, skills on how to fix bikes, electronics etc.
+        - **Web & Software** — e.g. research, using platforms, basic social media experience, installing and using programs, basic coding skills
+        - **Hardware & Repair** — e.g. experience with electronics or mechanical devices, managing repair cafes, how to fix anything
+        - **Community & Moderation** — e.g. connecting people, event facilitation, activism, trauma healing, gender equality awareness, mediation
+        - **Organizational Development** — e.g. entrepreneurship, project management, leading associations, financial literacy
+        - **Media & Art** — e.g. audio/video/graphics skills, poetry, music, podcasts, design, STEAM
+        - **Data Security & Research** — e.g. data analysis, data sovereignty, privacy, encryption, protection of personal data
+        - **Open Source & Knowledge** — e.g. git, open source philosophy, open source licenses, open access, knowledge sharing
+        - **Sustainability** — e.g. SDGs, circular economy, environmental protection, upcycling & recycling
 
   - type: input
     id: skill1t
