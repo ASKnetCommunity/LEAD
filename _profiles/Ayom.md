@@ -3,8 +3,11 @@ layout: profile
 title:  "Ayom Ruei Ayom"
 image: assets/images/profiles/ayom/ayom.jpg
 country: South-Sudan
-region: 
+region: Upper Nile
+languages: English and Dinka
 hub: 
+phone: +211924097008
+whatsapp: +211924097008
 github: 
 mail: 
 twitter: 
@@ -13,6 +16,8 @@ instagram:
 whatsapp: 
 telegram: 
 website: 
+skills:
+  - {name: 'Organizational Development', number: 1, qualification: "Financial Literacy: <br />Both certificate and degree in business administration, specializing in financial management."}
 ---
 
 I'm living in Bor town in an area called Block 3.
