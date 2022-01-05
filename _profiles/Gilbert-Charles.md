@@ -3,7 +3,7 @@ layout: profile
 title:  "Gilbert Charles"
 image: assets/images/profiles/gilbert-charles/gilbert-cropped.jpg
 country: South-Sudan
-region: 
+region: Pagirinya
 hub: Unkown
 github: gibertgibs
 mail: ck.gilbert012@gmail.com
