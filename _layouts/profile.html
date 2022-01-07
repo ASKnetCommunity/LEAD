@@ -2,10 +2,13 @@
 layout: default
 ---
 <section class="section bg-primary position-relative"></section>
-<section class="section">
+<section class="section bg-beige pb-4">
   <div class="container">
+    <div class="row pl-3">
+      <h1 class="mb-5">{{ page.title | escape }}</h1>
+    </div>
     <div class="row">
-      <div class="col-lg-7 col-sm-12">
+      <div class="col-lg-5 col-sm-12">
         {% if page.gallery %}
         <div class="profile-gallery-slider">
             {% for gallery in page.gallery %}
@@ -14,11 +17,10 @@ layout: default
         </div>
         
         {% else %}
-        <img src="{{page.image | relative_url }}" class="img-fluid rounded mr-lg-5 mb-4" alt="{{page.title}}">
+        <img src="{{page.image | relative_url }}" class="img-fluid img-portrait mr-lg-5 mb-4" alt="{{page.title}}">
         {% endif %}
       </div>
-      <div class="col-lg-5 col-sm-12">
-        <h3 class="mb-5">{{ page.title | escape }}</h3>
+      <div class="col-lg-7 col-sm-12">
         {% if page.country %} 
         <h4>Country:</h4>
         <p>{{ page.country }}</p>
@@ -42,14 +44,14 @@ layout: default
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="heading{{ skill.number }}">
                 <h4 class="panel-title">
-                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ skill.number }}" aria-expanded="false" aria-controls="collapse{{ skill.number }}">
+                    <a class="collapsed rounded" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ skill.number }}" aria-expanded="false" aria-controls="collapse{{ skill.number }}">
                       {{ skill.name }}
                         <span> </span>
                     </a>
                 </h4>
             </div>
             <div id="collapse{{ skill.number }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                <div class="panel-body">
+                <div class="panel-body px-2">
                     <p>{{ skill.qualification | markdownify }}</p>
                 </div>
             </div>
@@ -60,6 +62,10 @@ layout: default
         {% include social-media.html %} 
       </div>
     </div>
+  </div>
+</section>
+<section class="section pt-4">
+  <div class="container">
     <div class="row">
       <div class="col-12 mt-4">
         <div class="content fs-3">
@@ -76,7 +82,7 @@ layout: default
 {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
 
 <!-- other profiles -->
-<section class="section">
+<section class="section bg-beige">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
