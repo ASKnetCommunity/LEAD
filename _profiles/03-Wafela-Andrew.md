@@ -3,7 +3,7 @@ layout: profile
 title:  "Wafela Andrew"
 image: assets/images/profiles/wafela-andrew/andrew.jpg
 country: Uganda
-region: 
+region: West Nile
 languages: "English (good), Kiswahili (good), Madi/Lugbara (good), Luganda/Lugisu (good)"
 hub: 
 github: chardso
@@ -11,7 +11,8 @@ mail: wafelaandrew2@gmail.com
 twitter: 
 facebook: wafela.andrew.9
 instagram: 
-whatsapp: 
+phone: "+256785437751"
+whatsapp: "+256785437751"
 telegram: Chadso
 website: 
 skills:
