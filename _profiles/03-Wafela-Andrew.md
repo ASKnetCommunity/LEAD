@@ -4,15 +4,21 @@ title:  "Wafela Andrew"
 image: assets/images/profiles/wafela-andrew/andrew.jpg
 country: Uganda
 region: 
+languages: "English (good), Kiswahili (good), Madi/Lugbara (good), Luganda/Lugisu (good)"
 hub: 
-github: 
-mail: 
+github: chardso
+mail: wafelaandrew2@gmail.com
 twitter: 
-facebook: 
+facebook: wafela.andrew.9
 instagram: 
 whatsapp: 
-telegram: 
+telegram: Chadso
 website: 
+skills:
+  - {name: 'Hardware & Repair', number: 1, qualification: " * Certificate \n * Recommendation by YEF as a service provider" }
+  - {name: SKILL2, number: 2, qualification: 'QUALIFICATION2'}
+  - {name: SKILL3, number: 3, qualification: 'QUALIFICATION3'}
+  - {name: SKILL4, number: 4, qualification: 'QUALIFICATION4'}
 ---
 
     
