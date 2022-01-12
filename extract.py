@@ -8,6 +8,7 @@ from os import listdir
 from os.path import isfile, join
 import yaml
 import csv
+import re
 
 def main():
     prof_path = "./_profiles"
@@ -31,11 +32,15 @@ def main():
         parsed_yaml = yaml.safe_load(''.join(yaml_content))
         if 'skills' in parsed_yaml:
             for skl in parsed_yaml['skills']:
-                parsed_yaml['skill_' + skl['name']] = skl['qualification']
+                name_clean = re.sub(r"[^a-zA-Z0-9]", '', skl['name'])
+                parsed_yaml['skill_' + name_clean] = skl['qualification']
                 parsed_yaml['skills'].remove(skl)
         parsed_profiles.append(parsed_yaml)
     
     # gather all property names
+    # ... manual
+    #prop_names = set(["country","facebook","file","github","hub","image","instagram","languages","layout","linkedin","mail","mastodon","phone","region","skill_CommunityModeration","skill_MediaArt","skill_OrganizationalDevelopment","skill_Sustainability","skill_WebSoftware","skills","telegram","title","twitter","website","whatsapp","wikifab"])
+    # ... all/automatic
     prop_names = set()
     for prfl in parsed_profiles:
         for key in prfl.keys():
