@@ -1,6 +1,6 @@
-name: Add New Profile
-description: Create a new profile
-title: "Create Profile for ..."
+name: Update Skills
+description: 'actualize an existing profile (Skills, Languages)'
+title: "Update Skills for ..."
 labels: [Profile]
 body:
   - type: markdown
@@ -15,41 +15,6 @@ body:
       description: "Your full name."
     validations:
       required: true  
-
-  - type: textarea
-    id: profile-image
-    attributes:
-      label: Profile Image
-      description: You can upload an image for your profile by dragging & dropping into this textarea or clicking on the bottom of this textarea and select your image. 
-    validations:
-      required: true
-
-  - type: input
-    id: country
-    attributes:
-      label: Country
-      description: "In which country are you active?"
-      placeholder: "e.g. South Sudan"
-    validations:
-      required: true
-      
-  - type: input
-    id: region
-    attributes:
-      label: Region
-      description: "In which region are you active? You can add several regions or cities by separating them with commas."
-      placeholder: "e.g. Juba, Rhino-Camp, Berlin"
-    validations:
-      required: true
-
-  - type: input
-    id: hub
-    attributes:
-      label: Organisation
-      description: "If you are active in an organisation/hub, you can indicate here in which."
-      placeholder: "Organisation/Hub Name"
-    validations:
-      required: false
 
   - type: input
     id: languages
@@ -151,20 +116,6 @@ body:
     validations:
       required: false
 
-
-  - type: markdown
-    attributes:
-      value: |
-        ## Profile Text 
-
-  - type: textarea
-    id: description
-    attributes:
-      label: "describe yourself"
-      description: Tell others about yourself, your story, your expertise in some short sentences or some paragraphs.
-    validations:
-      required: true
-
 ################## Contact ###################
 
   - type: markdown
@@ -177,89 +128,10 @@ body:
         **Please be aware that this information will be publicly visible on the internet! Just fill in those fields that you are okay with to be public.**
         
   - type: input
-    id: email
-    attributes:
-      label: E-Mail
-      placeholder: "your E-Mail address"
-    validations:
-      required: false
-  - type: input
-    id: tel
-    attributes:
-      label: Phone
-      description: "**Important: If you input your phone number, it will be visible on your LEAD profile and therefore for everyone on the internet! Just enter your number if you are okay with that,** otherwise leave the field empty."
-      placeholder: "your phone number, e.g. +254 12 345 6789"
-    validations:
-      required: false
-  - type: input
-    id: whatsapp
-    attributes:
-      label: WhatsApp
-      description: "**Important: If you input your phone number, it will be visible on your LEAD profile and therefore for everyone on the internet! Just enter your number if you are okay with that,** otherwise leave the field empty."
-      placeholder: "your whatsapp phone number, e.g. +254 12 345 6789"
-    validations:
-      required: false
-  - type: input
-    id: website
-    attributes:
-      label: Website
-      placeholder: "your homepage, e.g. https://www.yourwebsite.com"
-    validations:
-      required: false
-  - type: input
-    id: telegram
-    attributes:
-      label: Telegram
-      placeholder: "your telegram username"
-    validations:
-      required: false
-  - type: input
-    id: github
-    attributes:
-      label: GitHub
-      placeholder: "your github username"
-    validations:
-      required: false
-  - type: input
     id: linkedin
     attributes:
       label: LinkedIn
       placeholder: "URL to your LinkedIn Profile"
-    validations:
-      required: false
-  - type: input
-    id: twitter
-    attributes:
-      label: Twitter
-      placeholder: "your twitter username"
-    validations:
-      required: false
-  - type: input
-    id: facebook
-    attributes:
-      label: Facebook
-      placeholder: "your facebook username"
-    validations:
-      required: false
-  - type: input
-    id: instagram
-    attributes:
-      label: Instagram
-      placeholder: "your instagram username"
-    validations:
-      required: false
-  - type: input
-    id: mastodon
-    attributes:
-      label: Mastodon
-      placeholder: "your mastodon profile link"
-    validations:
-      required: false
-  - type: input
-    id: wikifab
-    attributes:
-      label: WikiFab
-      placeholder: "your wikifab username"
     validations:
       required: false
   - type: input
@@ -275,7 +147,7 @@ body:
       value: |
         ### You've made it! 
 
-        Submit your profile by pressing "Submit new issue" down below (you may need to scroll a bit further). 
+        Submit your information by pressing "Submit new issue" down below (you may need to scroll a bit further). 
 
 
 
