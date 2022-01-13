@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Vuga William"
-image: "/assets/images/profiles/vuga-william/vuga-william.jpg"
+image: "assets/images/profiles/vuga-william/vuga-william.jpg"
 country: Uganda
 region: Pagriniya Refugee Settlement
 hub: The Youth Empowerment Foundation (YEF)
