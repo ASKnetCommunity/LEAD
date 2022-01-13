@@ -2,15 +2,17 @@
 layout: profile
 title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
-country: South-Sudan
+country: South Sudan
 region: 
 hub: 
+languages: "English (fluent both written and spoken), Arabic (Good both written and spoken), Kakwa (Native)"
 github: 
-mail: 
-twitter: 
-facebook: 
-instagram: 
+mail: mathewlubari2@gmail.com
+twitter: mathduckson
+facebook: mathew.dukson
+instagram: mathewdukson
 whatsapp: 
+linkedin: mathew-lubari-18468a102
 telegram: 
 website: 
 ---
