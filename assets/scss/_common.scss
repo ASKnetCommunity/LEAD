@@ -59,7 +59,7 @@ a.text-dark{
 }
 
 a {
-  color: $primary-color;
+  color: #A46131;
 }
 
 a:hover {
@@ -216,6 +216,8 @@ a:hover {
   border-radius: 0.45rem !important;
   border: 1px $primary-color solid;
   box-shadow: 0px 0px 20px -5px $primary-color;
+  max-width: 100%;
+  max-height: 530px;
 }
 
 /* icon */
@@ -298,6 +300,7 @@ textarea.form-control{
   box-shadow:none;
   border-radius: 10px;
   margin-bottom:11px;
+  background-color: $white;
 }
 
 .panel .panel-heading{
@@ -321,7 +324,7 @@ textarea.form-control{
 }
 
 .panel-heading a:after, .panel-heading a.collapsed:after{
-  content: "\f068";
+  content: "\f00d";
   font-family: "Font Awesome 5 Free";
   text-align: center;
   position: absolute;
@@ -351,4 +354,10 @@ textarea.form-control{
   border-radius: .25rem;
   max-width: 100%;
   max-height: 300px;
+}
+
+.panel-body {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 1px;
 }
