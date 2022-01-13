@@ -18,8 +18,13 @@
           <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
         </li>
         {% for link in site.data.settings.menu %}
+          {% if link.tab == 'new' %}
+            {% assign target = '_blank' %}
+          {% else %}
+            {% assign target = '_self' %}
+          {% endif %}  
           <li class="nav-item {{ class }}">
-            <a class="nav-link" href="{{ link.link }}">{{ link.name }}</a>
+            <a class="nav-link" href="{{ link.link }}" target="{{ target }}">{{ link.name }}</a>
           </li>
         {% endfor %}
       </ul>

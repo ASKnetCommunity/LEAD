@@ -2,8 +2,8 @@
 layout: profile
 title:  "Gilbert Charles"
 image: assets/images/profiles/gilbert-charles/gilbert-cropped.jpg
-country: South Sudan
-region: 
+country: South-Sudan
+region: 'Adjumani, Pagirinya Refugee Settlement'
 hub: Unkown
 github: gibertgibs
 mail: ck.gilbert012@gmail.com
@@ -30,32 +30,32 @@ Education wise, I started my primary education from Robidire Refugee Settlement 
 ![]({{ site.baseurl }}/assets/images/profiles/gilbert-charles/gilbert-4.jpg)
 
 However, the most interesting part of me that most people don't know and don't realize is that I'm so sensitive to matters that concern me and my communities of intervention of the organization I have moved with. But still all in all, I want the world to know that; 
-- **We are in a world**
-- **Where the poor**
-- **hate the poor**
-- **Where the rich**
-- **hate the poor**
-- **Where the poor**
-- **exploit the poor**
-- **Where the rich**
-- **exploit the poor**
-- **Where the poor**
-- **get only poorer**
-- **for the rich**
-- **to be richer**
-- **Where the world**
-- **oppress the poor**
-- **and the poor**
-- **oppress the soil**
-- **where the poor blood**
-- **count more than his sweat**
-- **Where the poor**
-- **would trade with a caged bird**
-- **Where the poor**
-- **is enslaved generation wise**
-- **Where a poor**
-- **meet his waterloo**
-- **for a big dream.**
+- We are in a world
+- Where the poor
+- hate the poor
+- Where the rich
+- hate the poor
+- Where the poor
+- exploit the poor
+- Where the rich
+- exploit the poor
+- Where the poor
+- get only poorer
+- for the rich
+- to be richer
+- Where the world
+- oppress the poor
+- and the poor
+- oppress the soil
+- where the poor blood
+- count more than his sweat
+- Where the poor
+- would trade with a caged bird
+- Where the poor
+- is enslaved generation wise
+- Where a poor
+- meet his waterloo
+- for a big dream.
 
 This is what I see in my world, So let's not back from empowering the vulnerable communities, for they need alot of support from us. Thanks.
 
