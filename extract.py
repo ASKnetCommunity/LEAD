@@ -40,11 +40,12 @@ def main():
     # gather all property names
     # ... manual
     #prop_names = set(["country","facebook","file","github","hub","image","instagram","languages","layout","linkedin","mail","mastodon","phone","region","skill_CommunityModeration","skill_MediaArt","skill_OrganizationalDevelopment","skill_Sustainability","skill_WebSoftware","skills","telegram","title","twitter","website","whatsapp","wikifab"])
+    prop_names = set(["title","country","region","skill_CommunityModeration","skill_MediaArt","skill_OrganizationalDevelopment","skill_Sustainability","skill_WebSoftware","skills"])
     # ... all/automatic
-    prop_names = set()
-    for prfl in parsed_profiles:
-        for key in prfl.keys():
-            prop_names.add(key)
+    #prop_names = set()
+    # for prfl in parsed_profiles:
+    #     for key in prfl.keys():
+    #         prop_names.add(key)
     prop_names = list(prop_names)
     prop_names.sort()
 
