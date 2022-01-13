@@ -299,11 +299,13 @@ textarea.form-control{
   border-radius: 10px;
   margin-bottom:11px;
 }
+
 .panel .panel-heading{
   padding: 0;
   border-radius:10px;
   border: none;
 }
+
 .panel-heading a{
   color:#fff !important;
   display: block;
@@ -317,6 +319,7 @@ textarea.form-control{
   box-shadow:none;
   transition:all 0.1s ease 0;
 }
+
 .panel-heading a:after, .panel-heading a.collapsed:after{
   content: "\f068";
   font-family: "Font Awesome 5 Free";
@@ -334,10 +337,18 @@ textarea.form-control{
   border-radius: 50%;
   transition:all 0.3s ease 0s;
 }
+
 .panel-heading:hover a:after,
 .panel-heading:hover a.collapsed:after{
   transform:rotate(180deg);
 }
+
 .panel-heading a.collapsed:after{
   content: "\f067";
+}
+
+.panel-collapse img {
+  border-radius: .25rem;
+  max-width: 100%;
+  max-height: 300px;
 }
