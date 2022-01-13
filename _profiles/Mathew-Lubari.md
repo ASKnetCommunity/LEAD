@@ -35,4 +35,4 @@ One of it was the ASKNet training which was funded by r0g agency in 2018 where i
 I have also been a team leader for the track II training participants under Platform Africa coordinating with the team and Platform Africa. This training was organized by r0g agency and done virtually focused mainly on open documentation and collaboration. 
 During the course of the training, we organized three repair café session. Where we invited community members to bring in their broken or faulty electronic devices including bicycles to be fixed for use. We also invited experts from the different field of repair during the repair café session.
 
-
+You can hear about me and my projects in [this podcast episode I did together with the "Restart Project"](https://therestartproject.org/podcast/refugee-repair/). 
