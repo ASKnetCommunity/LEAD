@@ -1,30 +1,28 @@
-country,region,skill_CommunityModeration,skill_MediaArt,skill_OrganizationalDevelopment,skill_Sustainability,skill_WebSoftware,skills,title
-South Sudan,Juba,,,,,,,Antoneta Keji Lodu
-Uganda,Kampala,,pursuing a bachelor's degree in journalism and Communication. Actively participated in #ASKnet media literacy trainings,,,"Knowledgeable in the use of platforms like github, wikifab for online team work and co-creation","[{'name': 'Community & Moderation', 'number': 2, 'qualification': 'Co-Trainer in capacity building, #ASKnet'}]",Joyce Akello
-Uganda,West Nile,,,,,,,Amin John
-Uganda,Rhino Camp,,,,,,,Maliamungu Richard
-Uganda,Pagriniya Refugee Settlement,,"I have been working with Kapital Movie Industry for quit years, where i have learn a lot and am knowledgeable enough to used this tools and the software. 
- 
- ![film shooting](/assets/images/profiles/vuga-william/vuga1.JPG) ",,,,"[{'name': 'Hardware & Repair', 'number': 2, 'qualification': 'Developing Open Technology Skills and imparting Community Information \n \n #ASKnet (Access to skills and Knowledge Network), i received Certificate of completion of the training Program on developing open technology skills and imparting community information \n \n ![repair workshop](/assets/images/profiles/vuga-william/vuga2.jpg) '}]",Vuga William
-Uganda,"Pagirinya Refugee settlement, Adjumani",,,Bachelors Degree in Business Administration - Accounting,,,[],Ira Emmanuel
-Unknown,,,,,,,,Yine Yenki
-South Sudan,Unknown,,,,,,,Mawa Robert
-Uganda,West Nile,,,,,,,Arkangelo Lemi
-Unknown,,,,,,,,Romeo Lomora Ronald
-Unknown,,,,,,,,Baby Omer
-South Sudan,,,,,,,,Mathew Lubari
-Unknown,,,,,,,,Yine Beatrice Jale
-Uganda,"Adjumani, Pagirinya Refugee Settlement",,,,,"Successfully completed the courses ""[Python for Beginners](../../assets/images/profiles/Dut-Andrew-Kulang/Python-for-Beginners.jpg)"" and ""[Coding for Marketers](../../assets/images/profiles/Dut-Andrew-Kulang/coding-for-marketers.jpg)"" on sololearn<br />Successfully completed the course ""[Web Design](../../assets/images/profiles/Dut-Andrew-Kulang/html.jpg)"" on sololearn","[{'name': 'Open Source & Knowledge', 'number': 2, 'qualification': 'Experience using Git, Github, Linux'}]",Dut Andrew Kulang
-Uganda,West Nile,,,,,,,Job Robert Sanya
-Unknown,,,,,,,,Eva Yayi
-South Sudan,Juba,,,,,,,Iklas Martin
-Unknown,,,,,,,,Nunas Eluzai
-Germany,Berlin,"Active Member and Community Manager of ""Open Source Ecology Germany""<br /> [Link to my OSE Germany Profile](https://wiki.opensourceecology.de/En:Timm_Wille)<br />[The Open Tech Emergency Case to which I contributed significantly](https://askotec.openculture.agency)",,,Open Source Circular Economy: [Interview about Circular Economy](https://greennetproject.org/2019/04/29/timm-wille-eine-kreislaufwirtschaft-funktioniert-nicht-ohne-open-source-loesungen/),,"[{'name': 'Hardware & Repair', 'number': 2, 'qualification': 'Leading Community Repair Cafés and working on Open Source Hardware <br />[Example Projects](https://wikifab.org/wiki/Group:ASKnet_Open_Tech)'}, {'name': 'Open Source & Knowledge', 'number': 4, 'qualification': 'Open Source & Open Tech Advisor: <br />[Workshops I conducted at Europe’s largest internet and digital society conference re:publica](https://re-publica.com/en/member/14388)<br />[Open Educational Guides to which I contributed significantly](https://openculture.agency/open-educational-resources/) '}]",Timm Wille
-Unknown,,,,,,,,Sunday Guido Elisa
-Uganda,West Nile,,,,,,,Samuel Divinda
-South Sudan,Upper Nile,,,"Financial Literacy: <br />Both certificate and degree in business administration, specializing in financial management.",,,[],Ayom Ruei Ayom
-Uganda,West Nile,,,,,,[],Wafela Andrew
-Uganda,,,,,,,,Dawa Edina Hillary
-South Sudan,"Adjumani, Pagirinya Refugee Settlement",,,,,,,Gilbert Charles
-South Sudan,,,,,,,,Richard Gama
-Unknown,,,,,,,,Yaro Manyang Mawel
+country,region,skill_1,skill_2,skill_3,skill_4,title
+Unknown,,,,,,Romeo Lomora Ronald
+Unknown,,,,,,Nunas Eluzai
+Unknown,,,,,,Yaro Manyang Mawel
+Uganda,West Nile,Hardware & Repair,,,,Wafela Andrew
+Unknown,,,,,,Yine Beatrice Jale
+South Sudan,,,,,,Mathew Lubari
+South Sudan,,,,,,Richard Gama
+Uganda,Pagriniya Refugee Settlement,Media & Art,Hardware & Repair,,,Vuga William
+Uganda,"Pagirinya Refugee settlement, Adjumani",Organizational Development,,,,Ira Emmanuel
+Uganda,,,,,,Dawa Edina Hillary
+Unknown,,,,,,Baby Omer
+South Sudan,Unknown,,,,,Mawa Robert
+Uganda,West Nile,,,,,Job Robert Sanya
+Uganda,West Nile,,,,,Arkangelo Lemi
+Uganda,"Adjumani, Pagirinya Refugee Settlement",Web & Software,Open Source & Knowledge,,,Dut Andrew Kulang
+Unknown,,,,,,Eva Yayi
+Unknown,,,,,,Sunday Guido Elisa
+South Sudan,Juba,,,,,Iklas Martin
+Germany,Berlin,Community & Moderation,Hardware & Repair,Sustainability,Open Source & Knowledge,Timm Wille
+South Sudan,Juba,,,,,Antoneta Keji Lodu
+Uganda,West Nile,,,,,Samuel Divinda
+South Sudan,"Adjumani, Pagirinya Refugee Settlement",,,,,Gilbert Charles
+Uganda,Kampala,Media & Art,Community & Moderation,Web & Software,,Joyce Akello
+South Sudan,Upper Nile,Organizational Development,,,,Ayom Ruei Ayom
+Unknown,,,,,,Yine Yenki
+Uganda,West Nile,,,,,Amin John
+Uganda,Rhino Camp,,,,,Maliamungu Richard
