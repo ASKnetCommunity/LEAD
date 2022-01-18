@@ -3,7 +3,7 @@ layout: profile
 title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
 country: South Sudan
-region: 
+region: Rhino Camp
 hub: 
 languages: "English (fluent both written and spoken), Arabic (Good both written and spoken), Kakwa (Native)"
 github: 
@@ -15,6 +15,41 @@ whatsapp:
 linkedin: mathew-lubari-18468a102
 telegram: 
 website: 
+skills:
+  - {name: Hardware & Repair, number: 1, qualification: "
+    * Diploma in Information Technology \n
+    * Certificate in Computer science \n
+    * Troubleshooting, fixing and maintenance of electronics (computers, mobile phones, solar lanterns etc.) \n
+    * Deployment, Installation, using, updating and maintenance. \n
+    * Management of repair cafe's \n
+    * Installation, administration and maintenance of Networks(LAN and WLAN) systems \n
+    * Building of solar charger \n
+    * Trainings
+"}
+  - {name: Web & Software, number: 2, qualification: "
+    * Research, \n
+    * Using and management of online platforms, \n
+    * Social media experience, \n
+    * Installing, using, updating and maintenance of programs, \n
+    * Networks and system administration \n
+    * Instructing and Training
+"}
+  - {name: Sustainability, number: 3, qualification: "
+    * SDGs, \n
+    * Advocate for environmental protection through repair and reuse, \n
+    * Member of the restarter at the Restart Project a London based Non-profit Organization advocating for repair and reuse \n
+    * Nominee and beneficiary of the Shuttleworth Foundation flash grants \n
+    * Winner of the EU: Africa the Journey Job security and financial services category award
+"}
+  - {name: Organizational Development, number: 4, qualification: "
+    * Planning, \n
+    * Project management \n
+    * Leading teams, \n
+    * Organizing meetings \n
+    * Financial literacy, \n
+    * Entrepreneurship \n
+    * Reporting
+"}
 ---
 
 
