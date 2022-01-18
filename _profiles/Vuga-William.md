@@ -3,7 +3,7 @@ layout: profile
 title:  "Vuga William"
 image: "assets/images/profiles/vuga-william/vuga-william.jpg"
 country: Uganda
-region: Pagriniya Refugee Settlement
+region: Adjumani, Pagirinya Refugee Settlement
 hub: The Youth Empowerment Foundation (YEF)
 languages: "English, Juba Arabic and Mad'i"
 mail: vugawilly@gmail.com
