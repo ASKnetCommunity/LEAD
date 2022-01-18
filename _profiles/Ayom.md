@@ -4,7 +4,7 @@ title:  "Ayom Ruei Ayom"
 image: assets/images/profiles/ayom/ayom.jpg
 country: South-Sudan
 region: Upper Nile
-languages: English and Dinka
+languages: English, Arabic and Dinka
 hub: 
 phone: +211924097008
 whatsapp: +211924097008
