@@ -4,6 +4,7 @@ title:  "Maliamungu Richard"
 image: assets/images/profiles/maliamungu-richard/Maliamungu-2.jpg
 country: Uganda
 region: Rhino Camp
+languages: English, Arabic, Kakwa, Pojulu, Kiswahili
 hub: Platform Africa
 github: maliarich
 mail: maliarich5@gmail.com
@@ -12,7 +13,9 @@ twitter: MaliamunguRich4
 facebook: malyesto.rojo
 instagram: maliamungurichard
 whatsapp: +256775891582
-telegram: Maliamungu Richard
+telegram: Malia6066
+linkedin: maliamungu-richard-5b14b114b
+github: maliarich
 website: 
 wikifab: Maliamungu_Richard
 ---
