@@ -7,8 +7,8 @@ region: Adjumani, Pagirinya Refugee Settlement
 hub: YEF Youth Empowerment Foundation
 languages: "English, Ma'di"
 mail: iraemman@gmail.com
-phone: +256760101383
-whatsapp: +256778813637
+phone: "+256760101383"
+whatsapp: "+256778813637"
 website: 
 telegram: IraOpigo
 github: Ira13637

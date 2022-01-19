@@ -8,11 +8,11 @@ languages: English, Arabic, Kakwa, Pojulu, Kiswahili
 hub: Platform Africa
 github: maliarich
 mail: maliarich5@gmail.com
-phone: +256775891582
+phone: "+256775891582"
 twitter: MaliamunguRich4
 facebook: malyesto.rojo
 instagram: maliamungurichard
-whatsapp: +256775891582
+whatsapp: "+256775891582"
 telegram: Malia6066
 linkedin: maliamungu-richard-5b14b114b
 github: maliarich

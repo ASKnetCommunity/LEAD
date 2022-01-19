@@ -6,10 +6,10 @@ country: Uganda
 region: West Nile
 hub: Platform Africa
 mail: lemiarkangelo@gmail.com
-phone: +256777144959
-whatsapp: +256777144959
+phone: "+256777144959"
+whatsapp: "+256777144959"
 website: 
-telegram: +256777144959
+telegram: "+256777144959"
 github: 
 twitter: 
 facebook: profile.php?id=100071179394749

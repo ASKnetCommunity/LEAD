@@ -6,8 +6,8 @@ country: Uganda
 region: West Nile
 hub: Platform Africa
 mail: samueldivinda12@gmail.com
-phone: +256704104648
-whatsapp: +256704104648
+phone: "+256704104648"
+whatsapp: "+256704104648"
 website: 
 telegram: SammyDivindaCb
 github: 

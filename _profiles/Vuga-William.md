@@ -7,8 +7,8 @@ region: Adjumani, Pagirinya Refugee Settlement
 hub: The Youth Empowerment Foundation (YEF)
 languages: "English, Juba Arabic and Mad'i"
 mail: vugawilly@gmail.com
-phone: +256784164470
-whatsapp: +256784164470
+phone: "+256784164470"
+whatsapp: "+256784164470"
 website: 
 telegram: vugawilly
 github: vugawilliam
