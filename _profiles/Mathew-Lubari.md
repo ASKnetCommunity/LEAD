@@ -42,20 +42,20 @@ skills:
     * Winner of the EU: Africa the Journey Job security and financial services category award
 "}
   - {name: Organizational Development, number: 4, qualification: "I have over 3 years experience in the following areas: \n \n
-    * Project management:  \n
-      * Plan, Develop, manage project budget and allocation of resources, \n
-      * Identifying and managing potential risks and liabilities of multiple projects, \n
-      * Assisting in the definition of project scope and goals \n
-      * Performing quality control on the project throughout development to maintain the standards expected \n
-      * Adjusting schedules and targets on the project as needed \n
-      * Motivating staff involved in the project to complete tasks on time \n
-      * Write and report project activities \n
-    * Team work: effectively lead and manage team members \n
-    * Organizing meetings: Able to efficiently and effectively plan, organize and conduct meetings. \n
-    * Trainings: Able to develop content and Conduct trainings \n
-    * Financial literacy: Ability to develop, prepare, control, manage and report. \n
-    * Monitoring and evaluation: I have the ability to Monitor, Conduct project review and report on project implementation. \n
-    * Entrepreneurship: able to create and implement, manage business ideas \n
+* Project management:  \n 
+  Plan, Develop, manage project budget and allocation of resources, \n <br />
+  Identifying and managing potential risks and liabilities of multiple projects, \n <br />
+  Assisting in the definition of project scope and goals \n <br />
+  Performing quality control on the project throughout development to maintain the standards expected \n <br />
+  Adjusting schedules and targets on the project as needed \n <br />
+  Motivating staff involved in the project to complete tasks on time \n <br />
+  Write and report project activities \n
+* Team work: effectively lead and manage team members \n
+* Organizing meetings: Able to efficiently and effectively plan, organize and conduct meetings. \n
+* Trainings: Able to develop content and Conduct trainings \n
+* Financial literacy: Ability to develop, prepare, control, manage and report. \n
+* Monitoring and evaluation: I have the ability to Monitor, Conduct project review and report on project implementation. \n
+* Entrepreneurship: able to create and implement, manage business ideas \n
 "}
 ---
 
