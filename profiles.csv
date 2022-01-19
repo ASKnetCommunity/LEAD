@@ -1,28 +1,28 @@
-country,region,skill_1,skill_2,skill_3,skill_4,title
-South Sudan,Juba,,,,,Antoneta Keji Lodu
-Uganda,Kampala,Media & Art,Community & Moderation,Web & Software,,Joyce Akello
-Uganda,West Nile,,,,,Amin John
-Uganda,Rhino Camp,,,,,Maliamungu Richard
-Uganda,Pagriniya Refugee Settlement,Media & Art,Hardware & Repair,,,Vuga William
-Uganda,"Pagirinya Refugee settlement, Adjumani",Organizational Development,,,,Ira Emmanuel
-Unknown,,,,,,Yine Yenki
-South Sudan,Unknown,,,,,Mawa Robert
-Uganda,West Nile,,,,,Arkangelo Lemi
-Unknown,,,,,,Romeo Lomora Ronald
-Unknown,,,,,,Baby Omer
-South Sudan,,,,,,Mathew Lubari
-Unknown,,,,,,Yine Beatrice Jale
-Uganda,"Adjumani, Pagirinya Refugee Settlement",Web & Software,Open Source & Knowledge,,,Dut Andrew Kulang
-Uganda,West Nile,,,,,Job Robert Sanya
-Unknown,,,,,,Eva Yayi
-South Sudan,Juba,,,,,Iklas Martin
-Unknown,,,,,,Nunas Eluzai
-Germany,Berlin,Community & Moderation,Hardware & Repair,Sustainability,Open Source & Knowledge,Timm Wille
-Unknown,,,,,,Sunday Guido Elisa
-Uganda,West Nile,,,,,Samuel Divinda
-South Sudan,Upper Nile,Organizational Development,,,,Ayom Ruei Ayom
-Uganda,West Nile,Hardware & Repair,,,,Wafela Andrew
-Uganda,,,,,,Dawa Edina Hillary
-South Sudan,"Adjumani, Pagirinya Refugee Settlement",,,,,Gilbert Charles
-South Sudan,,,,,,Richard Gama
-Unknown,,,,,,Yaro Manyang Mawel
+title,country,region,skill_1,skill_2,skill_3,skill_4
+Antoneta Keji Lodu,South Sudan,Juba,,,,
+Joyce Akello,Uganda,Kampala,Media & Art,Community & Moderation,Web & Software,
+Amin John,Uganda,West Nile,,,,
+Maliamungu Richard,Uganda,Rhino Camp,,,,
+Vuga William,Uganda,Pagriniya Refugee Settlement,Media & Art,Hardware & Repair,,
+Ira Emmanuel,Uganda,"Pagirinya Refugee settlement, Adjumani",Organizational Development,,,
+Yine Yenki,Unknown,,,,,
+Mawa Robert,South Sudan,Unknown,,,,
+Arkangelo Lemi,Uganda,West Nile,,,,
+Romeo Lomora Ronald,Unknown,,,,,
+Baby Omer,Unknown,,,,,
+Mathew Lubari,South Sudan,,,,,
+Yine Beatrice Jale,Unknown,,,,,
+Dut Andrew Kulang,Uganda,"Adjumani, Pagirinya Refugee Settlement",Web & Software,Open Source & Knowledge,,
+Job Robert Sanya,Uganda,West Nile,,,,
+Eva Yayi,Unknown,,,,,
+Iklas Martin,South Sudan,Juba,,,,
+Nunas Eluzai,Unknown,,,,,
+Timm Wille,Germany,Berlin,Community & Moderation,Hardware & Repair,Sustainability,Open Source & Knowledge
+Sunday Guido Elisa,Unknown,,,,,
+Samuel Divinda,Uganda,West Nile,,,,
+Ayom Ruei Ayom,South Sudan,Upper Nile,Organizational Development,,,
+Wafela Andrew,Uganda,West Nile,Hardware & Repair,,,
+Dawa Edina Hillary,Uganda,,,,,
+Gilbert Charles,South Sudan,"Adjumani, Pagirinya Refugee Settlement",,,,
+Richard Gama,South Sudan,,,,,
+Yaro Manyang Mawel,Unknown,,,,,

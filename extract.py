@@ -78,6 +78,8 @@ def main():
     #         prop_names.add(key)
     prop_names = list(prop_names)
     prop_names.sort()
+    prop_names.insert(0, prop_names[6])
+    prop_names.pop(7)
 
     write_csv(parsed_profiles, prop_names)
 
