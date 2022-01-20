@@ -4,13 +4,13 @@ title:  "Iklas Martin"
 image: assets/images/profiles/Iklas-Martin/Iklas-Martin.jpg
 country: South Sudan
 region: Juba
-hub: GoGirlsICT Initaitive
+hub: GoGirlsICT
 github:
 mail:
 facebook: 
 instagram: 
-telegram: +211916139905
-whatsapp: +211916139905
+telegram: "+211916139905"
+whatsapp: "+211916139905"
 website:
 ---
 

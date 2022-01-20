@@ -4,13 +4,13 @@ title:  "Antoneta Keji Lodu"
 image: assets/images/profiles/Antoneta-Keji-Lodu/Antoneta-Keji-Lodu.jpg
 country: South Sudan
 region: Juba
-hub: GoGirlsICT Initaitive
+hub: GoGirlsICT
 github:
 mail:
 facebook: anthoneta.keji
 instagram: anthonetakeji
-telegram: +211924658040
-whatsapp: +211924658040
+telegram: "+211924658040"
+whatsapp: "+211924658040"
 website:
 ---
 
