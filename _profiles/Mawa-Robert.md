@@ -2,7 +2,7 @@
 layout: profile
 title:  "Mawa Robert"
 image: assets/images/profiles/placeholder.png
-country: South-Sudan
+country: South Sudan
 region: Unknown
 hub: 
 github: 

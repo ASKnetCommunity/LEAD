@@ -5,7 +5,7 @@ layout: default
 <section class="section bg-beige pb-4">
   <div class="container">
     <div class="row pl-3">
-      <h1 class="mb-5">{{ page.title | escape }}</h1>
+      <h1 class="mb-4">{{ page.title | escape }}</h1>
     </div>
     <div class="row">
       <div class="col-lg-5 col-sm-12">
@@ -41,7 +41,7 @@ layout: default
         <div class="panel-group" style="clear:both; margin-top:20px;" id="accordion" role="tablist" aria-multiselectable="true">
           <h4>Skills:</h4>
           {% for skill in page.skills %}
-          <div class="panel panel-default">
+          <div class="panel panel-default rounded">
             <div class="panel-heading" role="tab" id="heading{{ skill.number }}">
                 <h4 class="panel-title">
                     <a class="collapsed rounded" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ skill.number }}" aria-expanded="false" aria-controls="collapse{{ skill.number }}">
@@ -51,7 +51,7 @@ layout: default
                 </h4>
             </div>
             <div id="collapse{{ skill.number }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                <div class="panel-body px-2">
+                <div class="panel-body">
                     <p>{{ skill.qualification | markdownify }}</p>
                 </div>
             </div>
