@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
+
 '''
 Converts the YAML FrontMatter (meta-data) from the `_profile/*.md` files
 into a single CSV table, and writes it to `profiles.csv`.
 '''
+
 
 # SPDX-FileCopyrightText: 2022 Robin Vobruba <hoijui.quaero@gmail.com>
 #

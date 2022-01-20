@@ -3,7 +3,7 @@ layout: profile
 title:  "Ira Emmanuel"
 image: "assets/images/profiles/ira-emmanuel/ira-emmanuel.jpg"
 country: Uganda
-region: Pagirinya Refugee settlement, Adjumani
+region: Adjumani, Pagirinya Refugee Settlement
 hub: YEF Youth Empowerment Foundation
 languages: "English, Ma'di"
 mail: iraemman@gmail.com

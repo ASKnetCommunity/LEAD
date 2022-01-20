@@ -4,7 +4,7 @@ title:  "Ayom Ruei Ayom"
 image: assets/images/profiles/ayom/ayom.jpg
 country: South Sudan
 region: Upper Nile
-languages: English and Dinka
+languages: English, Arabic and Dinka
 hub: 
 phone: +211924097008
 whatsapp: +211924097008
@@ -18,6 +18,8 @@ telegram:
 website: 
 skills:
   - {name: 'Organizational Development', number: 1, qualification: "Financial Literacy: <br />Both certificate and degree in business administration, specializing in financial management."}
+  - {name: 'Community & Moderation', number: 2, qualification: "I had a training on public relationship and this paved way into getting employed by Ataka Hub where I am working upto date. This made it possible to mobilize community members for the repair cafe event we had in 24, 03, 2021."}  
+  - {name: 'Open Source & Knowledge', number: 1, qualification: "Later in 2020 we had an online training on git and GitHub by r0g agency and I got a certificate."}
 ---
 
 I'm living in Bor town in an area called Block 3.

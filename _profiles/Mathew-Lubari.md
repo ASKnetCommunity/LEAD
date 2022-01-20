@@ -3,7 +3,7 @@ layout: profile
 title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
 country: South Sudan
-region: 
+region: Rhino Camp
 hub: 
 languages: "English (fluent both written and spoken), Arabic (Good both written and spoken), Kakwa (Native)"
 github: 
@@ -15,6 +15,48 @@ whatsapp:
 linkedin: mathew-lubari-18468a102
 telegram: 
 website: 
+skills:
+  - {name: Hardware & Repair, number: 1, qualification: "
+    * Diploma in Information Technology \n
+    * Certificate in Computer science \n
+    * Troubleshooting, fixing and maintenance of electronics (computers, mobile phones, solar lanterns etc.) \n
+    * Deployment, Installation, using, updating and maintenance. \n
+    * Management of repair cafe's \n
+    * Installation, administration and maintenance of Networks(LAN and WLAN) systems \n
+    * Building of solar charger \n
+    * Trainings
+"}
+  - {name: Web & Software, number: 2, qualification: "
+    * Research, \n
+    * Using and management of online platforms, \n
+    * Social media experience, \n
+    * Installing, using, updating and maintenance of programs, \n
+    * Networks and system administration \n
+    * Instructing and Training
+"}
+  - {name: Sustainability, number: 3, qualification: "
+    * SDGs, \n
+    * Advocate for environmental protection through repair and reuse, \n
+    * Member of the restarter at the Restart Project a London based Non-profit Organization advocating for repair and reuse \n
+    * Nominee and beneficiary of the Shuttleworth Foundation flash grants \n
+    * Winner of the EU: Africa the Journey Job security and financial services category award
+"}
+  - {name: Organizational Development, number: 4, qualification: "I have over 3 years experience in the following areas: \n \n
+* Project management:  \n 
+  Plan, Develop, manage project budget and allocation of resources, \n <br />
+  Identifying and managing potential risks and liabilities of multiple projects, \n <br />
+  Assisting in the definition of project scope and goals \n <br />
+  Performing quality control on the project throughout development to maintain the standards expected \n <br />
+  Adjusting schedules and targets on the project as needed \n <br />
+  Motivating staff involved in the project to complete tasks on time \n <br />
+  Write and report project activities \n
+* Team work: effectively lead and manage team members \n
+* Organizing meetings: Able to efficiently and effectively plan, organize and conduct meetings. \n
+* Trainings: Able to develop content and Conduct trainings \n
+* Financial literacy: Ability to develop, prepare, control, manage and report. \n
+* Monitoring and evaluation: I have the ability to Monitor, Conduct project review and report on project implementation. \n
+* Entrepreneurship: able to create and implement, manage business ideas \n
+"}
 ---
 
 
@@ -35,4 +77,4 @@ One of it was the ASKNet training which was funded by r0g agency in 2018 where i
 I have also been a team leader for the track II training participants under Platform Africa coordinating with the team and Platform Africa. This training was organized by r0g agency and done virtually focused mainly on open documentation and collaboration. 
 During the course of the training, we organized three repair café session. Where we invited community members to bring in their broken or faulty electronic devices including bicycles to be fixed for use. We also invited experts from the different field of repair during the repair café session.
 
-
+You can hear about me and my projects in [this podcast episode I did together with the "Restart Project"](https://therestartproject.org/podcast/refugee-repair/). 
