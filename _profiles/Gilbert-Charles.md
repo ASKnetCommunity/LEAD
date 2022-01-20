@@ -10,7 +10,7 @@ mail: ck.gilbert012@gmail.com
 twitter: gilbert_writesP
 facebook: kenyi.gilbertcharles.1
 instagram: gilbips01
-whatsapp: +256778382228
+whatsapp: "+256778382228"
 telegram: 
 website: 
 ---

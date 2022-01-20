@@ -6,8 +6,8 @@ country: South Sudan
 region: Upper Nile
 languages: English, Arabic and Dinka
 hub: 
-phone: +211924097008
-whatsapp: +211924097008
+phone: "+211924097008"
+whatsapp: "+211924097008"
 github: 
 mail: 
 twitter: 

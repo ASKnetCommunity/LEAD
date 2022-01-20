@@ -7,8 +7,8 @@ region: Adjumani, Pagirinya Refugee Settlement
 hub: YEF Youth Empowerment Foundation
 languages: "English (very good), Dinka (very good)"
 mail: dutandrew78@gmail.com
-phone: +256782466476
-whatsapp: +256782466476
+phone: "+256782466476"
+whatsapp: "+256782466476"
 website: 
 telegram: BlackElphant
 github: Dukula78

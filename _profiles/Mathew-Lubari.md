@@ -5,7 +5,9 @@ image: assets/images/profiles/mathew-lubari/mathew.jpg
 country: South Sudan
 region: Rhino Camp
 hub: 
-languages: "English (fluent both written and spoken), Arabic (Good both written and spoken), Kakwa (Native)"
+languages: "English: Fluent both spoken and written <br>
+Arabic: Good both spoken and written <br>
+Kakwa: Native"
 github: 
 mail: mathewlubari2@gmail.com
 twitter: mathduckson
