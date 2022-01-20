@@ -6,8 +6,8 @@ country: Uganda
 region: West Nile
 hub: Platform Africa
 mail: robertsanya55@gmail.com
-phone: +256780857635
-whatsapp: +256780857635
+phone: "+256780857635"
+whatsapp: "+256780857635"
 website: 
 telegram: 
 github: 

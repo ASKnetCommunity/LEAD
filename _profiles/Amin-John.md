@@ -6,8 +6,8 @@ country: Uganda
 region: West Nile
 hub: Platform Africa
 mail: aminjohn883@gmail.com
-phone: +256788324586
-whatsapp: +256788324586
+phone: "+256788324586"
+whatsapp: "+256788324586"
 website: 
 telegram: goodlivelihood
 github: 
