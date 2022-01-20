@@ -1,9 +1,6 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+title: About LEAD
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et

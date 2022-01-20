@@ -63,16 +63,16 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
+  - title : "Local experts"
+    icon : "ti-user"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
+  - title : "ASK action"
+    icon : "ti-announcement"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Deliver"
-    icon : "assets/images/icons/print.png"
+  - title : "Find your trainer"
+    icon : "ti-search"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
@@ -181,35 +181,38 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/r0g_logo.png"
     url: "#"
+    bw: true
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/founder_BMZ.jpg"
     url: "#"
+    bw: false
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/hive_colab.png"
     url: "#"
+    bw: true
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
+  - logo: "assets/images/clients-logo/platform-africa.png"
     url: "#"
+    bw: true
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/gogirls.png"
     url: "#"
+    bw: true
     
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/junub.png"
     url: "#"
+    bw: true
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/ataka.png"
     url: "#"
+    bw: true
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/yef.png"
     url: "#"
+    bw: true
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
 
 #-------------------------------
 # Contact Section

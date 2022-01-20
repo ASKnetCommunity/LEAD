@@ -2,7 +2,7 @@
 layout: profile
 title:  "Ayom Ruei Ayom"
 image: assets/images/profiles/ayom/ayom.jpg
-country: South-Sudan
+country: South Sudan
 region: Upper Nile
 languages: English, Arabic and Dinka
 hub: 
