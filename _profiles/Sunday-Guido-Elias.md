@@ -7,10 +7,10 @@ region: Juba
 hub: GoGirlsICT
 languages: English, Arabic, Lokoya
 mail: Sundayguido@gmail.com
-phone: 
-whatsapp: 
+phone: "+211927581767"
+whatsapp: "+211927581767"
 website: 
-telegram: 
+telegram: Sunday333
 github: 
 linkedin: 
 twitter: 
