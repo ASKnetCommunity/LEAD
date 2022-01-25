@@ -2,20 +2,20 @@
 layout: profile
 title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
-country: South Sudan
+country: Uganda
 region: Rhino Camp
 hub: 
 languages: "English: Fluent both spoken and written <br>
 Arabic: Good both spoken and written <br>
 Kakwa: Native"
-github: 
+github: Math-TECH-Hub
 mail: mathewlubari2@gmail.com
 twitter: mathduckson
 facebook: mathew.dukson
 instagram: mathewdukson
 whatsapp: 
 linkedin: mathew-lubari-18468a102
-telegram: 
+telegram: Math_Lub
 website: 
 skills:
   - {name: Hardware & Repair, number: 1, qualification: "
@@ -60,6 +60,7 @@ skills:
 * Research: I have the ability to develop research questionnaires, data collection using platforms Kobo-collect, ODK including data analysis using excel \n
 * Database management. able to enter data, store, update, analyze and maintain \n
 * Entrepreneurship: able to create and implement, manage business ideas \n
+* Communication: Excellent written and oral communication skills \n
 "}
   - {name: Sustainability, number: 4, qualification: "
     * SDGs, \n
