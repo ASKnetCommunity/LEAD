@@ -10,7 +10,7 @@ mail: pitanun1997@gmail.com
 phone: "+211921704069"
 whatsapp: "+211921704069"
 website: 
-telegram: 
+telegram: NunasEluzai
 github: 
 linkedin: 
 twitter: 
