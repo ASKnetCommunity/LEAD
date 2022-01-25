@@ -1,28 +1,25 @@
-title,country,region,skill_1,skill_2,skill_3,skill_4
-Antoneta Keji Lodu,South Sudan,Juba,,,,
-Joyce Akello,Uganda,Kampala,Media & Art,Community & Moderation,Web & Software,
-Amin John,Uganda,West Nile,,,,
-Maliamungu Richard,Uganda,Rhino Camp,,,,
-Vuga William,Uganda,Pagriniya Refugee Settlement,Media & Art,Hardware & Repair,,
-Ira Emmanuel,Uganda,"Pagirinya Refugee settlement, Adjumani",Organizational Development,,,
-Yine Yenki,Unknown,,,,,
-Mawa Robert,South Sudan,Unknown,,,,
-Arkangelo Lemi,Uganda,West Nile,,,,
-Romeo Lomora Ronald,Unknown,,,,,
-Baby Omer,Unknown,,,,,
-Mathew Lubari,South Sudan,,,,,
-Yine Beatrice Jale,Unknown,,,,,
-Dut Andrew Kulang,Uganda,"Adjumani, Pagirinya Refugee Settlement",Web & Software,Open Source & Knowledge,,
-Job Robert Sanya,Uganda,West Nile,,,,
-Eva Yayi,Unknown,,,,,
-Iklas Martin,South Sudan,Juba,,,,
-Nunas Eluzai,Unknown,,,,,
-Timm Wille,Germany,Berlin,Community & Moderation,Hardware & Repair,Sustainability,Open Source & Knowledge
-Sunday Guido Elisa,Unknown,,,,,
-Samuel Divinda,Uganda,West Nile,,,,
-Ayom Ruei Ayom,South Sudan,Upper Nile,Organizational Development,,,
-Wafela Andrew,Uganda,West Nile,Hardware & Repair,,,
-Dawa Edina Hillary,Uganda,,,,,
-Gilbert Charles,South Sudan,"Adjumani, Pagirinya Refugee Settlement",,,,
-Richard Gama,South Sudan,,,,,
-Yaro Manyang Mawel,Unknown,,,,,
+title,country,hub,region,skill_1,skill_2,skill_3,skill_4
+Ayom Ruei Ayom,South Sudan,,Upper Nile,Organizational Development,Community & Moderation,Open Source & Knowledge,
+Antoneta Keji Lodu,South Sudan,GoGirlsICT,Juba,,,,
+Joyce Akello,Uganda,,Kampala,Media & Art,Community & Moderation,Web & Software,
+Amin John,Uganda,Platform Africa,West Nile,,,,
+Maliamungu Richard,Uganda,Platform Africa,Rhino Camp,Web & Software,Hardware & Repair,Open Source & Knowledge,Media & Art
+Vuga William,Uganda,YEF Youth Empowerment Foundation,"Adjumani, Pagirinya Refugee Settlement",Media & Art,Hardware & Repair,,
+Ira Emmanuel,Uganda,YEF Youth Empowerment Foundation,"Adjumani, Pagirinya Refugee Settlement",Organizational Development,,,
+Mawa Robert,Uganda,,Rhino Camp,Web & Software,Hardware & Repair,Media & Art,Open Source & Knowledge
+Arkangelo Lemi,Uganda,Platform Africa,West Nile,,,,
+Sunday Guido Elisa,South Sudan,GoGirlsICT,Juba,Web & Software,Hardware & Repair,Open Source & Knowledge,Community & Moderation
+Baby Omer,South Sudan,Junub Open Space,Juba,,,,
+Mathew Lubari,Uganda,,Rhino Camp,Hardware & Repair,Web & Software,Organizational Development,Sustainability
+Nunas Eluzai Manasseh,South Sudan,GoGirlsICT,Juba,Web & Software,Hardware & Repair,Open Source & Knowledge,Community & Moderation
+Dut Andrew Kulang,Uganda,YEF Youth Empowerment Foundation,"Adjumani, Pagirinya Refugee Settlement",Web & Software,Open Source & Knowledge,,
+Bazio Doreen Lelega,Uganda,YEF Youth Empowerment Foundation,"Adjumani, Pagirinya Refugee Settlement",,,,
+Job Robert Sanya,Uganda,Platform Africa,West Nile,,,,
+Romeo Lomora Ronald,Uganda,Platform Africa,West Nile,Media & Art,,,
+Iklas Martin,South Sudan,GoGirlsICT,Juba,,,,
+Yine Yenki Nyika,South Sudan,GoGirlsICT,Juba,Web & Software,Media & Art,Community Management,Open Source & Knowledge
+Timm Wille,Germany,r0g Agency,Berlin,Community & Moderation,Hardware & Repair,Sustainability,Open Source & Knowledge
+Samuel Divinda,Uganda,Platform Africa,West Nile,,,,
+Dawa Edina Hillary,Uganda,,Rhino Camp,Hardware & Repair,Web & Software,Data Security & Research,Media & Art
+Wafela Andrew,Uganda,,West Nile,Hardware & Repair,,,
+Richard Gama,South Sudan,,,,,,
