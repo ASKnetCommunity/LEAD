@@ -18,6 +18,11 @@ facebook:
 instagram: 
 mastodon: 
 wikifab:
+skills:
+  - {name: Web & Software, number: 1, qualification: 'i have a bachelor degree in computer science. worked with Go-girlsICT. This helped me in learning more skills and later get involved in the repair cafe 23/03/ 2020 in St Thomas Secondary school - juba south Sudan where we fixed number of computers from the school, I also learned and get involved Internet of Things'}
+  - {name: Hardware & Repair, number: 2, qualification: 'A bachelor degree in computer science. As Go-girlsICT, we have number of programs that we help fix community laptops both hard ware and software, electronic etc. we also carried out the same programs during the repair cafe we had in St Thomas Secondary school in Gudele- juba south Sudan'}
+  - {name: Open Source & Knowledge, number: 3, qualification: 'I have a certificate in the #ASKnet 2020 open documentation where I was introduced to git and GitHub by Timm Wille.'}
+  - {name: Community & Moderation, number: 4, qualification: 'we helped control crowding in all events we run which includes the controlling community during the community repair cafe, we also ensure well moderated and easy flow of an event we organized.'}
 gallery:
   - url: assets/images/profiles/Nunas-Eluzai-Manasseh/Nunas1.jpg
   - url: assets/images/profiles/Nunas-Eluzai-Manasseh/Nunas2.jpg
