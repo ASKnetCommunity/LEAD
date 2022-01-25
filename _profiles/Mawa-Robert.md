@@ -2,7 +2,7 @@
 layout: profile
 title:  "Mawa Robert"
 image: assets/images/profiles/mawa-robert/mawa-robert.png
-country: South Sudan
+country: Uganda
 region: Rhino Camp
 hub: 
 languages: English, Arabic, Kakwa, Pojulu, Kiswahili
