@@ -71,8 +71,14 @@ skills:
 "}
 ---
 
+# Personal Summary
+
+I'm a highly resourceful, reasonably flexible, innovative, and enthusiastic. A quick learner who can absorb new ideas and is experienced in provision of ICT related activities. i.e Computer networks, computer hardware and software support, as well as conducting ICT skills training. A well organized and excellent team player with proven ability to work proactively in a complex and busy office environment.
+
+# Detailed Description
 
 Hello world,
+
 My name is Matthew Lubari a South Sudanese by Nationality born in Yei in October 16th, 1991 in a small village called Jombu and Diploma Holder in Infromation Tectnology from the International University of East Africa - Uganda. 
 
 I grew up in South Sudan but most of my time spent in Uganda at school. But in 2016 I came to Uganda as a refugee due to the conflict and I got registered in Bibibidi settlement where I started volunteering with RMF, Action Against Hunger and MSF France – in Uganda as a Community Informant supporting in community mobilization of PSNs and data collection and analysis services before I moved to CTEN where my profession lies.
