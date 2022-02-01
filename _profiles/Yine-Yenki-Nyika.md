@@ -10,7 +10,7 @@ mail: yineyenki@gogirlsict.org
 phone: "+211924115895"
 whatsapp: "+211924115895"
 website: https://en.everybodywiki.com/Yine_Yenki_Nyika
-telegram: 
+telegram: yyenki
 github: 
 linkedin: 
 twitter: yineyenki

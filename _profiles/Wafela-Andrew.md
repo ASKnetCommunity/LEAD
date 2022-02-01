@@ -16,7 +16,29 @@ whatsapp: "+256785437751"
 telegram: Chadso
 website: 
 skills:
-  - {name: 'Hardware & Repair', number: 1, qualification: " * Certificate \n * Recommendation by YEF as a service provider" }
+  - {name: 'Hardware & Repair', number: 1, qualification: " 
+    * Certificate \n 
+    * Recommendation by YEF as a service provider \n
+    * experience in building / construction \n \n
+    <br> \n
+    Example Projects: \n
+    * [Minimal Repair Setup](https://github.com/ASKnet-Open-Training/Minimal-Repair-Setup) \n
+    * [Community Repair Cage](https://github.com/ASKnet-Open-Training/CommunityRepairCafe/issues) \n
+    * [FM-Radio Transmitter](https://github.com/chardso/an-fm-radio-transmitter)
+    " }
+  - {name: Open Source & Knowledge, number: 2, qualification: " 
+    Github documentation (certificate by #ASKnet) \n
+    \n
+    * [My projects (GitHub Repositories) ](https://github.com/chardso?tab=repositories) \n
+    * [#ASKnet Apps](https://github.com/ASKnet-Open-Training/ASKnet-Apps/issues) (more to come)
+    " }
+  - {name: Production & Supply, number: 3, qualification: " 
+    Agricultural practices: Hands on experience \n
+    \n
+    * [my documentation on rabbit keeping](https://github.com/chardso/Rabbitry) \n
+    * [information on the cultivation of fruits](https://github.com/chardso/fruit-culture-fruit-farming) \n
+    * [documentation on rosemary growing](https://github.com/chardso/Rosemary-growing)
+    " }
 ---
 
     
