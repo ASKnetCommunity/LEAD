@@ -45,11 +45,13 @@
             <div class="hover-content">
               <h4 class="text-light">{{ profile.title }}</h4>
               {% if profile.skills %}
-              {% for skill in site.profiles.skills %}
-                  <h4 class="card-title">{{ skill.name }} ({{ skill.value }})</h4>
-              {% endfor %}
+                {% for skill in site.profiles.skills %}
+                    <h4 class="card-title">{{ skill.name }} ({{ skill.value }})</h4>
+                {% endfor %}
               {% endif %}
-              <p class="text-light">Hub: {{ profile.hub }}</p>
+              {% if profile.hub %}
+                <p class="text-light">Hub: {{ profile.hub }}</p>
+              {% endif %}
               <a class="btn btn-light btn-sm" href="{{ site.url }}{{  profile.url | prepend: site.baseurl }}">view profile</a>
             </div>
           </div>
