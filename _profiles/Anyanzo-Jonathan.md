@@ -10,7 +10,7 @@ mail: anynzojonathan64@gmail.com
 phone: "+256777968310"
 whatsapp: "+256777968310"
 website: 
-telegram: 
+telegram: Anxaces
 github: 
 linkedin: anyanzo-jonathan-924834138
 twitter: 
