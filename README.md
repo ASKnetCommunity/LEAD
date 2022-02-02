@@ -13,3 +13,23 @@ If you want to take part, you can start with creating a profile for yourself. Yo
 ## Credits
 
 - This project was started by Gilbert and the Community members around #ASKnet [Track-II-participants Stories for Community-Empowerment 2020-2021](https://github.com/ASKnet-Open-Training/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021/) - Special thx to all the mentors who helped create it, we will continue the work with a new direction called LEAD - **Local Expert Action Directory** where you can find the local expertise around you, provided by the [#ASKnet](https://openculture.agency/asknet-access-to-skills-and-knowledge-network/) Community
+
+#### Bootstrap v4.1.1 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+
+#### Font Awesome Free v5.15.4 (https://fontawesome.com)
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+
+#### Shuffle.js v5.4.1 (https://vestride.github.io/Shuffle/)
+* Licensed under MIT (https://github.com/Vestride/Shuffle/blob/main/LICENSE)
+
+#### jQuery v3.6.0 (https://jquery.com/)
+* Licensed under MIT (https://github.com/jquery/jquery/blob/main/LICENSE.txt)
+
+#### Themify Icons (https://themify.me/themify-icons)
+* License - https://themify.me/pricing (Icons: GPL, Fonts: SIL OFL 1.1, Code: MIT License) All brand icons are copyright/trademarks of their respective owners.
+
+#### slick v1.8.0 (https://github.com/kenwheeler/slick)
+* Licensed under MIT (https://github.com/kenwheeler/slick/blob/master/LICENSE)
