@@ -11,7 +11,7 @@ phone: "+256782466476"
 whatsapp: "+256782466476"
 website: 
 telegram: BlackElphant
-github: Dukula78
+github: dutandrewkulang
 linkedin: dut-andrew-kulang-693b07224
 twitter: dutandrew1
 facebook: BlackElphant
