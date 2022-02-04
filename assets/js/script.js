@@ -35,55 +35,55 @@
 
 
     /* ########################################### parallax ############################################## */
-    window.onload = function () {
+    // window.onload = function () {
 
-        var parallaxBox = document.getElementById('parallax');
-        var
-            /* c1left = document.getElementById('l1').offsetLeft,
-                       c1top = document.getElementById('l1').offsetTop, */
-            c2left = document.getElementById('l2').offsetLeft,
-            c2top = document.getElementById('l2').offsetTop,
-            c3left = document.getElementById('l3').offsetLeft,
-            c3top = document.getElementById('l3').offsetTop,
-            c4left = document.getElementById('l4').offsetLeft,
-            c4top = document.getElementById('l4').offsetTop,
-            c5left = document.getElementById('l5').offsetLeft,
-            c5top = document.getElementById('l5').offsetTop,
-            c6left = document.getElementById('l6').offsetLeft,
-            c6top = document.getElementById('l6').offsetTop,
-            c7left = document.getElementById('l7').offsetLeft,
-            c7top = document.getElementById('l7').offsetTop,
-            c8left = document.getElementById('l8').offsetLeft,
-            c8top = document.getElementById('l8').offsetTop,
-            c9left = document.getElementById('l9').offsetLeft,
-            c9top = document.getElementById('l9').offsetTop;
+    //     var parallaxBox = document.getElementById('parallax');
+    //     var
+    //         /* c1left = document.getElementById('l1').offsetLeft,
+    //                    c1top = document.getElementById('l1').offsetTop, */
+    //         c2left = document.getElementById('l2').offsetLeft,
+    //         c2top = document.getElementById('l2').offsetTop,
+    //         c3left = document.getElementById('l3').offsetLeft,
+    //         c3top = document.getElementById('l3').offsetTop,
+    //         c4left = document.getElementById('l4').offsetLeft,
+    //         c4top = document.getElementById('l4').offsetTop,
+    //         c5left = document.getElementById('l5').offsetLeft,
+    //         c5top = document.getElementById('l5').offsetTop,
+    //         c6left = document.getElementById('l6').offsetLeft,
+    //         c6top = document.getElementById('l6').offsetTop,
+    //         c7left = document.getElementById('l7').offsetLeft,
+    //         c7top = document.getElementById('l7').offsetTop,
+    //         c8left = document.getElementById('l8').offsetLeft,
+    //         c8top = document.getElementById('l8').offsetTop,
+    //         c9left = document.getElementById('l9').offsetLeft,
+    //         c9top = document.getElementById('l9').offsetTop;
 
-        parallaxBox.onmousemove = function (event) {
-            event = event || window.event;
-            var x = event.clientX - parallaxBox.offsetLeft,
-                y = event.clientY - parallaxBox.offsetTop;
+    //     parallaxBox.onmousemove = function (event) {
+    //         event = event || window.event;
+    //         var x = event.clientX - parallaxBox.offsetLeft,
+    //             y = event.clientY - parallaxBox.offsetTop;
 
-            /*  mouseParallax('l1', c1left, c1top, x, y, 5); */
-            mouseParallax('l2', c2left, c2top, x, y, 25);
-            mouseParallax('l3', c3left, c3top, x, y, 20);
-            mouseParallax('l4', c4left, c4top, x, y, 35);
-            mouseParallax('l5', c5left, c5top, x, y, 30);
-            mouseParallax('l6', c6left, c6top, x, y, 45);
-            mouseParallax('l7', c7left, c7top, x, y, 30);
-            mouseParallax('l8', c8left, c8top, x, y, 25);
-            mouseParallax('l9', c9left, c9top, x, y, 40);
-        };
+    //         /*  mouseParallax('l1', c1left, c1top, x, y, 5); */
+    //         mouseParallax('l2', c2left, c2top, x, y, 25);
+    //         mouseParallax('l3', c3left, c3top, x, y, 20);
+    //         mouseParallax('l4', c4left, c4top, x, y, 35);
+    //         mouseParallax('l5', c5left, c5top, x, y, 30);
+    //         mouseParallax('l6', c6left, c6top, x, y, 45);
+    //         mouseParallax('l7', c7left, c7top, x, y, 30);
+    //         mouseParallax('l8', c8left, c8top, x, y, 25);
+    //         mouseParallax('l9', c9left, c9top, x, y, 40);
+    //     };
 
-    };
+    // };
 
-    function mouseParallax(id, left, top, mouseX, mouseY, speed) {
-        var obj = document.getElementById(id);
-        var parentObj = obj.parentNode,
-            containerWidth = parseInt(parentObj.offsetWidth),
-            containerHeight = parseInt(parentObj.offsetHeight);
-        obj.style.left = left - (((mouseX - (parseInt(obj.offsetWidth) / 2 + left)) / containerWidth) * speed) + 'px';
-        obj.style.top = top - (((mouseY - (parseInt(obj.offsetHeight) / 2 + top)) / containerHeight) * speed) + 'px';
-    }
+    // function mouseParallax(id, left, top, mouseX, mouseY, speed) {
+    //     var obj = document.getElementById(id);
+    //     var parentObj = obj.parentNode,
+    //         containerWidth = parseInt(parentObj.offsetWidth),
+    //         containerHeight = parseInt(parentObj.offsetHeight);
+    //     obj.style.left = left - (((mouseX - (parseInt(obj.offsetWidth) / 2 + left)) / containerWidth) * speed) + 'px';
+    //     obj.style.top = top - (((mouseY - (parseInt(obj.offsetHeight) / 2 + top)) / containerHeight) * speed) + 'px';
+    // }
     /* ########################################### parallax ############################################## */
 
     // testimonial-slider
@@ -153,8 +153,10 @@
         constructor(element) {
             this.element = element;
             this.countries = Array.from(document.querySelectorAll('.filter-country button'));
+            this.regions = Array.from(document.querySelectorAll('.filter-region button'));
+            this.skills = Array.from(document.querySelectorAll('.filter-skill button'));
             this.shuffle = new Shuffle(element, {
-                itemSelector: '.picture-item',
+                itemSelector: '.profile-item',
                 sizer: element.querySelector('.my-sizer-element'),
             });
 
@@ -163,9 +165,10 @@
             this.filters = {
                 countries: [],
                 regions: [],
+                skills: [],
             };
-            this.addCountryButtons();
-            this.addRegionButtons();
+            this._bindEventListeners();
+
             this.addSorting();
             this.addSearchFilter();
         }
@@ -183,32 +186,32 @@
             });
         }
 
-        addCountryButtons() {
-            const options = document.querySelector('.filter-country');
-            if (!options) {
-                return;
-            }
+        /**
+         * Bind event listeners for when the filters change.
+         */
+        _bindEventListeners = function () {
+            this._onCountryChange = this._handleCountryChange.bind(this);
+            this._onRegionChange = this._handleRegionChange.bind(this);
+            this._onSkillChange = this._handleSkillChange.bind(this);
 
-            const filterButtons = Array.from(options.children);
-            const onClick = this._handleFilterClick.bind(this);
-            filterButtons.forEach((button) => {
-                button.addEventListener('click', onClick, false);
-            });
-        }
+            this.countries.forEach(function (button) {
+                button.addEventListener('click', this._onCountryChange);
+            }, this);
 
-        addRegionButtons() {
-            const options = document.querySelector('.filter-region');
-            if (!options) {
-                return;
-            }
+            this.regions.forEach(function (button) {
+                button.addEventListener('click', this._onRegionChange);
+            }, this);
 
-            const filterButtons = Array.from(options.children);
-            const onClick = this._handleFilterClick.bind(this);
-            filterButtons.forEach((button) => {
-                button.addEventListener('click', onClick, false);
-            });
-        }
+            this.skills.forEach(function (button) {
+                button.addEventListener('click', this._onSkillChange);
+            }, this);
+        };
 
+
+        /**
+         * Get the values of each `active` button.
+         * @return {Array.<string>}
+         */
         _getCurrentCountryFilters = function () {
             return this.countries.filter(function (button) {
                 return button.classList.contains('active');
@@ -217,36 +220,88 @@
             });
         };
 
+        _getCurrentRegionFilters = function () {
+            return this.regions.filter(function (button) {
+                return button.classList.contains('active');
+            }).map(function (button) {
+                return button.getAttribute('data-region');
+            });
+        };
 
-        _handleFilterClick(evt) {
-            const btn = evt.currentTarget;
-            const isActive = btn.classList.contains('active');
-            const btnGroup = btn.getAttribute('data-country');
+        _getCurrentSkillFilters = function () {
+            return this.skills.filter(function (button) {
+                return button.classList.contains('active');
+            }).map(function (button) {
+                return button.getAttribute('data-skill');
+            });
+        };
 
-            this._removeActiveClassFromChildren(btn.parentNode);
 
-            let filterGroup;
-            if (isActive) {
-                btn.classList.remove('active');
-                filterGroup = Shuffle.ALL_ITEMS;
+
+
+        /**
+         * A country button was clicked. Update filters and display.
+         * @param {Event} evt Click event object.
+         */
+        _handleCountryChange = function (evt) {
+            var button = evt.currentTarget;
+
+            // Treat these buttons like radio buttons where only 1 can be selected.
+            if (button.classList.contains('active')) {
+                button.classList.remove('active');
             } else {
-                btn.classList.add('active');
-                filterGroup = btnGroup;
-                console.log('filterGroup: ' + filterGroup);
+                this.countries.forEach(function (btn) {
+                    btn.classList.remove('active');
+                });
+
+                button.classList.add('active');
             }
 
             this.filters.countries = this._getCurrentCountryFilters();
-            console.log('this.filters.countries: ' + this.filters.countries);
             this.filter();
-            console.log('-------------------------');
-        }
+        };
+
+
+        /**
+         * A region  state changed, update the current filters and filte.r
+         */
+         _handleRegionChange = function (evt) {
+            var button = evt.currentTarget;
+
+            if (button.classList.contains('active')) {
+                button.classList.remove('active');
+            } else {
+                button.classList.add('active');
+            }
+
+            this.filters.regions = this._getCurrentRegionFilters();
+            this.filter();
+        };
+
+
+        /**
+         * A skill  state changed, update the current filters and filte.r
+         */
+         _handleSkillChange = function (evt) {
+            var button = evt.currentTarget;
+
+            if (button.classList.contains('active')) {
+                button.classList.remove('active');
+            } else {
+                button.classList.add('active');
+            }
+
+            this.filters.skills = this._getCurrentSkillFilters();
+            this.filter();
+        };
+
 
 
         /**
          * Filter shuffle based on the current state of filters.
          */
         filter = function () {
-            console.log('function filter()');
+            console.log('function filter()\n this.hasActiveFilters():', this.hasActiveFilters(), '\n this.filters: ', this.filters);
             if (this.hasActiveFilters()) {
                 this.shuffle.filter(this.itemPassesFilters.bind(this));
             } else {
@@ -271,25 +326,46 @@
          * @return {boolean} Whether it satisfies all current filters.
          */
         itemPassesFilters = function (element) {
+            // extending the prototype of the Array,
+            // with a named method/function:
+            Array.prototype.commonElements = function (arr2) {
+
+                // iterating over the 'this' array:
+                return this.some(function (el) {
+
+                    // looks for the array-value
+                    // represented by 'el', and
+                    // comparing the returned index
+                    // to see if it's greater than
+                    // -1 (and so is found in 'this' array):
+                    return arr2.indexOf(el) > -1;
+                });
+            }
+
             var countries = this.filters.countries;
             var regions = this.filters.regions;
+            var skills = this.filters.skills;
             var country = JSON.parse(element.getAttribute('data-countries'));
-                console.log('item country: ' + country.toString());
-            var region = element.getAttribute('data-regions');
-
-            // If there are active shape filters and this shape is not in that array.
-                console.log('filter countries: ' + countries + typeof country);
-                console.log('countries.includes(country): ' + countries.includes(country) + '\n \n');
-            if (countries.length > 0 && !countries.includes(country)) {
-                return false;
+            var region = JSON.parse(element.getAttribute('data-regions'));
+            var skill = JSON.parse(element.getAttribute('data-skills'));
+                console.log('-- item-skills: ', skill);
+            
+            // does country filter array contain at least one match with item countries array?
+            if (countries.commonElements(country)) {
+                return true;
             }
 
-            // If there are active color filters and this color is not in that array.
-            if (regions.length > 0 && !regions.includes(region)) {
-                return false;
+            // does region filter array contain at least one match with item regions array?
+            if (regions.commonElements(region)) {
+                return true;
             }
 
-            return true;
+            // does skill filter array contain at least one match with item skills array?
+            if (skills.commonElements(skill)) {
+                return true;
+            }
+
+            return false;
         };
 
 
@@ -370,15 +446,15 @@
                         return false;
                     }
                 }
-                const titleElement = element.querySelector('.picture-item__title');
+                const titleElement = element.querySelector('.profile-item__name');
                 const titleText = titleElement.textContent.toLowerCase().trim();
                 return titleText.indexOf(searchText) !== -1;
             });
         }
     }
 
-    document.addEventListener('DOMContentLoaded', () => {
-        window.demo = new Demo(document.getElementById('grid'));
+    document.addEventListener('DOMContentLoaded', function () {
+        window.demo = new Demo(document.querySelector('.my-shuffle-container'));
     });
 
 
