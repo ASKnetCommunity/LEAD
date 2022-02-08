@@ -146,6 +146,7 @@
         ]
     });
 
+    // Shuffle 
 
     var Shuffle = window.Shuffle;
 
@@ -161,7 +162,7 @@
             });
 
             // Log events.
-            this.addShuffleEventListeners();
+            //this.addShuffleEventListeners();
             this.filters = {
                 countries: [],
                 regions: [],
@@ -348,24 +349,23 @@
             var country = JSON.parse(element.getAttribute('data-countries'));
             var region = JSON.parse(element.getAttribute('data-regions'));
             var skill = JSON.parse(element.getAttribute('data-skills'));
-                console.log('-- item-skills: ', skill);
-            
-            // does country filter array contain at least one match with item countries array?
-            if (countries.commonElements(country)) {
-                return true;
+
+            // If there are active filters and this country is not in the filter array 
+            if (countries.length > 0 && !countries.commonElements(country)) {
+                return false;
             }
 
-            // does region filter array contain at least one match with item regions array?
-            if (regions.commonElements(region)) {
-                return true;
+            // If there are active filters and this region is not in the filter array 
+            if (regions.length > 0 && !regions.commonElements(region)) {
+                return false;
             }
 
-            // does skill filter array contain at least one match with item skills array?
-            if (skills.commonElements(skill)) {
-                return true;
+            // If there are active filters and this skill is not in the filter array 
+            if (skills.length > 0 && !skills.commonElements(skill)) {
+                return false;
             }
 
-            return false;
+            return true;
         };
 
 
@@ -459,4 +459,6 @@
 
 
 
+
 })(jQuery);
+

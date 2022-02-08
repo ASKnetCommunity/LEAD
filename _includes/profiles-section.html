@@ -1,3 +1,7 @@
+<section class="section bg-beige">
+hier ist die section beige
+</section>
+
 
 <!-- profiles -->
 <section class="section">
@@ -7,38 +11,64 @@
         <div class="form-group row">
           <!-- <label for="filters-search-input" class="col-2 col-form-label col-form-label-sm">search names</label> -->
           <div class="col-10">
-            <input type="search" class="form-control form-control-sm js-shuffle-search" id="filters-search-input" placeholder="search names">
+            <input type="search" class="form-control form-control-sm js-shuffle-search" id="filters-search-input" placeholder="search by name">
           </div>  
         </div>  
 
         <!-- <p class="filter-label">Filter</p> -->
+        
+        {% assign country-array = "" | split: ',' %}
+        {% assign region-array = "" | split: ',' %}
+        {% assign skill-array = "" | split: ',' %}
+        {% for profile in site.profiles %}
+          {% unless country-array contains profile.country %}
+            {% if profile.country == nil %}
+              {% assign country-array = country-array | push: "Unknown" %}
+            {% else %}
+              {% assign country-array = country-array | push: profile.country %}
+            {% endif %}
+          {% endunless %}
+          {% unless region-array contains profile.region %}
+            {% if profile.region == nil %}
+              {% assign region-array = region-array | push: "Unknown" %}
+            {% else %}
+              {% assign region-array = region-array | push: profile.region %}
+            {% endif %}
+          {% endunless %}
+          {% for skills in profile.skills %}
+            {% unless skill-array contains skills.name %}
+              {% assign skill-array = skill-array | push: skills.name %}
+            {% endunless %}
+          {% endfor %}
+        {% endfor %}
+
+        {% assign country-array = country-array | sort | uniq %}
+        {% comment %} {% if country-array contains "Unknown" %}
+          {% assign country-array = country-array | join: "|" | replace: "|Unknown|","|" | split: "|" | reverse | unshift: "Unknown" | reverse %}
+        {% endif %} {% endcomment %}
+        {% assign region-array = region-array | sort | uniq %}
+        {% comment %} {% if region-array contains "Unknown" %}
+          {% assign region-array = region-array | join: "|" | replace: "|Unknown|","|" | split: "|" | reverse | unshift: "Unknown" | reverse %}
+        {% endif %} {% endcomment %}
+
+        <div class="btn btn-sm btn-primary filter-reset">reset filters </div><br>
+
         <div class="btn-group btn-group-sm mr-2 mb-2 filter-country">
-          Country: 
-          {% for label in site.data.settings.profile-country-labels %}
-            <button class="btn btn-dark" data-country="{{ label.title }}">{{ label.title }}</button>
+          {% for country in country-array %}
+            <button class="btn btn-dark" data-country="{{ country }}">{{ country }}</button>
           {% endfor %}
         </div>
 
         <div class="btn-group btn-group-sm mr-2 mb-2 filter-region">
-          Region: 
-          <button class="btn btn-secondary" data-region="Rhino Camp">Rhino Camp</button>
-          <button class="btn btn-secondary" data-region="Juba">Juba</button>
-          <button class="btn btn-secondary" data-region="West Nile">West Nile</button>
-          <button class="btn btn-secondary" data-region="Upper Nile">Upper Nile</button>
-          <button class="btn btn-secondary" data-region="Adjumani, Pagirinya Refugee Settlement">Adjumani, Pagirinya Refugee Settlement</button>
-          <button class="btn btn-secondary" data-region="Unknown">Unknown</button>
+          {% for region in region-array %}
+            <button class="btn btn-secondary" data-region="{{ region }}">{{ region }}</button>
+          {% endfor %}
         </div>
         
         <div class="btn-group btn-group-sm mr-2 mb-2 filter-skill">
-          Skills: 
-          <button class="btn btn-primary" data-skill="Web & Software">Web & Software</button>
-          <button class="btn btn-primary" data-skill="Hardware & Repair">Hardware & Repair</button>
-          <button class="btn btn-primary" data-skill="Community & Moderation">Community & Moderation</button>
-          <button class="btn btn-primary" data-skill="Organizational Development">Organizational Development</button>
-          <button class="btn btn-primary" data-skill="Media & Art">Media & Art</button>
-          <button class="btn btn-primary" data-skill="Data Security & Research">Data Security & Research</button>
-          <button class="btn btn-primary" data-skill="Open Source & Knowledge">Open Source & Knowledge</button>
-          <button class="btn btn-primary" data-skill="Sustainability">Sustainability</button>
+          {% for skill in skill-array %}
+            <button class="btn btn-primary" data-skill="{{ skill }}">{{ skill }}</button>
+          {% endfor %}
         </div>
         
       </div>
@@ -47,11 +77,15 @@
 
     <div class="row my-shuffle-container">
       {% for profile in site.profiles %}
-        {% if profile.country == '' %}
-          {% assign profile.country = 'Unknown' %}
+        {% if profile.country == nil or profile.country == "Unknown" %}
+          {% assign country = "Unknown" %}
+        {% else %}
+          {% assign country = profile.country %}
         {% endif %}
-        {% if profile.region == '' %}
-          {% assign profile.region = 'Unknown' %}
+        {% if profile.region == nil or profile.region == "Unknown" %}
+          {% assign region = "Unknown" %}
+        {% else %}
+          {% assign region = profile.region %}
         {% endif %}
         {% assign skills-array = "" | split: ',' %}
         {% if profile.skills %}   
@@ -63,7 +97,7 @@
           {% assign skills-json = "[&quot;&quot;]" %}
         {% endif %}
         {% assign skills-attribute = 'data-skills="' | append: skills-json | append: '"' %}
-        <div class="col-lg-4 col-6 mb-4 profile-item" data-countries="[&quot;{{ profile.country }}&quot;]" data-regions="[&quot;{{ profile.region }}&quot;]" {{ skills-attribute }}>
+        <div class="col-lg-4 col-6 mb-4 profile-item" data-countries="[&quot;{{ country }}&quot;]" data-regions="[&quot;{{ region }}&quot;]" {{ skills-attribute }}>
           <div class="position-relative rounded hover-wrapper">
             <img src="{{ site.url }}/{{ profile.image }}" alt="profile-image" class="img-fluid rounded w-100 d-block">
             <div class="hover-overlay">
@@ -80,39 +114,12 @@
       {% endfor %}
     </div>
 
-
-
-    <!-- <figure class="col-3@xs col-4@sm col-2@md picture-item" data-countries='["Uganda"]' data-regions='["Rhino Camp", "Juba", "Adjumani"]' data-date-created="2017-04-30" data-title="Lake Walchen">
-      <div class="picture-item__inner">
-        <div class="aspect aspect--16x9">
-          <div class="aspect__inner">
-            <img src="https://images.unsplash.com/photo-1493585552824-131927c85da2?ixlib=rb-0.3.5&auto=format&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=284&h=160&fit=crop&s=6ef0f8984525fc4500d43ffa53fe8190" srcset="https://images.unsplash.com/photo-1493585552824-131927c85da2?ixlib=rb-0.3.5&auto=format&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=284&h=160&fit=crop&s=6ef0f8984525fc4500d43ffa53fe8190 1x, https://images.unsplash.com/photo-1493585552824-131927c85da2?ixlib=rb-0.3.5&auto=format&q=55&fm=jpg&dpr=2&crop=entropy&cs=tinysrgb&w=284&h=160&fit=crop&s=6ef0f8984525fc4500d43ffa53fe8190 2x"
-              alt="A deep blue lake sits in the middle of vast hills covered with evergreen trees" />
-          </div>
-        </div>
-        <div class="picture-item__details">
-          <figcaption class="picture-item__title"><a href="https://unsplash.com/photos/zshyCr6HGw0" target="_blank" rel="noopener">Lake Walchen</a> Uganda</figcaption>
-          <p class="picture-item__tags hidden@xs">nature</p>
-        </div>
-      </div>
-    </figure>
-    <figure class="col-3@xs col-8@sm col-4@md picture-item picture-item--overlay" data-countries='["South Sudan"]' data-regions='["Juba"]' data-date-created="2016-07-01" data-title="Golden Gate Bridge">
-      <div class="picture-item__inner">
-
-        <img src="https://images.unsplash.com/photo-1467348733814-f93fc480bec6?ixlib=rb-0.3.5&auto=format&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=584&h=329&fit=crop&s=2590c736835ec6555e952e19bb37f06e" srcset="https://images.unsplash.com/photo-1467348733814-f93fc480bec6?ixlib=rb-0.3.5&auto=format&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=584&h=329&fit=crop&s=2590c736835ec6555e952e19bb37f06e 1x, https://images.unsplash.com/photo-1467348733814-f93fc480bec6?ixlib=rb-0.3.5&auto=format&q=55&fm=jpg&dpr=2&crop=entropy&cs=tinysrgb&w=584&h=329&fit=crop&s=2590c736835ec6555e952e19bb37f06e 2x"
-          alt="Looking down over one of the pillars of the Golden Gate Bridge to the roadside and water below" />
-        <div class="picture-item__details">
-          <figcaption class="picture-item__title"><a href="https://unsplash.com/photos/RRNbMiPmTZY" target="_blank" rel="noopener">Golden Gate Bridge</a> South Sudan</figcaption>
-          <p class="picture-item__tags hidden@xs">city</p>
-        </div>
-      </div>
-    </figure> -->
     <div class="col-1@sm col-1@xs my-sizer-element"></div>
   </div>
 </div>
 
 <!-- Randomization -->
-<!-- <script>
+<script>
   var profs = document.querySelector('.my-shuffle-container');
   for (var i = profs.children.length; i >= 0; i--) {
     profs.appendChild(profs.children[Math.random() * i | 0]);
