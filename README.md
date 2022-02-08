@@ -3,12 +3,18 @@ The aims of this project are to collect stories and skills of #ASKnet members to
 
 The project calls for independent stories of experts, and shall be collected and documented for future reference in community inspiration and empowerment.
 
-The local expertise can lead github.com/ASKnet-Open-Training/ASKnet-Track-II-2020-2021 trainings, collaboration, gatherings and much more. Feel free to contact any of the peers in your region or [suggest another profile](https://github.com/ASKnetCommunity/LEAD/issues) to be added. You might also want to contact one of the partner Hubs for participation.
+The local expertise can lead trainings, collaboration, gatherings and much more. Feel free to contact any of the peers in your region or [suggest another profile](https://github.com/ASKnetCommunity/LEAD/issues) to be added. You might also want to contact one of the partner Hubs for participation.
 
 <img src="assets/images/profiles/gilbert-charles/gilbert-2.jpg" width="40%"/>
 
 If you want to take part, you can start with creating a profile for yourself. You [find the tutorials here](https://github.com/ASKnetCommunity/LEAD/wiki). 
 
+## Partners and Funder
+
+| r0g Agency | ASKnet  | BMZ |
+| :--------: | :----: | :-------: |
+|[![r0g Logo](assets/images/clients-logo/r0g_logo.png)](https://openculture.agency/)|[![#ASKnet Logo](assets/images/asknet-logo.png)](https://github.com/ASKnet-Open-Training)|  [![BMZ Logo](assets/images/clients-logo/founder_BMZ.jpg)](https://www.bmz.de/en/) |
+| [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://www.bmz.de/en/) |
 
 ## Credits
 
