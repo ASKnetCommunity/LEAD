@@ -1,70 +1,126 @@
+<section class="section bg-beige">
+hier ist die section beige
+</section>
+
+
 <!-- profiles -->
 <section class="section">
   <div class="container">
     <div class="row mb-5">
-      <div class="col-lg-12 d-none d-lg-inline">
-        <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
-          <label class="btn btn-sm btn-primary active">
-            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
-          </label>
-          {% for label in site.data.settings.profile-country-labels %}
-          <label class="btn btn-sm btn-primary">
-            <input type="radio" name="shuffle-filter" value="{{ label.type }}" />{{ label.title }}
-          </label>
+      <div class="col-lg-12">
+        <div class="form-group row">
+          <!-- <label for="filters-search-input" class="col-2 col-form-label col-form-label-sm">search names</label> -->
+          <div class="col-10">
+            <input type="search" class="form-control form-control-sm js-shuffle-search" id="filters-search-input" placeholder="search by name">
+          </div>  
+        </div>  
+
+        <!-- <p class="filter-label">Filter</p> -->
+        
+        {% assign country-array = "" | split: ',' %}
+        {% assign region-array = "" | split: ',' %}
+        {% assign skill-array = "" | split: ',' %}
+        {% for profile in site.profiles %}
+          {% unless country-array contains profile.country %}
+            {% if profile.country == nil %}
+              {% assign country-array = country-array | push: "Unknown" %}
+            {% else %}
+              {% assign country-array = country-array | push: profile.country %}
+            {% endif %}
+          {% endunless %}
+          {% unless region-array contains profile.region %}
+            {% if profile.region == nil %}
+              {% assign region-array = region-array | push: "Unknown" %}
+            {% else %}
+              {% assign region-array = region-array | push: profile.region %}
+            {% endif %}
+          {% endunless %}
+          {% for skills in profile.skills %}
+            {% unless skill-array contains skills.name %}
+              {% assign skill-array = skill-array | push: skills.name %}
+            {% endunless %}
+          {% endfor %}
+        {% endfor %}
+
+        {% assign country-array = country-array | sort | uniq %}
+        {% comment %} {% if country-array contains "Unknown" %}
+          {% assign country-array = country-array | join: "|" | replace: "|Unknown|","|" | split: "|" | reverse | unshift: "Unknown" | reverse %}
+        {% endif %} {% endcomment %}
+        {% assign region-array = region-array | sort | uniq %}
+        {% comment %} {% if region-array contains "Unknown" %}
+          {% assign region-array = region-array | join: "|" | replace: "|Unknown|","|" | split: "|" | reverse | unshift: "Unknown" | reverse %}
+        {% endif %} {% endcomment %}
+
+        <div class="btn btn-sm btn-primary filter-reset">reset filters </div><br>
+
+        <div class="btn-group btn-group-sm mr-2 mb-2 filter-country">
+          {% for country in country-array %}
+            <button class="btn btn-dark" data-country="{{ country }}">{{ country }}</button>
           {% endfor %}
         </div>
-      </div>
-      <div class="col-12 d-inline d-sm-none">
-        <button class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#filter-countries" aria-expanded="false" aria-controls="filter-countries">
-          Filter regions <span class="pl-2 float-right d-block" style="padding-top:0.1em"><i class="ti-arrow-circle-down"></i></span>
-        </button>
-        <div class="collapse" id="filter-countries">
-          <div class="btn-group btn-group-toggle justify-content-center btn-group-vertical" data-toggle="buttons">
-            <label class="btn btn-sm btn-primary active">
-              <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
-            </label>
-            {% for label in site.data.settings.profile-country-labels %}
-            <label class="btn btn-sm btn-primary">
-              <input type="radio" name="shuffle-filter" value="{{ label.type }}" />{{ label.title }}
-            </label>
-            {% endfor %}
-          </div>
+
+        <div class="btn-group btn-group-sm mr-2 mb-2 filter-region">
+          {% for region in region-array %}
+            <button class="btn btn-secondary" data-region="{{ region }}">{{ region }}</button>
+          {% endfor %}
         </div>
+        
+        <div class="btn-group btn-group-sm mr-2 mb-2 filter-skill">
+          {% for skill in skill-array %}
+            <button class="btn btn-primary" data-skill="{{ skill }}">{{ skill }}</button>
+          {% endfor %}
+        </div>
+        
       </div>
     </div>
 
-    <div class="row shuffle-wrapper">
+
+    <div class="row my-shuffle-container">
       {% for profile in site.profiles %}
-      {% if profile.country == '' %}
-        {% assign profile.country = 'Unknown' %}
-      {% endif %}
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{ profile.country }}&quot;]">
-        <div class="position-relative rounded hover-wrapper" style="cursor: pointer;">
-          <img src="{{ site.url }}/{{ profile.image }}" alt="profile-image" class="img-fluid rounded w-100 d-block">
-          <div class="hover-overlay">
-            <div class="hover-content">
-              <h4 class="text-light">{{ profile.title }}</h4>
-              {% if profile.skills %}
-                {% for skill in site.profiles.skills %}
-                    <h4 class="card-title">{{ skill.name }} ({{ skill.value }})</h4>
-                {% endfor %}
-              {% endif %}
-              {% if profile.hub %}
-                <p class="text-light">Hub: {{ profile.hub }}</p>
-              {% endif %}
-              <a class="btn btn-light btn-sm" href="{{ site.url }}{{  profile.url | prepend: site.baseurl }}">view profile</a>
+        {% if profile.country == nil or profile.country == "Unknown" %}
+          {% assign country = "Unknown" %}
+        {% else %}
+          {% assign country = profile.country %}
+        {% endif %}
+        {% if profile.region == nil or profile.region == "Unknown" %}
+          {% assign region = "Unknown" %}
+        {% else %}
+          {% assign region = profile.region %}
+        {% endif %}
+        {% assign skills-array = "" | split: ',' %}
+        {% if profile.skills %}   
+          {% for skill in profile.skills %}
+            {% assign skills-array = skills-array | push: skill.name %}
+          {% endfor %}
+          {% assign skills-json = skills-array | jsonify | replace: '"', '&quot;' %}
+        {% else %}
+          {% assign skills-json = "[&quot;&quot;]" %}
+        {% endif %}
+        {% assign skills-attribute = 'data-skills="' | append: skills-json | append: '"' %}
+        <div class="col-lg-4 col-6 mb-4 profile-item" data-countries="[&quot;{{ country }}&quot;]" data-regions="[&quot;{{ region }}&quot;]" {{ skills-attribute }}>
+          <div class="position-relative rounded hover-wrapper">
+            <img src="{{ site.url }}/{{ profile.image }}" alt="profile-image" class="img-fluid rounded w-100 d-block">
+            <div class="hover-overlay">
+              <div class="hover-content">
+                <h4 class="text-light profile-item__name">{{ profile.title }}</h4>
+                {% if profile.hub %}
+                  <p class="text-light">Hub: {{ profile.hub }}</p>
+                {% endif %}
+                <a class="btn btn-light btn-sm" href="{{ site.url }}{{  profile.url | prepend: site.baseurl }}">view profile</a>
+              </div>
             </div>
           </div>
         </div>
-      </div>
       {% endfor %}
     </div>
+
+    <div class="col-1@sm col-1@xs my-sizer-element"></div>
   </div>
-</section>
+</div>
 
 <!-- Randomization -->
 <script>
-  var profs = document.querySelector('.shuffle-wrapper');
+  var profs = document.querySelector('.my-shuffle-container');
   for (var i = profs.children.length; i >= 0; i--) {
     profs.appendChild(profs.children[Math.random() * i | 0]);
   }
