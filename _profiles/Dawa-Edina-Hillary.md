@@ -29,7 +29,8 @@ skills:
     * Diploma in Information Technology where I learnt a course unit called Data collection and analysis and it has the required content for data collection. \n
     * UNHCR partners data management training - In 2021 I participated in a UNHCR and MapUganda led training on Spatial data collection and analysis, Kobo and powerBI which gave me additional knowledge concerning data."}
   - {name: Media & Art, number: 4, qualification: "I have basic knowledge and experiences on Audio and video editing and graphics skills. \n \n
-    * Diploma and Certificate in Information Technology"} https://github.com/dawaedina27/DIY-Solar-Generator
+    * Diploma and Certificate in Information Technology \n \n 
+    https://github.com/dawaedina27/DIY-Solar-Generator"} 
 ---
 
 Hello!
