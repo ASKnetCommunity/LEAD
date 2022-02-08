@@ -72,7 +72,7 @@ def main():
 
     # gather all property names
     # ... manual
-    prop_names = set(["title","country","region","skill_1","skill_2","skill_3","skill_4"])
+    prop_names = set(["title","country","region","hub","skill_1","skill_2","skill_3","skill_4"])
     # ... all/automatic
     #prop_names = set()
     # for prfl in parsed_profiles:
@@ -80,8 +80,8 @@ def main():
     #         prop_names.add(key)
     prop_names = list(prop_names)
     prop_names.sort()
-    prop_names.insert(0, prop_names[6])
-    prop_names.pop(7)
+    prop_names.insert(0, prop_names[7])
+    prop_names.pop(8)
 
     write_csv(parsed_profiles, prop_names)
 

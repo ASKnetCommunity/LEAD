@@ -2,48 +2,48 @@
 layout: profile
 title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
-country: South Sudan
+country: Uganda
 region: Rhino Camp
 hub: 
 languages: "English: Fluent both spoken and written <br>
 Arabic: Good both spoken and written <br>
 Kakwa: Native"
-github: 
+github: Math-TECH-Hub
 mail: mathewlubari2@gmail.com
 twitter: mathduckson
 facebook: mathew.dukson
 instagram: mathewdukson
 whatsapp: 
 linkedin: mathew-lubari-18468a102
-telegram: 
+telegram: Math_Lub
 website: 
 skills:
   - {name: Hardware & Repair, number: 1, qualification: "
     * Diploma in Information Technology \n
     * Certificate in Computer science \n
-    * Troubleshooting, fixing and maintenance of electronics (computers, mobile phones, solar lanterns etc.) \n
-    * Deployment, Installation, using, updating and maintenance. \n
-    * Management of repair cafe's \n
-    * Installation, administration and maintenance of Networks(LAN and WLAN) systems \n
-    * Building of solar charger \n
-    * Trainings
+    * Certificate in Cisco IT Essentials (ITE) \n
+    * Hands-on experience in PC hardware repair in a customer service environment \n
+    * Profound knowledge of computer hardware, software and peripherals \n
+    * Ability to troubleshoot, fix and maintain electronics (computers, mobile phones, solar lanterns etc.) \n
+    * Provided installation, maintenance and repairs of desktops.\n
+    * Guided customers in the operation and maintenance of their equipment when needed.\n
+    * Provided documentation and necessary reporting.\n
+    * Solved customer issues utilizing superior customer service and communication skills \n
+    * Management of repair café's \n
+    * Installation, administration, troubleshooting, fixing and maintenance of Networks(LAN and WLAN) systems \n
+    * Building of solar charger \n 
+    * Effectively Conduct Trainings \n
 "}
   - {name: Web & Software, number: 2, qualification: "
-    * Research, \n
-    * Using and management of online platforms, \n
-    * Social media experience, \n
-    * Installing, using, updating and maintenance of programs, \n
-    * Networks and system administration \n
-    * Instructing and Training
+    * Ability of doing Research, \n
+    * Experience in Using and management of online learning platforms such as CISCO Networking Academy, Eliademy, UNHCR Coursera and Pluralsight \n
+    * Social media experience : using and managing platforms like Facebook, Instagram, WhatsApp, Tweeter, Telegram and LinkedIn \n
+    * Downloading, Installing, using, updating and maintenance of software programs both Licensed and Opensource software. \n
+    * Ability to connect and troubleshoot Networks (LAN & WLAN) issues and system administration \n
+    * Efficiently and effectively conduct virtual meetings and training \n
+    * Knowledge on using GitHub \n
 "}
-  - {name: Sustainability, number: 3, qualification: "
-    * SDGs, \n
-    * Advocate for environmental protection through repair and reuse, \n
-    * Member of the restarter at the Restart Project a London based Non-profit Organization advocating for repair and reuse \n
-    * Nominee and beneficiary of the Shuttleworth Foundation flash grants \n
-    * Winner of the EU: Africa the Journey Job security and financial services category award
-"}
-  - {name: Organizational Development, number: 4, qualification: "I have over 3 years experience in the following areas: \n \n
+  - {name: Organizational Development, number: 3, qualification: "I have over 3 years experience in the following areas: \n \n
 * Project management:  \n 
   Plan, Develop, manage project budget and allocation of resources, \n <br />
   Identifying and managing potential risks and liabilities of multiple projects, \n <br />
@@ -54,15 +54,31 @@ skills:
   Write and report project activities \n
 * Team work: effectively lead and manage team members \n
 * Organizing meetings: Able to efficiently and effectively plan, organize and conduct meetings. \n
-* Trainings: Able to develop content and Conduct trainings \n
+* Trainings: Able to develop content, organize and Conduct trainings \n
 * Financial literacy: Ability to develop, prepare, control, manage and report. \n
 * Monitoring and evaluation: I have the ability to Monitor, Conduct project review and report on project implementation. \n
+* Research: I have the ability to develop research questionnaires, data collection using platforms Kobo-collect, ODK including data analysis using excel \n
+* Database management. able to enter data, store, update, analyze and maintain \n
 * Entrepreneurship: able to create and implement, manage business ideas \n
+* Communication: Excellent written and oral communication skills \n
+"}
+  - {name: Sustainability, number: 4, qualification: "
+    * SDGs, \n
+    * Advocate for environmental protection through repair and reuse in awareness rising on repair and reuse \n
+    * Member of the restarter at the Restart Project a London based Non-profit Organization advocating for repair and reuse \n
+    * Nominee and beneficiary of the Shuttleworth Foundation flash grants \n
+    * Winner of the EU: Africa the Journey Job security and financial services category award
 "}
 ---
 
+# Personal Summary
+
+I'm a highly resourceful, reasonably flexible, innovative, and enthusiastic. A quick learner who can absorb new ideas and is experienced in provision of ICT related activities. i.e Computer networks, computer hardware and software support, as well as conducting ICT skills training. A well organized and excellent team player with proven ability to work proactively in a complex and busy office environment.
+
+# Detailed Description
 
 Hello world,
+
 My name is Matthew Lubari a South Sudanese by Nationality born in Yei in October 16th, 1991 in a small village called Jombu and Diploma Holder in Infromation Tectnology from the International University of East Africa - Uganda. 
 
 I grew up in South Sudan but most of my time spent in Uganda at school. But in 2016 I came to Uganda as a refugee due to the conflict and I got registered in Bibibidi settlement where I started volunteering with RMF, Action Against Hunger and MSF France – in Uganda as a Community Informant supporting in community mobilization of PSNs and data collection and analysis services before I moved to CTEN where my profession lies.
