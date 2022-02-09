@@ -137,26 +137,6 @@ services:
   }
 
 
-# Profile Countries
-profile-country-labels:
-- {
-    title : "South Sudan",
-    type : "South Sudan"
-  }
-- {
-    title : "Uganda",
-    type : "Uganda"
-  }
-- {
-    title : "Germany",
-    type : "Germany"
-  }
-- {
-    title : "Unknown",
-    type : "Unknown"
-  }
-
-
 #-------------------------------
 # Testimonials Section
 

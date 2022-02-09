@@ -156,6 +156,7 @@
             this.countries = Array.from(document.querySelectorAll('.filter-country button'));
             this.regions = Array.from(document.querySelectorAll('.filter-region button'));
             this.skills = Array.from(document.querySelectorAll('.filter-skill button'));
+            this.reset = Array.from(document.querySelectorAll('.filter-reset'));
             this.shuffle = new Shuffle(element, {
                 itemSelector: '.profile-item',
                 sizer: element.querySelector('.my-sizer-element'),
@@ -194,6 +195,7 @@
             this._onCountryChange = this._handleCountryChange.bind(this);
             this._onRegionChange = this._handleRegionChange.bind(this);
             this._onSkillChange = this._handleSkillChange.bind(this);
+            this._onResetClick = this._resetFilters.bind(this);
 
             this.countries.forEach(function (button) {
                 button.addEventListener('click', this._onCountryChange);
@@ -206,6 +208,11 @@
             this.skills.forEach(function (button) {
                 button.addEventListener('click', this._onSkillChange);
             }, this);
+
+            this.reset.forEach(function (button) {
+                button.addEventListener('click', this._onResetClick);
+            }, this);
+
         };
 
 
@@ -239,6 +246,20 @@
 
 
 
+        _resetFilters = function () {
+            var allFilterButtons = Array.from(document.querySelectorAll('.filter-country button, .filter-region button, .filter-skill button'));
+
+            // remove all "active" classes
+            allFilterButtons.forEach(function (btn) {
+                btn.classList.remove('active');
+            });
+
+            //filter() (filter aktualisieren)
+            this.filters.countries = this._getCurrentCountryFilters();
+            this.filters.regions = this._getCurrentRegionFilters();
+            this.filters.skills = this._getCurrentSkillFilters();
+            this.filter();
+        }
 
         /**
          * A country button was clicked. Update filters and display.
@@ -247,15 +268,23 @@
         _handleCountryChange = function (evt) {
             var button = evt.currentTarget;
 
-            // Treat these buttons like radio buttons where only 1 can be selected.
-            if (button.classList.contains('active')) {
-                button.classList.remove('active');
-            } else {
+            if (button.getAttribute('data-country') == 'All') {
+                // remove all "active" classes
                 this.countries.forEach(function (btn) {
                     btn.classList.remove('active');
                 });
+            } else {
 
-                button.classList.add('active');
+                // Treat these buttons like radio buttons where only 1 can be selected.
+                if (button.classList.contains('active')) {
+                    button.classList.remove('active');
+                } else {
+                    this.countries.forEach(function (btn) {
+                        btn.classList.remove('active');
+                    });
+
+                    button.classList.add('active');
+                }
             }
 
             this.filters.countries = this._getCurrentCountryFilters();
@@ -269,10 +298,18 @@
          _handleRegionChange = function (evt) {
             var button = evt.currentTarget;
 
-            if (button.classList.contains('active')) {
-                button.classList.remove('active');
+            if (button.getAttribute('data-region') == 'All') {
+                // remove all "active" classes
+                this.regions.forEach(function (btn) {
+                    btn.classList.remove('active');
+                });
             } else {
-                button.classList.add('active');
+
+                if (button.classList.contains('active')) {
+                    button.classList.remove('active');
+                } else {
+                    button.classList.add('active');
+                }
             }
 
             this.filters.regions = this._getCurrentRegionFilters();
@@ -286,10 +323,18 @@
          _handleSkillChange = function (evt) {
             var button = evt.currentTarget;
 
-            if (button.classList.contains('active')) {
-                button.classList.remove('active');
+            if (button.getAttribute('data-skill') == 'All') {
+                // remove all "active" classes
+                this.skills.forEach(function (btn) {
+                    btn.classList.remove('active');
+                });
             } else {
-                button.classList.add('active');
+
+                if (button.classList.contains('active')) {
+                    button.classList.remove('active');
+                } else {
+                    button.classList.add('active');
+                }
             }
 
             this.filters.skills = this._getCurrentSkillFilters();

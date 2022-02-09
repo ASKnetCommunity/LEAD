@@ -54,18 +54,21 @@ hier ist die section beige
         <div class="btn btn-sm btn-primary filter-reset">reset filters </div><br>
 
         <div class="btn-group btn-group-sm mr-2 mb-2 filter-country">
+          <button class="btn btn-dark" data-country="All">All</button>
           {% for country in country-array %}
             <button class="btn btn-dark" data-country="{{ country }}">{{ country }}</button>
           {% endfor %}
         </div>
 
         <div class="btn-group btn-group-sm mr-2 mb-2 filter-region">
+          <button class="btn btn-secondary" data-region="All">All</button>
           {% for region in region-array %}
             <button class="btn btn-secondary" data-region="{{ region }}">{{ region }}</button>
           {% endfor %}
         </div>
         
         <div class="btn-group btn-group-sm mr-2 mb-2 filter-skill">
+          <button class="btn btn-primary" data-skill="All">All</button>
           {% for skill in skill-array %}
             <button class="btn btn-primary" data-skill="{{ skill }}">{{ skill }}</button>
           {% endfor %}

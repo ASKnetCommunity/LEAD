@@ -32,9 +32,10 @@
 
 }
 
-// .active {
-//   box-shadow: 0px 0px 12px white inset;
-// }
+.active {
+  text-decoration: underline !important;
+  // box-shadow: 0px 0px 12px white inset;
+}
 
 .btn-primary {
   background: $primary-color;
