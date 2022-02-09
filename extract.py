@@ -82,6 +82,8 @@ def main():
     prop_names.sort()
     prop_names.insert(0, prop_names[7])
     prop_names.pop(8)
+    prop_names.insert(2, prop_names[3])
+    prop_names.pop(4)
 
     write_csv(parsed_profiles, prop_names)
 
