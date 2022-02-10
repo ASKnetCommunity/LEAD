@@ -62,7 +62,7 @@ skills:
 * Entrepreneurship: able to create and implement, manage business ideas \n
 * Communication: Excellent written and oral communication skills \n
 "}
-  - {name: Sustainability, number: 4, qualification: "
+  - {name: Sustainability & Environment, number: 4, qualification: "
     * SDGs, \n
     * Advocate for environmental protection through repair and reuse in awareness rising on repair and reuse \n
     * Member of the restarter at the Restart Project a London based Non-profit Organization advocating for repair and reuse \n
