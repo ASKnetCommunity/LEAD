@@ -1,22 +1,10 @@
-<section class="section bg-beige">
-hier ist die section beige
-</section>
-
 
 <!-- profiles -->
-<section class="section">
+<section class="section bg-beige pt-5 pb-4">
   <div class="container">
-    <div class="row mb-5">
+    <div class="row">
       <div class="col-lg-12">
-        <div class="form-group row">
-          <!-- <label for="filters-search-input" class="col-2 col-form-label col-form-label-sm">search names</label> -->
-          <div class="col-10">
-            <input type="search" class="form-control form-control-sm js-shuffle-search" id="filters-search-input" placeholder="search by name">
-          </div>  
-        </div>  
 
-        <!-- <p class="filter-label">Filter</p> -->
-        
         {% assign country-array = "" | split: ',' %}
         {% assign region-array = "" | split: ',' %}
         {% assign skill-array = "" | split: ',' %}
@@ -53,39 +41,48 @@ hier ist die section beige
 
         <!-- <div class="btn btn-sm btn-primary filter-reset">reset filters </div> -->
         
-        <div class="dropdown" style="float:left; margin-right:10px;">
-          <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Countries</button>
+        <div class="dropdown mr-2 mb-2" style="float:left">
+          <button class="btn btn-sm btn-primary dropdown-toggle" data-flip="false" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Countries</button>
           <div class="dropdown-menu mr-2 mb-2 filter-country">
-            <button class="dropdown-item all" type="button" data-country="All">All</button>
+            <button class="dropdown-item all" type="button" data-country="All">All</button>  
+            <div class="dropdown-divider"></div>
             {% for country in country-array %}  
-            <button class="dropdown-item" type="button" data-country="{{ country }}">{{ country }}</button>
+              <button class="dropdown-item" type="button" data-country="{{ country }}">{{ country }}</button>
             {% endfor %}
           </div>
         </div>
 
-        <div class="dropdown" style="float:left; margin-right:10px;">
-          <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Regions</button>
+        <div class="dropdown mr-2 mb-2" style="float:left">
+          <button class="btn btn-sm btn-primary dropdown-toggle" data-flip="false" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Regions</button>
           <div class="dropdown-menu sm mr-2 mb-2 filter-region">
             <button class="dropdown-item all" type="button" data-region="All">All</button>
-            {% for region in region-array %}
+            <div class="dropdown-divider"></div>
+              {% for region in region-array %}
             <button class="dropdown-item" type="button" data-region="{{ region }}">{{ region }}</button>
             {% endfor %}
           </div>
         </div>
 
-        <div class="dropdown" style="float:left; margin-right:10px;">
-          <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Skills</button>
+        <div class="dropdown mr-2 mb-2" style="float:left">
+          <button class="btn btn-sm btn-primary dropdown-toggle" data-flip="false" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Skills</button>
           <div class="dropdown-menu mr-2 mb-2 filter-skill">
             <button class="dropdown-item all" type="button" data-skill="All">All</button>
+            <div class="dropdown-divider"></div>
             {% for skill in skill-array %}
-            <button class="dropdown-item" type="button" data-skill="{{ skill }}">{{ skill }}</button>
+              <button class="dropdown-item" type="button" data-skill="{{ skill }}">{{ skill }}</button>
             {% endfor %}
           </div>
         </div>
+
+        <input type="search" class="form-control col-6 js-shuffle-search" id="filters-search-input" placeholder="search by name" style="width: 50%;">
+
       </div>
     </div>
+  </div>
+</section>
 
-
+<section class="section">
+  <div class="container">
     <div class="row my-shuffle-container">
       {% for profile in site.profiles %}
         {% if profile.country == nil or profile.country == "Unknown" %}

@@ -71,44 +71,43 @@
   margin-right: 3px;
 }
 
-//* Bootstrap Dropowns for filter
+//* Bootstrap Dropdowns for filter
 
 .show>.btn-primary.dropdown-toggle,
 .dropdown-item:focus,
 .dropdown-item:hover {
-  background: #e8c48a;
-  color: #fff;
+  background: $secondary-color; //#e8c48a;
+  color: $text-color-light;
 }
 
 .dropdown-item.active,
 .dropdown-item:active {
-  background: #DFAF5F;
-  color: #fff;
+  background: $primary-color;
+  color: $text-color-light;
 }
 
 .dropdown-item {
-  padding: 10px;
-  margin: 5px 0;
-  font-size:22px;
+  padding: 4px 10px;
 }
 
 .dropdown-item:before  {
   font-family: "Font Awesome 5 Free";
-  content: "\f067";
+  content: "\f0c8";
   display: inline-block;
   padding-right: 10px;
   vertical-align: middle;
-  font-weight: 900;
+  font-weight: 400;
 }
 
 .dropdown-item.all:before,
 .dropdown-item.all.active:before,
 .dropdown-item.all:active:before {
   content: "\f021";
+  font-weight: 900;
 }
 
 .dropdown-item.active:hover:before  {
-  content: "\f068";
+  content: "\f14a";
 }
 
 .dropdown-item.active:before,
@@ -116,12 +115,12 @@
 .dropdown-item:focus:before,
 .dropdown-item:hover:before {
   color:#fff !important;
-  content: "\f00c";
+  content: "\f14a";
 }
 
 .dropdown-item:focus:before,
 .dropdown-item:hover:before {
-  content: "\f067";
+  content: "\f0c8";
 }
 
 .filter-country .dropdown-item:before {
@@ -132,9 +131,9 @@
   content: "\f192";
   font-weight:400;
 }
-.filter-country .dropdown-item.all:before,
-.filter-country .dropdown-item.all.active:before,
-.filter-country .dropdown-item.all:active:before {
+.dropdown-item.all:before,
+.dropdown-item.all.active:before,
+.dropdown-item.all:active:before {
   content: "\f021";
   font-weight: 900;
 }
