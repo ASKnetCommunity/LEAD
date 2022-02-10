@@ -114,7 +114,7 @@
 .dropdown-item:active:before,
 .dropdown-item:focus:before,
 .dropdown-item:hover:before {
-  color:#fff !important;
+  color:$white !important;
   content: "\f14a";
 }
 
