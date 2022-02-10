@@ -41,7 +41,8 @@ body:
         - **Media & Art** — e.g. audio/video/graphics skills, poetry, music, podcasts, design, STEAM
         - **Data Security & Research** — e.g. data analysis, data sovereignty, privacy, encryption, protection of personal data
         - **Open Source & Knowledge** — e.g. git, open source philosophy, open source licenses, open access, knowledge sharing
-        - **Sustainability** — e.g. SDGs, circular economy, environmental protection, upcycling & recycling
+        - **Sustainability & Environment** — e.g. SDGs, circular economy, environmental protection, upcycling & recycling
+        - **Production & Supply** — e.g. agriculture, animal farming, (re)producing goods and market-items, manufacturing business/service, logistics and physical goods management
 
   - type: input
     id: skill1t
@@ -113,32 +114,6 @@ body:
     attributes:
       label: Qualifications for Skill 4
       placeholder: leave empty if this doesn't apply to you
-    validations:
-      required: false
-
-################## Contact ###################
-
-  - type: markdown
-    attributes:
-      value: |
-        ## Contact 
-        
-        How and where do you want to be contacted? Fill in your contact details, and leave the fields that you don't use blank. We'd kindly ask to give at least one contact option. 
-        
-        **Please be aware that this information will be publicly visible on the internet! Just fill in those fields that you are okay with to be public.**
-        
-  - type: input
-    id: linkedin
-    attributes:
-      label: LinkedIn
-      placeholder: "URL to your LinkedIn Profile"
-    validations:
-      required: false
-  - type: input
-    id: other
-    attributes:
-      label: Other
-      description: "If you prefer another way of being contacted, you can state it here. "
     validations:
       required: false
 

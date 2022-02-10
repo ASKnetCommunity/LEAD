@@ -29,6 +29,11 @@
     padding: 5px 10px;
     font-size: 15px;
   }
+
+}
+
+.active {
+  // box-shadow: 0px 0px 12px white inset;
 }
 
 .btn-primary {
@@ -60,4 +65,75 @@
   &:hover {
     color: $primary-color;
   }
+}
+
+.btn-group .btn {
+  margin-right: 3px;
+}
+
+//* Bootstrap Dropdowns for filter
+
+.show>.btn-primary.dropdown-toggle,
+.dropdown-item:focus,
+.dropdown-item:hover {
+  background: $secondary-color; //#e8c48a;
+  color: $text-color-light;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background: $primary-color;
+  color: $text-color-light;
+}
+
+.dropdown-item {
+  padding: 4px 10px;
+}
+
+.dropdown-item:before  {
+  font-family: "Font Awesome 5 Free";
+  content: "\f0c8";
+  display: inline-block;
+  padding-right: 10px;
+  vertical-align: middle;
+  font-weight: 400;
+}
+
+.dropdown-item.all:before,
+.dropdown-item.all.active:before,
+.dropdown-item.all:active:before {
+  content: "\f021";
+  font-weight: 900;
+}
+
+.dropdown-item.active:hover:before  {
+  content: "\f14a";
+}
+
+.dropdown-item.active:before,
+.dropdown-item:active:before,
+.dropdown-item:focus:before,
+.dropdown-item:hover:before {
+  color:#fff !important;
+  content: "\f14a";
+}
+
+.dropdown-item:focus:before,
+.dropdown-item:hover:before {
+  content: "\f0c8";
+}
+
+.filter-country .dropdown-item:before {
+  content: "\f111";
+  font-weight:400;
+}
+.filter-country .dropdown-item.active:before {
+  content: "\f192";
+  font-weight:400;
+}
+.dropdown-item.all:before,
+.dropdown-item.all.active:before,
+.dropdown-item.all:active:before {
+  content: "\f021";
+  font-weight: 900;
 }

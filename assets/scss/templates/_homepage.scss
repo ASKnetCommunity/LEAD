@@ -90,6 +90,7 @@
 /* profiles */
 .hover-wrapper {
   overflow: hidden;
+  cursor: pointer;
 
   img {
     transition: .3s ease;
@@ -128,6 +129,10 @@
   left: 0;
   right: 0;
   text-align: center;
+  h4, p {
+    line-height: 1;
+    text-shadow: 0px 0px 8px #000, 0px 0px 4px #000, 0px 0px 2px #000, 0px 0px 1px #000;
+  }
 }
 
 /* /profiles */
