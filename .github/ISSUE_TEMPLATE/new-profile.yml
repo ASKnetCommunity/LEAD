@@ -76,7 +76,8 @@ body:
         - **Media & Art** — e.g. audio/video/graphics skills, poetry, music, podcasts, design, STEAM
         - **Data Security & Research** — e.g. data analysis, data sovereignty, privacy, encryption, protection of personal data
         - **Open Source & Knowledge** — e.g. git, open source philosophy, open source licenses, open access, knowledge sharing
-        - **Sustainability** — e.g. SDGs, circular economy, environmental protection, upcycling & recycling
+        - **Sustainability & Environment** — e.g. SDGs, circular economy, environmental protection, upcycling & recycling
+        - **Production & Supply** — e.g. agriculture, animal farming, (re)producing goods and market-items, manufacturing business/service, logistics and physical goods management
 
   - type: input
     id: skill1t

@@ -17,7 +17,7 @@ copyright: |
 menu:
 - {name: Add Profile, link: '/index.html#create-new-profile'}
 - {name: 'back to #ASKnet <i class="ti-new-window"></i>', link: 'https://www.asknet.community/', tab: new}
-- {name: '<i class="ti-github" style="font-size: 20px;"></i>', link: 'https://github.com/ASKnetCommunity/LEAD', tab: new}
+- {name: '<i class="ti-github" style="font-size: 20px;"></i> <i class="ti-new-window" style="vertical-align: top;"></i>', link: 'https://github.com/ASKnetCommunity/LEAD', tab: new}
 
 
 
@@ -134,26 +134,6 @@ services:
     icon: ti-panel,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
-  }
-
-
-# Profile Countries
-profile-country-labels:
-- {
-    title : "South Sudan",
-    type : "South Sudan"
-  }
-- {
-    title : "Uganda",
-    type : "Uganda"
-  }
-- {
-    title : "Germany",
-    type : "Germany"
-  }
-- {
-    title : "Unknown",
-    type : "Unknown"
   }
 
 
