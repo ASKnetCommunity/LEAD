@@ -167,7 +167,7 @@ client-slider-items:
     
   - logo: "assets/images/clients-logo/founder_BMZ.jpg"
     url: "#"
-    bw: false
+    bw: true
     
   - logo: "assets/images/clients-logo/hive_colab.png"
     url: "#"
