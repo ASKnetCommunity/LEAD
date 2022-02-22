@@ -1,7 +1,32 @@
+.social-media {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
 .social-media li {
   font-size:2.2em;
   float: left;
-  margin: 0 10px;
+  margin: 7px;
+  background: $white;
+  width: 55px;
+  height: 55px;
+  text-align: center;
+  border-radius: 30px;
+  padding: 6px 6px 0px 6px;
+  display: flex;
+  align-items: center;
+  border: 1px solid $brown;
+  a {
+    margin: 0px auto;
+  }
+  &:hover {
+    background-color: $brown;
+    color: $white;
+  }
+  a:hover {
+    color: $white;
+  }
 }
 .social-media li.website {
   font-size: 2.1em;
