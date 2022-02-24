@@ -26,9 +26,10 @@
     <meta property="og:image" content="{{ site.screenshot }}" />
   {% endif %}
   {% if page.country %}
-  <meta property="og:description" content="{{ page.country }} | {{ page.region }}" />
+    <meta property="og:description" content="Expert in {{ page.country }}" /> 
+    {% comment %} <meta property="og:description" content="{{ page.country }} | {{ page.region }}" />  {% endcomment %}
   {% else %}
-  <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:description" content="{{ site.description }}" />
   {% endif %}
   <meta property="og:url"content="{{ page.url | absolute_url }}" />
   <meta property="og:title" content="{{ page.title }}" />
