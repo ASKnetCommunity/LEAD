@@ -6,15 +6,15 @@ country: South Sudan
 region: Juba
 hub: GoGirlsICT
 languages: English, Arabic
-mail: pitanun1997@gmail.com
-phone: "+211921704069"
-whatsapp: "+211921704069"
+mail: pita1997@gmail.com
+phone: "+211921704079"
+whatsapp: "+211921704079"
 website: 
 telegram: NunasEluzai
 github: 
-linkedin: 
+linkedin: nunas-eluzai-6808b21b8
 twitter: 
-facebook: 
+facebook: pita.gwolo
 instagram: 
 mastodon: 
 wikifab:
