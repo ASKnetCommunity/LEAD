@@ -5,7 +5,7 @@ image: assets/images/profiles/ayom/ayom.jpg
 country: South Sudan
 region: Upper Nile
 languages: English, Arabic and Dinka
-hub: 
+hub: ATAKA
 phone: "+211924097008"
 whatsapp: "+211924097008"
 github: 
