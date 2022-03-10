@@ -5,6 +5,7 @@ on:
     branches: [ main ]
     paths:
       - '_profiles/**'
+  workflow_dispatch:
 
 job:
   extract:
