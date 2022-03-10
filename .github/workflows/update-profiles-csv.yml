@@ -29,3 +29,8 @@ jobs:
 
       - name: 'run extract.py'
         run: 'python3 extract.py'
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: updated profiles.csv automatically (through GitHub Action)
+          
