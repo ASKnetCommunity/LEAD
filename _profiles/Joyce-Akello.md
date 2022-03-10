@@ -13,7 +13,7 @@ website:
 telegram: +256775808285
 github: acii4u
 linkedin: 
-twitter: 
+twitter: acii_laweri
 facebook: 
 instagram: aciiweri
 mastodon: 
