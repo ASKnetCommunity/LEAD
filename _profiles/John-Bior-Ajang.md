@@ -26,7 +26,6 @@ skills:
     He has some certifications in all the training he has been attending."}
   - {name: Organisational Development, number: 3, qualification: "Bior has been extensively involved in the project management circle at ATAKA Hub South Sudan since 2019 up to date. \n \n 
     He has been a secretary general of Jonglei State Arts and Music Association for more than three years."}
-  - {name: SKILL4, number: 4, qualification: 'QUALIFICATION4'}
 ---
 John Bior is a South Sudanese Tech and Media trainer working with ATAKA Hub South Sudan as an Executive Director.
 
