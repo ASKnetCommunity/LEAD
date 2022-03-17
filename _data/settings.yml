@@ -5,7 +5,7 @@ title: LEAD
 logo: assets/images/asknet-logo-2.png
 author: '#ASKnet'
 description: Local • Expert • Action • Directory
-subtext: LEAD is a directory of experts in your area who are there to provide guidance and assistance. So feel free to reach out to them!
+subtext: 'LEAD is a directory of #ASKnet experts in your area who are there to provide guidance and assistance. So feel free to reach out to them!'
 email: steve.fruits@email.com
 phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
@@ -16,7 +16,7 @@ copyright: |
 
 menu:
 - {name: Add Profile, link: '/index.html#create-new-profile'}
-- {name: 'back to #ASKnet <i class="ti-new-window"></i>', link: 'https://www.asknet.community/', tab: new}
+- {name: 'About #ASKnet <i class="ti-new-window"></i>', link: 'https://www.asknet.community/', tab: new}
 - {name: '<i class="ti-github" style="font-size: 20px;"></i> <i class="ti-new-window" style="vertical-align: top;"></i>', link: 'https://github.com/ASKnetCommunity/LEAD', tab: new}
 
 
