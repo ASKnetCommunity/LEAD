@@ -1,5 +1,5 @@
-name: Add New Profile
-description: Create a new profile
+name: Add New Profile or Change Profile
+description: Create a new profile or change data of an existing profile
 title: "Create Profile for ..."
 labels: [Profile]
 body:
@@ -37,8 +37,15 @@ body:
     id: region
     attributes:
       label: Region
-      description: "In which region are you active? You can add several regions or cities by separating them with commas."
-      placeholder: "e.g. Juba, Rhino-Camp, Berlin"
+      description: |
+        In which region are you active?
+
+        **Regions in Uganda:** (choose one from the list if you are in Uganda)
+        West Nile, Acholi, Karamoja, Western, Lango, Teso, Elgon, South Western, Central, East Central
+
+        **Regions in South Sudan:** (choose one from the list if you are in South Sudan)
+        Northern Bahr el Ghazal, Western Bahr el Ghazal, Lakes, Warrap, Western Equatoria, Central Equatoria, Eastern Equatoria, Jonglei, Unity, Upper Nile
+      placeholder: "e.g. West Nile"
     validations:
       required: true
 
@@ -79,12 +86,21 @@ body:
         - **Sustainability & Environment** — e.g. SDGs, circular economy, environmental protection, upcycling & recycling
         - **Production & Supply** — e.g. agriculture, animal farming, (re)producing goods and market-items, manufacturing business/service, logistics and physical goods management
 
-  - type: input
-    id: skill1t
+  - type: dropdown
     attributes:
       label: Skill 1
-      placeholder: "Which skill?"
-      description: 
+      description: "Which skill? You should choose at least one. "
+      multiple: false
+      options: 
+        - Web & Software
+        - Hardware & Repair
+        - Community & Moderation
+        - Organizational Development
+        - Media & Art
+        - Data Security & Research
+        - Open Source & Knowledge
+        - Sustainability & Environment
+        - Production & Supply
     validations:
       required: false
 
@@ -104,11 +120,21 @@ body:
     validations:
       required: false
 
-  - type: input
-    id: skill2t
+  - type: dropdown
     attributes:
       label: Skill 2
-      placeholder: "Which skill? Leave empty if doesn't apply. "
+      description: "Which skill? Leave empty if doesn't apply. "
+      multiple: false
+      options: 
+        - Web & Software
+        - Hardware & Repair
+        - Community & Moderation
+        - Organizational Development
+        - Media & Art
+        - Data Security & Research
+        - Open Source & Knowledge
+        - Sustainability & Environment
+        - Production & Supply
     validations:
       required: false
 
@@ -120,11 +146,21 @@ body:
     validations:
       required: false
 
-  - type: input
-    id: skill3t
+  - type: dropdown
     attributes:
-      label: Skill 3
-      placeholder: "Which skill? Leave empty if doesn't apply. "
+      label: Skill 1
+      description: "Which skill? Leave empty if doesn't apply. "
+      multiple: false
+      options: 
+        - Web & Software
+        - Hardware & Repair
+        - Community & Moderation
+        - Organizational Development
+        - Media & Art
+        - Data Security & Research
+        - Open Source & Knowledge
+        - Sustainability & Environment
+        - Production & Supply
     validations:
       required: false
 
@@ -136,11 +172,21 @@ body:
     validations:
       required: false
 
-  - type: input
-    id: skill4t
+  - type: dropdown
     attributes:
-      label: Skill 4
-      placeholder: "Which skill? Leave empty if doesn't apply. "
+      label: Skill 2
+      description: "Which skill? Leave empty if doesn't apply. "
+      multiple: false
+      options: 
+        - Web & Software
+        - Hardware & Repair
+        - Community & Moderation
+        - Organizational Development
+        - Media & Art
+        - Data Security & Research
+        - Open Source & Knowledge
+        - Sustainability & Environment
+        - Production & Supply
     validations:
       required: false
 
@@ -152,6 +198,7 @@ body:
     validations:
       required: false
 
+################## Description Text ###################
 
   - type: markdown
     attributes:
