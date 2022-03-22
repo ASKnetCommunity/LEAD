@@ -40,10 +40,10 @@ body:
       description: |
         In which region are you active?
 
-        **Regions in Uganda:** (choose one from the list if you are in Uganda)
+        **Regions in Uganda:**
         West Nile, Acholi, Karamoja, Western, Lango, Teso, Elgon, South Western, Central, East Central
 
-        **Regions in South Sudan:** (choose one from the list if you are in South Sudan)
+        **Regions in South Sudan:**
         Northern Bahr el Ghazal, Western Bahr el Ghazal, Lakes, Warrap, Western Equatoria, Central Equatoria, Eastern Equatoria, Jonglei, Unity, Upper Nile
       placeholder: "e.g. West Nile"
     validations:
