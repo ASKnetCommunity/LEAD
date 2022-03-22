@@ -7,7 +7,7 @@ on:
       - '_profiles/**'
   workflow_dispatch:
 
-job:
+jobs:
   extract:
     name: 'run extract.py'
     runs-on: ubuntu-latest
@@ -22,6 +22,15 @@ job:
         uses: actions/setup-python@v2
         with:
             python-version: '3.x'
+            
+      - name: 'install pyyaml'
+        run: | 
+          pip install pyyaml
 
       - name: 'run extract.py'
         run: 'python3 extract.py'
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: updated profiles.csv automatically (through GitHub Action)
+          
