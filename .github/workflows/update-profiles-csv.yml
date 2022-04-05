@@ -1,0 +1,36 @@
+name: 'update profiles.csv'
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '_profiles/**'
+  workflow_dispatch:
+
+jobs:
+  extract:
+    name: 'run extract.py'
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: "Check out the repo"
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+
+      - name: "Setup Python 3"
+        uses: actions/setup-python@v2
+        with:
+            python-version: '3.x'
+            
+      - name: 'install pyyaml'
+        run: | 
+          pip install pyyaml
+
+      - name: 'run extract.py'
+        run: 'python3 extract.py'
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: updated profiles.csv automatically (through GitHub Action)
+          
