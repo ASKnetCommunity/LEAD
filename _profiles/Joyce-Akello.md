@@ -3,7 +3,7 @@ layout: profile
 title:  "Joyce Akello"
 image: "assets/images/profiles/Joyce-Akello/joyce-akello.jpg"
 country: Uganda
-region: Kampala
+region: Central
 hub: 
 languages: "English, Acholi (very good), Arabic, Luganda (fairly good)"
 mail: "akellojoyce62@gmail.com"

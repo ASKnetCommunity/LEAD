@@ -3,7 +3,7 @@ layout: profile
 title:  "Nunas Eluzai Manasseh"
 image: assets/images/profiles/Nunas-Eluzai-Manasseh/Nunas1.jpg
 country: South Sudan
-region: Juba
+region: Central Equatoria
 hub: GoGirlsICT
 languages: English, Arabic
 mail: pita1997@gmail.com

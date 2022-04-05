@@ -3,7 +3,7 @@ layout: profile
 title:  "Sunday Guido Elisa"
 image: assets/images/profiles/sunday-guido-elias/Sunday.png
 country: South Sudan
-region: Juba
+region: Central Equatoria
 hub: GoGirlsICT
 languages: English, Arabic, Lokoya
 mail: Sundayguido@gmail.com

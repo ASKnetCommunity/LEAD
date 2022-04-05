@@ -3,7 +3,7 @@ layout: profile
 title:  "Iklas Martin"
 image: assets/images/profiles/Iklas-Martin/Iklas-Martin.jpg
 country: South Sudan
-region: Juba
+region: Central Equatoria
 hub: GoGirlsICT
 github:
 mail:

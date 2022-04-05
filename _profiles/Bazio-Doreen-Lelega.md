@@ -3,7 +3,7 @@ layout: profile
 title:  "Bazio Doreen Lelega"
 image: assets/images/profiles/bazio-doreen-lelega/bazio-doreen-lelega.jpg
 country: Uganda
-region: Adjumani, Pagirinya Refugee Settlement
+region: West Nile
 hub: YEF Youth Empowerment Foundation
 languages: "Fluent English, Basic Ma'di"
 mail: dbazio7@gmail.com

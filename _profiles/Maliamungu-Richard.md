@@ -3,7 +3,7 @@ layout: profile
 title:  "Maliamungu Richard"
 image: assets/images/profiles/maliamungu-richard/Maliamungu-2.jpg
 country: Uganda
-region: Rhino Camp
+region: West Nile
 languages: English, Arabic, Kakwa, Pojulu, Kiswahili
 hub: Platform Africa
 github: maliarich

@@ -3,7 +3,7 @@ layout: profile
 title:  "Dawa Edina Hillary"
 image: assets/images/profiles/Dawa-Edina-Hillary/Dawa-Edina-Hillary.jpg
 country: Uganda
-region: Rhino Camp
+region: West Nile
 hub: 
 languages: English (Very good), Arabic (very good), Kakwa (mother tongue, very good), Lugbara (good)
 mail: dawaedina27@gmail.com
