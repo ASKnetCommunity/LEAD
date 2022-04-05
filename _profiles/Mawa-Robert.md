@@ -3,7 +3,7 @@ layout: profile
 title:  "Mawa Robert"
 image: "assets/images/profiles/mawa-robert/mawa-robert.png"
 country: Uganda
-region: Rhino Camp
+region: West Nile
 hub: 
 languages: "English, Arabic, Kakwa, Pojulu, Kiswahili"
 mail: mawarobert4696@gmail.com

@@ -3,7 +3,7 @@ layout: profile
 title:  "Jaiksana Soro"
 image: "assets/images/profiles/Jaiksana-Soro/Jaiksana-Soro.jpg"
 country: Uganda
-region: Rhino Camp
+region: West Nile
 hub: Platform Africa
 languages: English (Excellent), Bari (Good), Arabic (Fair)
 mail: jambujackson@gmail.com

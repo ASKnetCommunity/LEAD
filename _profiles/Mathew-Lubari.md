@@ -3,7 +3,7 @@ layout: profile
 title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
 country: Uganda
-region: Rhino Camp
+region: West Nile
 hub: 
 languages: "English: Fluent both spoken and written <br>
 Arabic: Good both spoken and written <br>

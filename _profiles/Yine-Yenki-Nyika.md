@@ -3,7 +3,7 @@ layout: profile
 title:  "Yine Yenki Nyika"
 image: assets/images/profiles/yine-yenki/yine-yenki.jpg
 country: South Sudan
-region: Juba
+region: Central Equatoria
 hub: GoGirlsICT
 languages: "English - Very Good <br>Kuku - Very Good <br>Juba Arabic - Good"
 mail: yineyenki@gogirlsict.org

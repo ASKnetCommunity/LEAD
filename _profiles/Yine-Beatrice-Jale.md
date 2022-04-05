@@ -3,7 +3,7 @@ layout: profile
 title:  "Yine Beatrice Jale"
 image: assets/images/profiles/Yine-Beatrice-Jale/Yine-Beatrice-Jale.jpg
 country: South Sudan
-region: Juba
+region: Central Equatoria
 hub: GoGirlsICT
 languages: English - very good, Kuku - very good, Juba Arabic - good
 mail: beatrice.yine@gmail.com

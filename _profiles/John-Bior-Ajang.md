@@ -3,7 +3,7 @@ layout: profile
 title:  "John Bior Ajang"
 image: "assets/images/profiles/John-Bior-Ajang/John-Bior-Ajang.jpg"
 country: South Sudan
-region: Bor
+region: Jonglei
 hub: ATAKA
 languages: English (excellent at spoken and written), Arabic (excellent at spoken only), Kiswahili (excellent at spoken and written), Dinka (excellent at spoken only)
 mail: biorajang9@gmail.com
