@@ -4,7 +4,7 @@ title:  "Bazio Doreen Lelega"
 image: assets/images/profiles/bazio-doreen-lelega/bazio-doreen-lelega.jpg
 country: Uganda
 region: West Nile
-hub: YEF Youth Empowerment Foundation
+hub: Youth Empowerment Foundation
 languages: "Fluent English, Basic Ma'di"
 mail: dbazio7@gmail.com
 phone: "+256779034590"

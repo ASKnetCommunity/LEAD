@@ -4,7 +4,7 @@ title:  "Anyanzo Jonathan"
 image: assets/images/profiles/Anyanzo-Jonathan/Anyanzo-Jonathan.jpg
 country: Uganda
 region: West Nile
-hub: YEF Youth Empowerment Foundation
+hub: Youth Empowerment Foundation
 languages: English (good), Kiswahili (good), Madi/Lugbara (good)
 mail: anynzojonathan64@gmail.com
 phone: "+256777968310"

@@ -4,7 +4,7 @@ title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
 country: Uganda
 region: West Nile
-hub: 
+hub: CC4D
 languages: "English: Fluent both spoken and written <br>
 Arabic: Good both spoken and written <br>
 Kakwa: Native"
@@ -43,7 +43,7 @@ skills:
     * Efficiently and effectively conduct virtual meetings and training \n
     * Knowledge on using GitHub \n
 "}
-  - {name: Organizational Development, number: 3, qualification: "I have over 3 years experience in the following areas: \n \n
+  - {name: Organisational Development, number: 3, qualification: "I have over 3 years experience in the following areas: \n \n
 * Project management:  \n 
   Plan, Develop, manage project budget and allocation of resources, \n <br />
   Identifying and managing potential risks and liabilities of multiple projects, \n <br />

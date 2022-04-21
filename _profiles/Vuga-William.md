@@ -4,7 +4,7 @@ title:  "Vuga William"
 image: "assets/images/profiles/vuga-william/vuga-william.jpg"
 country: Uganda
 region: West Nile
-hub: YEF Youth Empowerment Foundation
+hub: Youth Empowerment Foundation
 languages: "English, Juba Arabic and Mad'i"
 mail: vugawilly@gmail.com
 phone: "+256784164470"

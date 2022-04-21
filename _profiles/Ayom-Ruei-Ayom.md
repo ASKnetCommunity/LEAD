@@ -16,7 +16,7 @@ instagram:
 telegram: 
 website: 
 skills:
-  - {name: 'Organizational Development', number: 1, qualification: "Financial Literacy: <br />Both certificate and degree in business administration, specializing in financial management."}
+  - {name: 'Organisational Development', number: 1, qualification: "Financial Literacy: <br />Both certificate and degree in business administration, specializing in financial management."}
   - {name: 'Community & Moderation', number: 2, qualification: "I had a training on public relationship and this paved way into getting employed by Ataka Hub where I am working upto date. This made it possible to mobilize community members for the repair cafe event we had in 24, 03, 2021."}  
   - {name: 'Open Source & Knowledge', number: 3, qualification: "Later in 2020 we had an online training on git and GitHub by r0g agency and I got a certificate."}
 ---

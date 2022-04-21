@@ -4,7 +4,7 @@ title:  "Dut Andrew Kulang"
 image: "assets/images/profiles/Dut-Andrew-Kulang/Dut-Andrew-Kulang.jpg"
 country: Uganda
 region: West Nile
-hub: YEF Youth Empowerment Foundation
+hub: Youth Empowerment Foundation
 languages: "English (very good), Dinka (very good)"
 mail: dutandrew78@gmail.com
 phone: "+256782466476"
