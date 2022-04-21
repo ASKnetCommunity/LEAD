@@ -5,7 +5,7 @@ image: assets/images/profiles/wafela-andrew/andrew-2.jpg
 country: Uganda
 region: West Nile
 languages: "English (good), Kiswahili (good), Madi/Lugbara (good), Luganda/Lugisu (good)"
-hub: YEF Youth Empowerment Foundation
+hub: Youth Empowerment Foundation
 github: chardso
 mail: wafelaandrew2@gmail.com
 twitter: 

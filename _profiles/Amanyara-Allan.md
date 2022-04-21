@@ -20,6 +20,6 @@ mastodon:
 wikifab:
 skills:
   - {name: Media & Art, number: 1, qualification: 'Diploma in journalism and mass communication, skills in TV/filming/audio production/script/creative writing'}
-  - {name: Organizational Development, number: 2, qualification: "Bachelor's degree in Human Resource Management"}
+  - {name: Organisational Development, number: 2, qualification: "Bachelor's degree in Human Resource Management"}
 ---
 I am Journalist and Human Resource manager by profession. I love seeing people succeed in doing their things. Working together with others is a priority.
