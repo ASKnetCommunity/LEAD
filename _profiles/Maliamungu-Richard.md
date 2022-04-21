@@ -5,7 +5,7 @@ image: assets/images/profiles/maliamungu-richard/Maliamungu-2.jpg
 country: Uganda
 region: West Nile
 languages: English, Arabic, Kakwa, Pojulu, Kiswahili
-hub: Platform Africa
+hub: CC4D
 github: maliarich
 mail: maliarich5@gmail.com
 phone: "+256775891582"

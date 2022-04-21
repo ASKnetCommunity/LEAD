@@ -4,7 +4,7 @@ title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
 country: Uganda
 region: West Nile
-hub: 
+hub: CC4D
 languages: "English: Fluent both spoken and written <br>
 Arabic: Good both spoken and written <br>
 Kakwa: Native"
