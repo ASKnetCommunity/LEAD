@@ -5,7 +5,7 @@ image: assets/images/profiles/yine-yenki/yine-yenki.jpg
 country: South Sudan
 region: Central Equatoria
 hub: GoGirlsICT
-languages: "English - Very Good <br>Kuku - Very Good <br>Juba Arabic - Good"
+languages: "English"
 mail: yineyenki@gogirlsict.org
 phone: "+211924115895"
 whatsapp: "+211924115895"
@@ -37,4 +37,6 @@ skills:
     2. use of open source tools to solve community challenges \n
     "}
 ---
-Yine yenki is a south Sudanese female computer scientist who is enthusiastic at solving challenges facing the girl child by using tech, and hence the basic programming programs (MIT Scratch, Programming), collaborations with Achirachix and a couple of other organizations, and via the ASKnet project by proving the power of storytelling to the young girls in Juba to empower their self with and assertiveness, and this has made her be prominent and recognized of her service in the capital Juba, she is also a board member of the National Communications Authority a body that regulates the connectivity of the country.
+Yine Yenki Nyika is the co-founder and Mentorship Director at GoGirls ICT Initiative, where she oversees running all trainings of mentors and overseeing training workshops given at the organization. She holds a Bachelor of Science in Computer Science from Makerere University,Uganda and worked as Teaching Assistant at the college of Computer Science and Information Technology at the University of Juba, South Sudan.She worked as Head, Department of Computer Science in the same Institution for three years.Likewise, she has spoken and participated in several conferences both on local and International platforms including the #PeaceHackCamp, ICT4D 2016, Youth Connekt Africa 2017, Transform Africa Summit 2017, re: publica18 in Berlin and the International Symposium of Electronic Arts 2018 in Durban among others. She was a facilitator for the #defyhatenow project and through this initiative contributed to the Field Guide - a tool used to mitigate online and offline Hate
+speech which could lead to violence in South Sudan in relation to gender issues. She hascontributed her skills and knowledge during the Youth Innovation Challenges organized by UNDP South Sudan. Not only that, but she is also a coordinator of the Access to Skills and Knowledge network #ASKnet project, a network consisting of five hubs in South Sudan and Northern Uganda working towards the promotion of digital inclusion as a framework for addressing the readiness of South Sudanese Communities to fully embrace the digital age.She is currently a member of the Board of the National Communication Authority in South Sudan. Furthermore, through her work, she is interested in understanding and changing the narrative that limits the participation of Girls and Women in Science, Technology, Engineering and
+Mathematics (STEM) in South Sudan.
