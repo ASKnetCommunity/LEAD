@@ -18,6 +18,19 @@ facebook: bazio.doreen1
 instagram: 
 mastodon: 
 wikifab:
+skills:
+  - {name: 'Media & Art', number: 1, qualification: "
+    Bachelors Degree In Journalism, Communication Management and Media Studies. \n
+    \n
+    Post Graduate Diploma in Journalism, Communication Management, and Media Studies. \n
+    \n
+    * Writing and copy editing \n
+    * News Anchoring and Voicing Over \n
+    * Podcast/Audio Production and Video Production \n
+    * [Poetry](https://doreenbazioblog.wordpress.com/category/love/) \n
+    \n
+    My works are available at: [https://doreenbazioblog.wordpress.com/](https://doreenbazioblog.wordpress.com/)
+  "}
 ---
 Hello! I am a Communications Specialist from Adjumani District, Uganda. I have five years experience in Journalism and Public Relations having worked In media and government institutions. Currently, I have been a part of Content Development at the Youth Empowerment Foundation since 2018.
 
