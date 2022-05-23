@@ -43,7 +43,7 @@ skills:
 
     
 Hello world! Call me Andrew ,Ugandan by nationality aged 34,an open source technician,earger to learn new methodologies in tech.people call me in
-my home town "DOCTOR DEVICE.
+my home town "**DOCTOR DEVICE**.
 
 
 
@@ -60,4 +60,4 @@ Not only that,through #ASKnet I had an opportunity to learn podcasting and audio
 My contuinity with #ASKnet is going to make me a job maker not a job seeker.
 Conclusively #ASKnet has come to clear an ending complains of an employment among youths across the world.
 
-"JOIN #ASKnet TO BECOME AJOB MAKER NOT A JOB SEEKER"
+"**JOIN #ASKnet TO BECOME AJOB MAKER NOT A JOB SEEKER**"
