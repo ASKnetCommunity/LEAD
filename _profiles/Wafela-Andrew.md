@@ -57,4 +57,4 @@ Not only that,through **ASKnet** I had an opportunity to learn **podcasting and 
 My contuinity with **ASKnet** is going to make me a **job maker not a job seeker**.
 Conclusively **ASKnet** has come to clear an ending complains of an **employment among youths across the world**.
 
-"**JOIN #ASKnet TO BECOME AJOB MAKER NOT A JOB SEEKER**"
+"***JOIN #ASKnet TO BECOME AJOB MAKER NOT A JOB SEEKER***"
