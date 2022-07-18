@@ -17,7 +17,7 @@ twitter: edina_dawa
 facebook: profile.php?id=100004011392292
 instagram: 
 mastodon: 
-wikifab:
+wikifab: dawa edina
 skills:
   - {name: Hardware & Repair, number: 1, qualification: "I have experiences repairing electronics, hardware maintenance and managing repair cafes \n \n 
     * Diploma in Information Technology - where I learnt about repairing electronic devices. \n
