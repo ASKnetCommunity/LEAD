@@ -10,7 +10,7 @@ mail: dawaedina27@gmail.com
 phone: "+256787577005"
 whatsapp: "+256787577005"
 website: 
-telegram: Edina2020
+telegram: +256787577005
 github: dawaedina27
 linkedin: dawa-edina-b75161168
 twitter: edina_dawa
@@ -34,10 +34,17 @@ skills:
 ---
 
 Hello!
-I am Dawa Edina Hillary, a second time refugee in Uganda,  I'm a South Sudanese citizen, age 35, Diploma in Information Technology holder. 
+I am Dawa Edina Hillary, a second time refugee in Uganda,  I'm a South Sudanese, a diploma in Information Technology holder. 
 
-I was born in Rhino camp refugee Settlement in Uganda, I started my education journey in Uganda after completing my O - level (Senior four) in 2010 decided to return home to Yei - South Sudan but unfortunately the tribal war started in 2013, so I had no option than to become a refugee again. I joined University in 2015 and graduated in 2018 with Diploma in information Technology.
+I was born in Rhino camp refugee Settlement in Uganda, I started my education journey in Uganda, I completed my O - level (Senior four) in 2010 and decided to return home to Yei - South Sudan but unfortunately the tribal war started in 2013, so I had no option than to become a refugee again so I decided to join University in 2015 and graduated in 2018 with Diploma in information Technology.
 
-My areas expertise are; Data management, electronic repair and maintenance, Video  editing, Web development and basic programming (coding) skills.
+I worked as an ICT intern in 2018 with Community Technology Empowerment Network (CTEN) in Rhino Camp Refugee Settlement, Uganda 
+I also worked as an ICT instructor from 2019 to 2020 where I and my team members graduated over 500 participants on basic ICT skills, graphics design skills, film production skills, data collection and analysis skills and electronic repair and maintenance (IT essiential - CISCO) with CTEN in partnership with Mercycorps Uganda in Bidibidi refugee settlement, Uganda.
 
-*Above all I love what I do and I do what I love*
+In 2021, I joined CTEN's Monitoring and Evaluation (M&E) Team and I worked under the project of CTEN in partnership with UNHCR Uganda and the Project of CTEN in partnership with Mercycorps with funding from Western Union. I participated in monitoring CTEN's activities in Rhino Refugee settlement, Lobule Refugee settlement, Bidibidi refugee settlement and Kiryandongo refugee settlement.
+
+I co-founded a not - for - profit Community Based Organisazation in Rhino camp refugee settlement called Community Creativity for Development (CC4D) dealing in Environmental protection, Women and Youth empowerment on digital literacy competence and Livelihood Support and Peace Building
+
+I am a great team player, confident, self-motivated, fast learning capabilities, strong documentary/report writing and presentation skills, self-disciplined with strong work ethics, ability to balance priorities, and able to work under pressure.
+
+*Above all I love empowering women and girls*
