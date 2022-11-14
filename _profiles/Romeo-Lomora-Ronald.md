@@ -6,7 +6,7 @@ country: South Sudan
 region: Juba
 hub: 
 languages: "English - Very Good <br>Kakwa - Good <br>Juba Arabic - Very Good"
-mail: Romeo@platformafrica.online
+mail: lomoronald@gmail.com
 phone: "+256394899976"
 whatsapp: "+256750333719"
 website: 
