@@ -2,15 +2,15 @@
 layout: profile
 title:  "Romeo Lomora Ronald"
 image: assets/images/profiles/romeo-ronald-lomora/romeo-ronald-lomora.jpg
-country: Uganda
-region: West Nile
-hub: Platform Africa
+country: South Sudan
+region: Juba
+hub: 
 languages: "English - Very Good <br>Kakwa - Good <br>Juba Arabic - Very Good"
 mail: Romeo@platformafrica.online
 phone: "+256394899976"
 whatsapp: "+256750333719"
 website: 
-telegram: 
+telegram: +256750333719
 github: romeoplat
 linkedin: romeo-ronald-lomora-01a21715b/
 twitter: ronaldlomo
