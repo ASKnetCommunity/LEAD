@@ -1,5 +1,9 @@
 source "https://rubygems.org"
-gem 'webrick'
+
+# for local only development
+# remove the '#' before gem
+#gem 'webrick'
+ 
 gem 'bundler'
 gem 'jekyll'
 gem 'jekyll-sitemap'
