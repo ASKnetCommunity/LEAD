@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+gem 'webrick'
 gem 'bundler'
 gem 'jekyll'
 gem 'jekyll-sitemap'
