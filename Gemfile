@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # To use webrick during local development as HTTP server
 # remove "#" before gem
 
-#gem 'webrick'
+gem 'webrick'
 
 gem 'bundler'
 gem 'jekyll'
