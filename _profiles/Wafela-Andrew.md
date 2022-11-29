@@ -41,8 +41,8 @@ skills:
     " }
 ---
 
-    
 Hello world! Call me Andrew ,Ugandan by nationality aged 34,an open source technician,earger to learn new methodologies in tech.people call me in
+
 my home town ***"DOCTOR DEVICE"***
 
 
@@ -55,9 +55,9 @@ tech from Sudan,Kenya and Berlin germany,led by Mr timm wille who so interesting
 
 ![]({{ site.baseurl }}/assets/images/profiles/wafela-andrew/andrew-1.jpg)
 
-Here was my time to know #ASKnet and later got alink to trackII 2020/2021 where we collaborated on a lot of projects and github documentation. the online collaboration offered by #ASKnet has helped me a great deal because now am able to collaborate on any issue with distant people and am also able to publish my work for views by other experts.
-Not only that,through #ASKnet I had an opportunity to learn podcasting and audio editing by Mr Romeo ronald of platform africa,so as per now i can record my voice and do editing using an open source software audacity.
-My contuinity with #ASKnet is going to make me a job maker not a job seeker.
-Conclusively #ASKnet has come to clear an ending complains of an employment among youths across the world.
+Here was my time to know *ASKnet* and later got alink to *trackII 2020/2021* where we collaborated on a lot of projects and *github documentation*. the online collaboration offered by *ASKnet* has helped me a great deal because now am able to collaborate on any issue with distant people and am also able to publish my work for views by other experts.Not only that,through *ASKnet* I had an opportunity to learn *podcasting and audio editing* by *Mr Romeo ronald* of *platform africa*,so as per now i can record my voice and do editing using an *open source software audacity*.My contuinity with *ASKnet* is going to make me a *job maker not a job seeker*.
+Conclusively *ASKnet* has come to clear an ending complains of an *employment among youths across the world*.
+
 
 ***"JOIN #ASKnet TO BECOME AJOB MAKER NOT A JOB SEEKER"***
+
