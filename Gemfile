@@ -1,8 +1,5 @@
 source "https://rubygems.org"
 
-# Webrick local development server
-#gem 'webrick'
-
 gem 'bundler'
 gem 'jekyll'
 gem 'jekyll-sitemap'
