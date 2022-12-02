@@ -10,10 +10,10 @@ mail: dutandrew78@gmail.com
 phone: "+256782466476"
 whatsapp: "+256782466476"
 website: 
-telegram: BlackElphant
-github: dutandrewkulang
+telegram: DutKulang
+github: DutKulang
 linkedin: dut-andrew-kulang-693b07224
-twitter: dutandrew1
+twitter: DutKulang1
 facebook: BlackElphant
 instagram: 
 mastodon: 
