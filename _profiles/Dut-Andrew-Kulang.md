@@ -14,7 +14,7 @@ telegram: DutKulang
 github: DutKulang
 linkedin: dut-andrew-kulang-693b07224
 twitter: DutKulang1
-facebook: BlackElphant
+facebook: dutandrewkulang
 instagram: 
 mastodon: 
 wikifab:
