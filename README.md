@@ -1,5 +1,7 @@
 # #ASKnet LEAD - the Local Expert Action Directory
-The aims of this project are to collect stories and skills of #ASKnet members to act or pave way as an inspiration about the importance of tech and other developmental skills for the socio-economic development of their communities. ***ASKnet - Access to Skills and Knowledge network***
+The aims of this project are to collect stories and skills of #ASKnet members to act or pave way as an inspiration about the importance of tech and other developmental skills for the socio-economic development of their communities. 
+
+## ASKnet - Access to Skills and Knowledge network
 
 The project calls for independent stories of experts, and shall be collected and documented for future reference in community inspiration and empowerment.
 
@@ -8,7 +10,7 @@ The local expertise can lead trainings, collaboration, gatherings and much more.
 
 If you want to take part, you can start with creating a profile for yourself. You [find the tutorials here](https://github.com/ASKnetCommunity/LEAD/wiki). 
 
-## Partners and Funder
+### Partners and Funder
 
 | r0g Agency | ASKnet  | BMZ |
 | :--------: | :----: | :-------: |
