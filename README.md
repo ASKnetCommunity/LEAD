@@ -5,7 +5,10 @@ The aims of this project are to collect stories and skills of #ASKnet members to
 
 The project calls for independent stories of experts, and shall be collected and documented for future reference in community inspiration and empowerment.
 
-The local expertise can lead trainings, collaboration, gatherings and much more. Feel free to contact any of the peers in your region or [suggest another profile](https://github.com/ASKnetCommunity/LEAD/issues) to be added. You might also want to contact one of the partner Hubs for participation.
+The local expertise can 
+- lead trainings 
+- collaboration 
+- gatherings and much more. Feel free to contact any of the peers in your region or [suggest another profile](https://github.com/ASKnetCommunity/LEAD/issues) to be added. You might also want to contact one of the partner Hubs for participation.
 
 
 If you want to take part, you can start with creating a profile for yourself. You [find the tutorials here](https://github.com/ASKnetCommunity/LEAD/wiki). 
