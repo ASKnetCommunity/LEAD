@@ -1,4 +1,4 @@
-# #ASKnet LEAD - the Local Expert Action Directory
+# ASKnet LEAD - the Local Expert Action Directory
 The aims of this project are to collect stories and skills of #ASKnet members to act or pave way as an inspiration about the importance of tech and other developmental skills for the socio-economic development of their communities. 
 
 ## ASKnet - Access to Skills and Knowledge network
