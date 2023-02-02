@@ -27,10 +27,4 @@ skills:
   - {name: Organisational Development, number: 3, qualification: "Bior has been extensively involved in the project management circle at ATAKA Hub South Sudan since 2019 up to date. \n \n 
     He has been a secretary general of Jonglei State Arts and Music Association for more than three years."}
 ---
-John Bior is a South Sudanese Tech and Media trainer working with ATAKA Hub South Sudan as an Executive Director.
-
-Bior have contributed in various repair cafē events organised under the ASKnet project from year 2019 to 2021.
-
-He had taken part during the Adjumani repair cafē event as one of the lead trainer in 2019.
-
-Bior was one of the pioneers of ASKOTEC kits and he had recently facilitated training in Cameroon in 2021.
+John Bior Ajang is a highly experienced South Sudanese technology and media trainer, serving as the Executive Director at ATAKA Hub South Sudan. He has been a dedicated contributor to various repair café events under the ASKnet project from 2019 to 2021, serving as a lead trainer at the Adjumani repair café event in 2019. With a deep understanding of technology and media, Bior is recognized as one of the pioneers of ASKOTEC kits and has recently facilitated training in Cameroon in 2021. Bior's strong background in technology and media training positions him well to continue making significant contributions to his field.
