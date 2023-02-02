@@ -33,11 +33,4 @@ skills:
     * Diploma and Certificate in Information Technology"} 
 ---
 
-Dawa Edina Hillary is a second time refugee in Uganda, a South Sudanese citizen, age 35, with diploma in Information Technology holder.
-
-She was born in Rhino camp refugee Settlement in Uganda, I started her educational journey in Uganda after completing her O - level (Senior four) in 2010 decided to return home to Yei - South Sudan but unfortunately the tribal war started in 2013, so
-she had no option than to become a refugee again. she joined University in 2015 and graduated in 2018 with Diploma in information Technology.
-
-**She is the Co-Founder of Community Creativity for Development (CC4D) and working as gender advocate, Finance and Admin in CC4D. She worked as IT technician for CTEN Uganda, she also worked ICT instructor for CTEN Uganda, worked M&E assistant (Volunteer) for CTEN Uganda, she also worked as Community girls Teacher for BRAC South Sudan.**
-
-Her areas of expertise are; Data management, electronic repair and maintenance, Video editing, Web development and basic programming (coding) skills.
+Dawa Edina Hillary is a highly skilled Information Technology professional with extensive experience in data management, electronics repair and maintenance, video editing, web development, and basic programming. Holding a diploma in Information Technology, she has demonstrated her expertise through her various roles as an IT technician, ICT instructor, M&E assistant, and community girls teacher. With a passion for using technology to drive community development, she is the Co-Founder of Community Creativity for Development (CC4D), where she currently serves as the gender advocate, finance and admin manager. Born in Rhino Camp refugee settlement in Uganda and forced to become a refugee once again due to tribal conflict in South Sudan, Dawa's experiences have driven her to become a dedicated advocate for gender equality and empowerment through technology.
