@@ -85,4 +85,5 @@ skills:
   
   "}
 ---
+
 Romeo is a highly skilled professional podcaster and audio storyteller with a background as a South Sudanese refugee. He is a strong advocate for open-source tools and open knowledge, and leverages open GIS tools like QGIS to promote the use of mapping in addressing community challenges. As a leader in Platform Africa, Romeo oversees the organization's open knowledge hub and drives initiatives such as Wiki4Refugees and #OpenMapping to provide refugees with access to open source tools and knowledge. Romeo's work is instrumental in transforming communities through the power of technology and open information.
