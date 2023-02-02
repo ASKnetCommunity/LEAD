@@ -17,4 +17,4 @@ instagram: sammydivinda
 mastodon: 
 wikifab:
 ---
-I am a Congolese Refugee in Uganda, I learned ICT skills which have helped me to push my career as a musician, I love creating art and being the art, so the skills that I have learned around the use of ICT for community change has created for a path of being a better responsible and creative refugee.
+Samuel Divinda is a talented Congolese refugee residing in Uganda, with a passion for music and creativity. With a strong foundation in ICT skills, he has been able to push his career as a musician, leveraging technology to create art that inspires and motivates. With a strong commitment to using his abilities for positive change within his community, Samuel has become a responsible and innovative force for good, using his skills to help others and make a difference.
