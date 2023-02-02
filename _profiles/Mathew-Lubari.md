@@ -70,17 +70,4 @@ skills:
     * Winner of the EU: Africa the Journey Job security and financial services category award
 "}
 ---
-
-# Personal Summary
-
-I'm a highly resourceful, reasonably flexible, innovative, and enthusiastic. A quick learner who can absorb new ideas and is experienced in provision of ICT related activities. i.e Computer networks, computer hardware and software support, as well as conducting ICT skills training. A well organized and excellent team player with proven ability to work proactively in a complex and busy office environment. I worked for Community Technology Empowerment Network(CTEN) for 4 years started as an ICT volunteer and worked my way upto a Project Manager position. I also volunteered for other organizations including Real Medicine Foundation (RMF),as a Community Health worker, Action Against Hunger in Nutrition department and MSF France as a Community Informant doing surverlience and data collection and analysis services.
-
-# Outline of personal and Professional Skills
-* Good Knowledge of working with Windows XP, Windows 7, 8 &10, MS Office (Word, Excel, Outlook, PowerPoint, Access), Open Office and Linux OS.
-* Able to configure and troubleshoot LAN and Wireless LAN.
-* Able to efficiently troubleshoot IT related problems.
-* Excellent written and oral communication skills.
-* Able to efficiently and effectively organize and conduct trainings.
-* Able to effectively lead and manage team members.
-
-You can hear about me and my projects in [this podcast episode I did together with the "Restart Project"](https://therestartproject.org/podcast/refugee-repair/). 
+Matthew is a highly resourceful and innovative individual with a passion for information and communications technology (ICT). He possesses exceptional computer network, hardware and software support skills and has a proven track record of conducting effective ICT skills training. Matthew has excellent organizational skills and is a dedicated team player with the ability to work proactively in fast-paced office environments. He has extensive experience in ICT and related fields, having worked for 4 years at the Community Technology Empowerment Network (CTEN), starting as a volunteer and working his way up to the position of Project Manager. He also has a wealth of experience volunteering for organizations such as Real Medicine Foundation, Action Against Hunger, and MSF France, where he served as a Community Health Worker, Community Informant, and provided surveillance and data collection and analysis services. Matthew is proficient in Windows XP, Windows 7, 8 & 10, MS Office (Word, Excel, Outlook, PowerPoint, Access), Open Office and Linux OS, and is skilled in configuring and troubleshooting LAN and wireless LAN networks. He possesses excellent written and oral communication skills and is capable of leading and managing teams effectively. He has been featured in a podcast episode with the “Restart Project” to discuss his projects and expertise.
