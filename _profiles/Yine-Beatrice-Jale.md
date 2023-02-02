@@ -35,6 +35,4 @@ skills:
     2. conflict management skills
     "}
 ---
-I am a South Sudanese woman, who has been faced by a couple of challenges in the war and before it, I have used those challenges to empower solutions that have created a life for me and many other women, by our formation of GOGirls ICT initiative some of those tech-related challenges where among the most minimized in the country yet they could produce yields like confidence building, self-realization, and self-awareness which are key ingredients for anyone to have to make a life decision
-
-I am happy I am part of a community #ASKnet that believes in my dream of creating a safe space for the girl child to be empowered and self-reliant.
+As a dedicated and passionate South Sudanese woman, I have leveraged the challenges I have faced in my life to create solutions that empower myself and others. Through the formation of GOGirls ICT initiative, I have helped to address a number of tech-related challenges and build confidence, self-awareness, and self-realization in the women of my community. I am proud to be part of the #ASKnet community, which supports my dream of creating a safe and empowering environment for girls and young women to develop their skills and become self-reliant.
