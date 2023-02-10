@@ -14,7 +14,7 @@ telegram: "+256782739162"
 github: github.com/sidalillian
 linkedin: 
 twitter: 
-facebook: [Lily Savio](https://www.facebook.com/profile.php?id=100074066215635)
+facebook: profile.php?id=100074066215635
 instagram: Sida Lillian
 mastodon: 
 wikifab:
