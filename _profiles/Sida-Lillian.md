@@ -11,7 +11,7 @@ phone: "+256 (0) 782739162"
 whatsapp: 
 website: 
 telegram: "+256782739162"
-github: github.com/sidalillian
+github: sidalillian
 linkedin: 
 twitter: 
 facebook: profile.php?id=100074066215635
