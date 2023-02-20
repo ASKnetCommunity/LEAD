@@ -24,8 +24,4 @@ skills:
   - {name: Open Source & Knowledge, number: 3, qualification: 'I have a certificate in the #ASKnet 2020 open documentation where I was introduced to git and GitHub.'}
   - {name: Community & Moderation, number: 4, qualification: 'Besides the repair cafes we do as Go-girlsICT, we also ensure well moderated and easy flow of an event we organized.'}
 ---
-I am Sunday Guido Elias.
-
-A South Sudanese female. I was born and raised up in juba, including my studies. I have a diploma of science in Information technology from university of juba. And also I have certificate in general electricity and wiring. And currently, upgrading in information technology in juba university.
-
-I prefer practical more than theory.
+Meet Sunday Guido Elias, a talented South Sudanese woman with a passion for Information Technology. Born and raised in Juba, she has a Diploma in Science in Information Technology from the University of Juba and a certificate in General Electricity and Wiring. Sunday is currently upgrading her IT skills at the University of Juba, where she balances her theoretical knowledge with a practical approach. With her diverse skill set, Sunday is poised to make significant contributions to the IT industry.

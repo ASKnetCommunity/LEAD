@@ -17,4 +17,5 @@ instagram: arkangelolemi
 mastodon: 
 wikifab:
 ---
-I am a refugee living in the Ocea C Rhino camp refugee settlement, I have been trained and equipped by Platform Africa to survive and live my own life, just before the training I had at Platform Africa, I never had a direction but from the media, repair, and using open source tools like audacity and open GIS tools I now lead a team of audio drama group and mappers in Ocea in creating information for my community. 
+
+Arkangelo Lemi is a dynamic individual residing in the Ocea C Rhino camp refugee settlement. He has received comprehensive training from Platform Africa, which has enabled him to effectively lead a purposeful life. Prior to his training at Platform Africa, Arkangelo lacked direction, but now, he has become a highly skilled individual, equipped with a wealth of knowledge in media, repairs, and the use of open source tools like audacity and open GIS. He currently heads a team of audio drama artists and mapping experts, who work together to create valuable information for their community. With his exceptional leadership skills and technical expertise, Arkangelo has become a key figure in driving positive change within the refugee settlement.

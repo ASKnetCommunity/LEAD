@@ -14,4 +14,4 @@ whatsapp: "+211916139905"
 website:
 ---
 
-I have been a trainee at GoGirls ICT Initiative for a whole benefiting from their programs, and now that I have some skills in media and podcasting, I use podcasts as a tool to tell and solve community problems existing
+Miss Iklas Martin, a South Sudanese, is a recent graduate of the GoGirls ICT Initiative where she honed her skills in media and podcasting. She is a creative individual who leverages her newfound expertise to address and find solutions to the pressing issues affecting her community through the use of podcasts as a medium. Iklas Martin is a testament to the power of technology and its role in catalyzing positive change in communities.

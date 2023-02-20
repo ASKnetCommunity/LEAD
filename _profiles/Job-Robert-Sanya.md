@@ -17,6 +17,6 @@ instagram: jobsanya9
 mastodon: 
 wikifab:
 ---
-I am a south Sudanese refugee aged 22, single, and leaving in Rhino camp refugee settlement in Uganda, my passions are creating change for a sustainable society within a community, and learning skills like audio production, ICT, photography has helped me push my carrier and purpose around helping children access education. now I teach at a community school called Hope primary school in my community Ocea.
+Job Robert Sanya is a South Sudanese  residing in Rhino Camp Refugee Settlement in Uganda. He is a dedicated individual who is passionate about creating a sustainable and better society within his community. His expertise in skills such as audio production, information and communication technology, and photography has greatly impacted his community.
 
-I hope to create a better tomorrow for my community
+As a result of his commitment, Job has taken on the role of a teacher at Hope Primary School in Ocea. He uses his skills and knowledge to educate children and provide them with the opportunity to learn and access education. Through his tireless efforts, Job is making a difference in the lives of those around him and working towards a better future for his community.
