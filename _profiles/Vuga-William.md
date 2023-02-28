@@ -25,12 +25,6 @@ skills:
   #ASKnet (Access to skills and Knowledge Network), i received Certificate of completion of the training Program on developing open technology skills and imparting community information \n \n 
   ![repair workshop](/assets/images/profiles/vuga-william/vuga2.jpg) "}
 ---
-Hello! my name is vuga William
-
-A South Sudanese-born refugee for 28 years. As a refugee, I faced a couple of challenges that made me come up with basic yet fulfilling solutions to solving challenges that affect me and my community which included in-access to opportunities in the refugee camp because of the in- access to skills and information and hence I created a Community Based Organization, Youth Empowerment foundation that is empowering and changing the narrative by providing skills and knowledge to refugees and host communities in the refugee camps in Adjumani hence giving me the stand as a tech advocate and community transformer.
-
-Vuga William is my name, am 35 years old. A South Sudanese Male, living in Pagriniya Refugee Settlement in Uganda (Adjuamani district ). This is my second time becoming a refugee in Uganda, due to civil war that erupted back home in 2013 and 2016 in the country South Sudan. This has negatively affected my youthful lifetime.
-
- As life keeps pressing harder Technology has changed everything! I started learning peer to peer with my friends through workshops, and working on the Defyhatenow (Hate speech Mitigation and counteract online and offline hate speech), That was paving way for me to organize lot of meetups and workshops for my community later on founding Youth Enpowerment Foundation (YEF), a community innovation Hub That helps thousand communities both refugee and host to address their local problems, YEF has become a pool for young people to have access to information and basic learning at the center.
+Vuga William is a refugee residing in Pagriniya Refugee Settlement in Adjumani district, Uganda. He has faced several challenges as a refugee and has overcome them by establishing a Community Based Organization, the Youth Empowerment Foundation, aimed at providing skills and knowledge to both refugees and host communities in the refugee camps. He is a tech advocate and community transformer who has acquired his skills through peer-to-peer learning and workshops, including working on the Defyhatenow project. Vuga William has successfully organized several meetups and workshops for his community and has established YEF as a hub for young people to access information and education.
  
 ![workshop](/assets/images/profiles/vuga-william/vuga3.JPG)

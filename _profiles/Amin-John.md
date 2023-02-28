@@ -17,4 +17,5 @@ instagram:
 mastodon: 
 wikifab:
 ---
-I am a South Sudanese refugee, who attained skills at Platform Africa and has now contributed both to my community and South Sudan by creating audios and podcasts for community change, hosted repair cafes, and mapped South Sudan and still in process of mapping more using open-source software like open street map and ODK.
+Amin John is a highly skilled individual with a passion for using their talents to contribute to their community and their home country of South Sudan. With extensive training at Platform Africa, Amin has honed their audio and podcast production skills, becoming an expert in the field.
+Amin's commitment to giving back to their community is evident in their work creating impactful audio and podcast content. Their skills, combined with their passion for making a difference, make them a valuable asset to any organization or community looking to leverage audio and podcast production to drive positive change. Amin's background as a South Sudanese refugee has given them a unique perspective and a drive to use their skills to make a difference in their community and beyond.
