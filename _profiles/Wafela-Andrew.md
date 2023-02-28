@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Wafela Andrew"
-image: assets/images/profiles/wafela-andrew/wafela.png
+image: assets/images/profiles/wafela-andrew/wafela.jpg
 country: Uganda
 region: West Nile
 languages: "English (good), Kiswahili (good), Madi/Lugbara (good), Luganda/Lugisu (good)"
