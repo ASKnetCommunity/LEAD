@@ -39,7 +39,7 @@ Anyanzo Jonathan's passion for working with refugees stems from a desire to empo
 
 He is committed to a continuous professional development and staying up-to-date with the latest trends and developments in the field of ICT. This has enabled me to design and deliver innovative training programs that are tailored to the unique needs of refugees.
 
-If you are seeking a dedicated and knowledgeable ICT Trainer to join your team, I believe that my experience and expertise make me an ideal candidate. I look forward to discussing how I can contribute to your organization's mission of empowering refugees through ICT training.
+His experience and expertise makes him an ideal candidate if you are seeking a dedicated and knowledgeable ICT Trainer to join your team.
 
   
 
