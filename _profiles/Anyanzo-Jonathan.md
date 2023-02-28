@@ -37,7 +37,7 @@ His work at the YEF organization in the refugee camp has given me the opportunit
 
 Anyanzo Jonathan's passion for working with refugees stems from a desire to empower them to rebuild their lives and create a brighter future for themselves and their families. With my strong communication skills, I have been able to build strong relationships with refugees from diverse backgrounds, ensuring that they receive personalized support and guidance.
 
-I am committed to continuous professional development and staying up-to-date with the latest trends and developments in the field of ICT. This has enabled me to design and deliver innovative training programs that are tailored to the unique needs of refugees.
+He is committed to a continuous professional development and staying up-to-date with the latest trends and developments in the field of ICT. This has enabled me to design and deliver innovative training programs that are tailored to the unique needs of refugees.
 
 If you are seeking a dedicated and knowledgeable ICT Trainer to join your team, I believe that my experience and expertise make me an ideal candidate. I look forward to discussing how I can contribute to your organization's mission of empowering refugees through ICT training.
 
