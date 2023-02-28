@@ -33,7 +33,7 @@ Strong organizational skills, able to manage multiple tasks and projects simulta
 ---
 Anyanzo Jonathan is a highly motivated individual with a diploma in computer science, committed to making a positive impact in the lives of refugees. With several years of experience in training and development, I have successfully leveraged my skills and knowledge to equip refugees with the necessary computer skills and knowledge they need to succeed in today's digital world.
 
-My work at the YEF organization in the refugee camp has given me the opportunity to use my expertise in ICT to train and mentor refugees. Through interactive and engaging training sessions, I have been able to provide refugees with the tools they need to harness the power of technology to transform their lives.
+His work at the YEF organization in the refugee camp has given me the opportunity to use my expertise in ICT to train and mentor refugees. Through interactive and engaging training sessions, I have been able to provide refugees with the tools they need to harness the power of technology to transform their lives.
 
 My passion for working with refugees stems from a desire to empower them to rebuild their lives and create a brighter future for themselves and their families. With my strong communication skills, I have been able to build strong relationships with refugees from diverse backgrounds, ensuring that they receive personalized support and guidance.
 
