@@ -30,7 +30,7 @@ skills:
     [http://www.platformafrica.ngo/](http://www.platformafrica.ngo/) \n
     \n
     March 2017 - March 2021 <br>
-    Organize media-related programs for the ASKnet project, Lobby for projects. Coordinate with funders to make projects relevant and impactful to beneficiaries <br>
+    Organize media-related programs for the #ASKnet project, Lobby for projects. Coordinate with funders to make projects relevant and impactful to beneficiaries <br>
     Community Development Center, Rhino camp refugee settlement - Uganda — Community Liason Officer/PR <br>
     [https://cdc.ngo/](https://cdc.ngo/)  \n
     \n
