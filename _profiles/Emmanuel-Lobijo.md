@@ -4,7 +4,7 @@ title:  "Emmanuel Lobijo"
 image: "assets/images/profiles/Emmanuel-Lobijo/Emmanuel-Lobijo.jpg"
 country: South Sudan
 region: Juba
-hub: South Sudan
+hub: Junub Open Space
 languages: "English (very good)"
 mail: Lobijo@junubos.org
 phone: "+211924851524"
@@ -15,7 +15,7 @@ github:
 linkedin: 
 twitter: Elobijo
 facebook: Emmanuel.lobijo
-instagram: lobijo/
+instagram: lobijo
 mastodon: 
 wikifab:
 skills:
