@@ -8,13 +8,13 @@ hub: CC4D
 languages: "English (Fluent spoken and written), Bari/Kakwa (Fluent spoken and spoken), Arabic (good spoken only), Lugbara (fair spoken only)"
 mail: sidalilian@proton.me
 phone: "+256 (0) 782739162"
-whatsapp: "+256782739162"
+whatsapp: 
 website: 
 telegram: "+256782739162"
-github: Sida1990
+github: sidalillian
 linkedin: 
 twitter: 
-facebook: Lily Savio
+facebook: profile.php?id=100074066215635
 instagram: Sida Lillian
 mastodon: 
 wikifab:
@@ -33,6 +33,6 @@ Sida Lilian is a female South Sudanese refugee in Uganda.
 
 Expert in data collection, trauma healing, mediation, event facilitation of different types.
 
-She was trained on how to collect both qualitative and quantitative data by REACH Uganda, Danish Refugee Council, Norwegian Refugee Council Uganda and GROUND TRUTH SOLUTIONS, she was also trained and worked as frontline worker on the *BOOST FOR THE YOUNGEST by Save The Children under Dubai Cara not only that I was also trained on Social Enterprise online by Makerere University - Canada in 2018, she was trained and worked as hygiene Promoter by CEFORD Uganda and was also trained and worked as Community Development Worker (CDW) by Danish Refugee Council.
+She was trained on how to collect both qualitative and quantitative data by REACH Uganda, Danish Refugee Council, Norwegian Refugee Council Uganda and GROUND TRUTH SOLUTIONS, she was also trained and worked as frontline worker on the *BOOST FOR THE YOUNGEST by Save The Children under Dubai Cara not only that she was also trained on Social Enterprise online by Makerere University - Canada in 2018, she was trained and worked as hygiene Promoter by CEFORD Uganda and was also trained and worked as Community Development Worker (CDW) by Danish Refugee Council.
 
 She is confident, talented and determined to transform her community.

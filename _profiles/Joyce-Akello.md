@@ -23,16 +23,9 @@ skills:
   - {name: Community & Moderation, number: 2, qualification: 'Co-Trainer in capacity building, #ASKnet'}
   - {name: Web & Software, number: 3, qualification: 'Knowledgeable in the use of platforms like github, wikifab for online team work and co-creation'}
 ---
-Joyce Akele is a media student at Makere University with the expertie in Both Media and basic tech which include repairs, ICT literacy programs and radio related programs like radio features, podcasts etc, she gained most of her knowldge in her participation in the asknet project where she was the cordinator for a capcity building session (T||rack 1) and as well a memeber of a network of organisations and HUbs that are centered at skilkling and informing their communities on a solution based approach of how they can solve local challenegs (asknet)
 
- From 2018, where Joice started active participation in ASknet programs, she has much appreaciated the use of media and tech in the creation oof local soluytions hence her inspiration to study media in her University studies now.
+Joyce Akele is a highly motivated and skilled media student at Makerere University with a strong focus on both media and technology. She has expertise in various media-related programs such as radio features, podcasts, and ICT literacy programs, as well as basic tech repairs. She gained valuable experience through her participation in the ASKnet project where she served as a coordinator for a capacity-building session (Track 1) and was a member of a network of organizations dedicated to skill building and community information sharing.
 
-Areas of interests and performance:
-- Team work/Team building
-- Communication
-- Community capacity building through media literacy. ie
-  - Radio mini features
-  - Easy features
-  - Vox pops
-  - Photo essays
-  - Interviews
+Since 2018, Joyce has been an active participant in ASKnet programs and has developed a strong appreciation for the impact that media and technology can have in creating local solutions. This experience has inspired her to pursue her studies in media and has become a driving force in her academic and professional pursuits.
+
+Joyce excels in team work and team building, has excellent communication skills, and is passionate about community capacity building through media literacy. Her areas of interest and performance include radio mini features, easy features, vox pops, photo essays, and interviews.
