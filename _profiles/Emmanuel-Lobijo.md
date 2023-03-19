@@ -31,4 +31,4 @@ Emmanuel Lobijo is a South Sudanese filmmaker, social entrepreneur, environmenta
 As a filmmaker, Emmanuel has produced several acclaimed films that have shed light on pressing social issues affecting South Sudanese communities. He is a vocal advocate for human rights and environmental protection, and his work has had a significant impact on raising awareness and mobilizing support for these critical issues.<br>
 Through Junub OS, Emmanuel has leveraged his expertise to develop innovative approaches to education and training, aimed at equipping the youth with the skills they need to thrive in today’s ever-changing society. He is a firm believer in the transformative power of education and has made it his mission to ensure that all young people in his community have access to quality education and information resources.
 
-[Global Innovation Forum 2021 - Speakers - ITUhttps://www.itu.int › Innovation › Pages › Events › GIF](https://www.itu.int/en/ITU-D/Innovation/Pages/Events/2021/GIF/Speakers.aspx)
+[Global Innovation Forum 2021 - Speakers](https://www.itu.int/en/ITU-D/Innovation/Pages/Events/2021/GIF/Speakers.aspx)
