@@ -27,10 +27,8 @@ skills:
 
   - {name: 'Media & Art', number: 4, qualification: 'Emmanuel is a filmmaker, who has produced several acclaimed films that have shed light on pressing social issues affecting South Sudanese communities "[South Sudan’s Sosywood: Coming soon to a screen near you?](https://www.howwemadeitinafrica.com/south-sudans-sosywood-coming-soon-to-a-screen-near-you/61802/) [The Ebenezer show: 20 minutes with Emmanuel Lobijo on reducing Youth Crime in South Sudan"](https://www.youtube.com/watch?v=zXzZieD-lGY)"'}
 ---
-Emmanuel Lobijo is a South Sudanese filmmaker, social entrepreneur, environmentalist, human rights activist, and political education student at Juba University. He is the founder of Junub OS, a community organization dedicated to providing access to education resources, information, and skills training for the youth population in Juba.
-
-As a filmmaker, Emmanuel has produced several acclaimed films that have shed light on pressing social issues affecting South Sudanese communities. He is a vocal advocate for human rights and environmental protection, and his work has had a significant impact on raising awareness and mobilizing support for these critical issues.
-
+Emmanuel Lobijo is a South Sudanese filmmaker, social entrepreneur, environmentalist, human rights activist, and political education student at Juba University. He is the founder of Junub OS, a community organization dedicated to providing access to education resources, information, and skills training for the youth population in Juba.<br>
+As a filmmaker, Emmanuel has produced several acclaimed films that have shed light on pressing social issues affecting South Sudanese communities. He is a vocal advocate for human rights and environmental protection, and his work has had a significant impact on raising awareness and mobilizing support for these critical issues.<br>
 Through Junub OS, Emmanuel has leveraged his expertise to develop innovative approaches to education and training, aimed at equipping the youth with the skills they need to thrive in today’s ever-changing society. He is a firm believer in the transformative power of education and has made it his mission to ensure that all young people in his community have access to quality education and information resources.
 
 [Global Innovation Forum 2021 - Speakers - ITUhttps://www.itu.int › Innovation › Pages › Events › GIF](https://www.itu.int/en/ITU-D/Innovation/Pages/Events/2021/GIF/Speakers.aspx)
