@@ -5,7 +5,7 @@ image: assets/images/profiles/yine-yenki/yine-yenki.jpg
 country: South Sudan
 region: Central Equatoria
 hub: GoGirlsICT
-languages: "English"
+languages: "English (very good), Kuku (very good), Juba Arabic (good)"
 mail: yineyenki@gogirlsict.org
 phone: "+211924115895"
 whatsapp: "+211924115895"
