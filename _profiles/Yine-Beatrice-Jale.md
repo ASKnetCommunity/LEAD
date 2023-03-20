@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Yine Beatrice Jale"
-image: assets/images/profiles/Yine-Beatrice-Jale/Yine-Beatrice-Jale.jpg
+image: assets/images/profiles/Yine-Beatrice-Jale/Yine-Beatrice-Jale-new.jpg
 country: South Sudan
 region: Central Equatoria
 hub: GoGirlsICT
