@@ -7,7 +7,7 @@ region: West Nile
 hub: CC4D
 languages: "English (Fluent spoken and written), Bari/Kakwa (Fluent spoken and spoken), Arabic (good spoken only), Lugbara (fair spoken only)"
 mail: sidalilian@proton.me
-phone: "+256 (0) 782739162"
+phone: "+256782739162"
 whatsapp: 
 website: 
 telegram: "+256782739162"
@@ -15,7 +15,7 @@ github: sidalillian
 linkedin: 
 twitter: 
 facebook: profile.php?id=100074066215635
-instagram: Sida Lillian
+instagram: 
 mastodon: 
 wikifab:
 skills:
