@@ -28,6 +28,10 @@ You can find out how to get the website running and developed locally on your co
 
 - This project was started by the Community members around #ASKnet [Track-II-participants Stories for Community-Empowerment 2020-2021](https://github.com/ASKnet-Open-Training/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021/) - Special thanks to all the mentors who helped create it, we will continue the work with a new direction called LEAD - **Local Expert Action Directory** where you can find the local expertise around you, provided by the [#ASKnet](https://openculture.agency/asknet-access-to-skills-and-knowledge-network/) Community
 
+#### Theme: Kross Theme (https://github.com/themefisher/kross-jekyll)
+- Copyright (c) 2016 - Present, Designed & Developed by Themefisher
+- Licensed under MIT (https://github.com/themefisher/kross-jekyll/blob/main/LICENSE)
+
 #### Bootstrap v4.1.1 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
  * Copyright 2011-2018 Twitter, Inc.
