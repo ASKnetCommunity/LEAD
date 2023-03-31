@@ -11,7 +11,11 @@ The local experts can
 - organize gatherings and much more. 
 
 Feel free to contact any of the peers in your region or [suggest another profile](https://github.com/ASKnetCommunity/LEAD/issues) to be added. You might also want to contact one of the partner Hubs for participation.
-If you want to take part, you can start with creating a profile for yourself. You [find the tutorials here](https://github.com/ASKnetCommunity/LEAD/wiki). 
+If you want to take part, you can start with creating a profile for yourself. You [find the tutorials here](https://github.com/ASKnetCommunity/LEAD/wiki).
+
+## Development
+
+You can find out how to get the website running and developed locally on your computer here: [Development](https://github.com/ASKnetCommunity/ASKnet.Community/wiki/development)
 
 ## Partners and Funder
 
