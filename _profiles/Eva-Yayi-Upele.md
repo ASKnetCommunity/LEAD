@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Eva Yayi Upele"
-image: assets/images/profiles/Eva-Yayi- Upele/Eva-Yayi-Upele.jpg
+image: assets/images/profiles/Eva-Yayi-Upele/Eva-Yayi-Upele.jpg
 country: South Sudan
 region: Juba
 hub: GoGirlsICT

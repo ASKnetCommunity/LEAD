@@ -2,15 +2,15 @@
 layout: profile
 title:  "Romeo Lomora Ronald"
 image: assets/images/profiles/romeo-ronald-lomora/romeo-ronald-lomora.jpg
-country: Uganda
-region: West Nile
-hub: Platform Africa
+country: South Sudan
+region: Juba
+hub: 
 languages: "English - Very Good <br>Kakwa - Good <br>Juba Arabic - Very Good"
-mail: Romeo@platformafrica.online
+mail: lomoronald@gmail.com
 phone: "+256394899976"
 whatsapp: "+256750333719"
 website: 
-telegram: 
+telegram: +256750333719
 github: romeoplat
 linkedin: romeo-ronald-lomora-01a21715b/
 twitter: ronaldlomo
@@ -30,7 +30,7 @@ skills:
     [http://www.platformafrica.ngo/](http://www.platformafrica.ngo/) \n
     \n
     March 2017 - March 2021 <br>
-    Organize media-related programs for the ASKnet project, Lobby for projects. Coordinate with funders to make projects relevant and impactful to beneficiaries <br>
+    Organize media-related programs for the #ASKnet project, Lobby for projects. Coordinate with funders to make projects relevant and impactful to beneficiaries <br>
     Community Development Center, Rhino camp refugee settlement - Uganda — Community Liason Officer/PR <br>
     [https://cdc.ngo/](https://cdc.ngo/)  \n
     \n
@@ -86,4 +86,4 @@ skills:
   "}
 ---
 
-I am a south Sudanese refugee who has been an advocate of open-source tools and open knowledge by the use of open GIS tools like Qgis and other tools to enforce the use of mapping in solving community challenges, I also lead an open knowledge hub in Platform Africa, that has a vision of helping refugees with access to open source tools and knowledge hence our Wiki4refugees initiatives, #openmapping programs that are tailored at allowing the use of open tools for community transformation.
+Romeo is a highly skilled professional podcaster and audio storyteller with a background as a South Sudanese refugee. He is a strong advocate for open-source tools and open knowledge, and leverages open GIS tools like QGIS to promote the use of mapping in addressing community challenges. As a leader in Platform Africa, Romeo oversees the organization's open knowledge hub and drives initiatives such as Wiki4Refugees and #OpenMapping to provide refugees with access to open source tools and knowledge. Romeo's work is instrumental in transforming communities through the power of technology and open information.

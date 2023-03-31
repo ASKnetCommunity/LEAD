@@ -20,6 +20,7 @@ mastodon:
 wikifab:
 skills:
   - {name: Media & Art, number: 1, qualification: 'Diploma in journalism and mass communication, skills in TV/filming/audio production/script/creative writing'}
-  - {name: Organizational Development, number: 2, qualification: "Bachelor's degree in Human Resource Management"}
+  - {name: Organisational Development, number: 2, qualification: "Bachelor's degree in Human Resource Management"}
 ---
-I am Journalist and Human Resource manager by profession. I love seeing people succeed in doing their things. Working together with others is a priority.
+Amanyara Allan is a seasoned professional with a diverse background in journalism and human resource management. With a passion for supporting the success of others, Amanyara places a strong emphasis on teamwork and collaboration in their work. Their experience in journalism, combined with their expertise in human resource management, has equipped them with a unique skill set and the ability to effectively communicate and manage diverse groups of people.
+Amanyara has a strong drive to help others succeed and is committed to fostering a positive and inclusive work environment. Whether working with colleagues or managing a team, Amanyara prioritizes collaboration and teamwork in order to achieve shared goals. Their passion for seeing people succeed, combined with their professional background, makes them a valuable asset to any organization.

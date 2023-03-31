@@ -3,9 +3,9 @@ layout: profile
 title:  "Yine Yenki Nyika"
 image: assets/images/profiles/yine-yenki/yine-yenki.jpg
 country: South Sudan
-region: Juba
+region: Central Equatoria
 hub: GoGirlsICT
-languages: "English - Very Good <br>Kuku - Very Good <br>Juba Arabic - Good"
+languages: "English (very good), Kuku (very good), Juba Arabic (good)"
 mail: yineyenki@gogirlsict.org
 phone: "+211924115895"
 whatsapp: "+211924115895"
@@ -37,4 +37,6 @@ skills:
     2. use of open source tools to solve community challenges \n
     "}
 ---
-Yine yenki is a south Sudanese female computer scientist who is enthusiastic at solving challenges facing the girl child by using tech, and hence the basic programming programs (MIT Scratch, Programming), collaborations with Achirachix and a couple of other organizations, and via the ASKnet project by proving the power of storytelling to the young girls in Juba to empower their self with and assertiveness, and this has made her be prominent and recognized of her service in the capital Juba, she is also a board member of the National Communications Authority a body that regulates the connectivity of the country.
+Yine Yenki Nyika is a highly skilled and accomplished individual, with extensive experience in both academia and the tech industry. As the Co-Founder and Mentorship Director at GoGirls ICT Initiative, she is responsible for overseeing mentor training and leading workshops for the organization. With a Bachelor of Science in Computer Science from Makerere University and previous experience as a Teaching Assistant and Head of the Department of Computer Science at the University of Juba, South Sudan, Yine is well-versed in the field of computer science.
+
+A thought leader in the tech community, Yine has spoken and participated in numerous conferences, both nationally and internationally, and has made substantial contributions to initiatives aimed at promoting digital inclusion, mitigating online and offline hate speech, and advancing the participation of girls and women in STEM fields. As a member of the Board of the National Communication Authority in South Sudan and a coordinator of the Access to Skills and Knowledge network, Yine is dedicated to shaping the future of the tech industry and promoting digital literacy for all.

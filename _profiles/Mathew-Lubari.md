@@ -3,8 +3,8 @@ layout: profile
 title:  "Mathew Lubari"
 image: assets/images/profiles/mathew-lubari/mathew.jpg
 country: Uganda
-region: Rhino Camp
-hub: 
+region: West Nile
+hub: CC4D
 languages: "English: Fluent both spoken and written <br>
 Arabic: Good both spoken and written <br>
 Kakwa: Native"
@@ -43,7 +43,7 @@ skills:
     * Efficiently and effectively conduct virtual meetings and training \n
     * Knowledge on using GitHub \n
 "}
-  - {name: Organizational Development, number: 3, qualification: "I have over 3 years experience in the following areas: \n \n
+  - {name: Organisational Development, number: 3, qualification: "I have over 3 years experience in the following areas: \n \n
 * Project management:  \n 
   Plan, Develop, manage project budget and allocation of resources, \n <br />
   Identifying and managing potential risks and liabilities of multiple projects, \n <br />
@@ -70,29 +70,4 @@ skills:
     * Winner of the EU: Africa the Journey Job security and financial services category award
 "}
 ---
-
-# Personal Summary
-
-I'm a highly resourceful, reasonably flexible, innovative, and enthusiastic. A quick learner who can absorb new ideas and is experienced in provision of ICT related activities. i.e Computer networks, computer hardware and software support, as well as conducting ICT skills training. A well organized and excellent team player with proven ability to work proactively in a complex and busy office environment.
-
-# Detailed Description
-
-Hello world,
-
-My name is Matthew Lubari a South Sudanese by Nationality born in Yei in October 16th, 1991 in a small village called Jombu and Diploma Holder in Infromation Tectnology from the International University of East Africa - Uganda. 
-
-I grew up in South Sudan but most of my time spent in Uganda at school. But in 2016 I came to Uganda as a refugee due to the conflict and I got registered in Bibibidi settlement where I started volunteering with RMF, Action Against Hunger and MSF France – in Uganda as a Community Informant supporting in community mobilization of PSNs and data collection and analysis services before I moved to CTEN where my profession lies.
-
-Technology is my passion, I started it when I was still in senior 3 in 2008. that was the time I accessed a mobile phone an the funny thing was when my friend used to tease to open the phone lock yet I didn’t know.
-
-I am a highly resourceful, reasonably flexible, innovative, and enthusiastic IT personnel with a Diploma in Information Technology from the University of East Africa. I am a quick learner who can absorb new ideas and is experienced in provision of computer hardware and software support, as well as conducting ICT skills training. I am a well-organized and excellent team player with proven ability to work proactively in a complex and busy office environment.
-
-Currently I am working for Community Technology Empowerment Network(CTEN) as a Project Manager. I started as a volunteering in the ICT department tasked with the role of managing all the innovation centers in Rhino Camp and Bidi Bidi. Before joining CTEN in 2017, I volunteered with RMF, Action Against Hunger and MSF France – in Uganda as a Community Informant supporting in community mobilization of PSNs and data collection and analysis services.
-
-Working with CTEN has given me great opportunities like trainings and Networking with others. 
-One of it was the ASKNet training which was funded by r0g agency in 2018 where i was able to learn how to build a solar charger using the available resources. During the training i worked all the night making a portable solar charger which took me about 7hrs where i succeeded in making. This has given courage that when you want achieve something, you need to work tirelessly in other to get it done.
-
-I have also been a team leader for the track II training participants under Platform Africa coordinating with the team and Platform Africa. This training was organized by r0g agency and done virtually focused mainly on open documentation and collaboration. 
-During the course of the training, we organized three repair café session. Where we invited community members to bring in their broken or faulty electronic devices including bicycles to be fixed for use. We also invited experts from the different field of repair during the repair café session.
-
-You can hear about me and my projects in [this podcast episode I did together with the "Restart Project"](https://therestartproject.org/podcast/refugee-repair/). 
+Matthew is a highly resourceful and innovative individual with a passion for information and communications technology (ICT). He possesses exceptional computer network, hardware and software support skills and has a proven track record of conducting effective ICT skills training. Matthew has excellent organizational skills and is a dedicated team player with the ability to work proactively in fast-paced office environments. He has extensive experience in ICT and related fields, having worked for 4 years at the Community Technology Empowerment Network (CTEN), starting as a volunteer and working his way up to the position of Project Manager. He also has a wealth of experience volunteering for organizations such as Real Medicine Foundation, Action Against Hunger, and MSF France, where he served as a Community Health Worker, Community Informant, and provided surveillance and data collection and analysis services. Matthew is proficient in Windows XP, Windows 7, 8 & 10, MS Office (Word, Excel, Outlook, PowerPoint, Access), Open Office and Linux OS, and is skilled in configuring and troubleshooting LAN and wireless LAN networks. He possesses excellent written and oral communication skills and is capable of leading and managing teams effectively. He has been featured in a [podcast episode with the “Restart Project”](https://therestartproject.org/podcast/refugee-repair/) to discuss his projects and expertise.

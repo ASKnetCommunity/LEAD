@@ -3,8 +3,8 @@ layout: profile
 title:  "Mawa Robert"
 image: "assets/images/profiles/mawa-robert/mawa-robert.png"
 country: Uganda
-region: Rhino Camp
-hub: 
+region: West Nile
+hub: CC4D
 languages: "English, Arabic, Kakwa, Pojulu, Kiswahili"
 mail: mawarobert4696@gmail.com
 phone: "+256773044696"
@@ -24,9 +24,4 @@ skills:
   - {name: Media & Art, number: 3, qualification: "In the #ASKnet-community podcast project in 2021, we edited, produced audio dramas with the participants and later proceeded to introducing script writing."}
   - {name: Open Source & Knowledge, number: 4, qualification: "I had my first experience with git and GitHub in 2020 #ASKnet event organized by r0g agency, I was fully introduced to creating my profile and later awarded certificate for the participatation in the Events by Timm Wille."}
 ---
-
-Mawa Robert is my name born on april/01/1996 in yei south sudan
-
-Stayed and went to school in yei but Left the country on  2016
-
-Due to civil war, moved to Uganda were I currently live I look forward to engage in innovation skills to path a way to the next generation through skills innovation. 
+Mawa Robert is a South Sudanese national born on April 1st, 1996. He spent his formative years in Yei, South Sudan where he received his education. However, due to the civil war that erupted in the country, he was forced to leave in 2016 and has since been residing in Uganda. With a strong desire to contribute to the next generation, Mawa Robert is determined to engage in skills innovation and make a positive impact in the lives of others.

@@ -3,19 +3,19 @@ layout: profile
 title:  "Joyce Akello"
 image: "assets/images/profiles/Joyce-Akello/joyce-akello.jpg"
 country: Uganda
-region: Kampala
+region: Central
 hub: 
 languages: "English, Acholi (very good), Arabic, Luganda (fairly good)"
 mail: "akellojoyce62@gmail.com"
-phone: 
-whatsapp: 
+phone: +256775808285
+whatsapp: +256775808285
 website: 
-telegram: 
+telegram: +256775808285
 github: acii4u
 linkedin: 
-twitter: 
+twitter: acii_laweri
 facebook: 
-instagram: 
+instagram: aciiweri
 mastodon: 
 wikifab:
 skills:
@@ -23,16 +23,9 @@ skills:
   - {name: Community & Moderation, number: 2, qualification: 'Co-Trainer in capacity building, #ASKnet'}
   - {name: Web & Software, number: 3, qualification: 'Knowledgeable in the use of platforms like github, wikifab for online team work and co-creation'}
 ---
-I'm Joyce
 
-I actively started engaging in activities of #ASKnet in 2018, with the first repair Cafe held in Eden, Arua Uganda.
+Joyce Akele is a highly motivated and skilled media student at Makerere University with a strong focus on both media and technology. She has expertise in various media-related programs such as radio features, podcasts, and ICT literacy programs, as well as basic tech repairs. She gained valuable experience through her participation in the #ASKnet project where she served as a coordinator for a capacity-building session (Track 1) and was a member of a network of organizations dedicated to skill building and community information sharing.
 
-Areas of interests and performance:
-- Team work/Team building
-- Communication
-- Community capacity building through media literacy. ie
-  - Radio mini features
-  - Easy features
-  - Vox pops
-  - Photo essays
-  - Interviews
+Since 2018, Joyce has been an active participant in #ASKnet programs and has developed a strong appreciation for the impact that media and technology can have in creating local solutions. This experience has inspired her to pursue her studies in media and has become a driving force in her academic and professional pursuits.
+
+Joyce excels in team work and team building, has excellent communication skills, and is passionate about community capacity building through media literacy. Her areas of interest and performance include radio mini features, easy features, vox pops, photo essays, and interviews.
