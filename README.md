@@ -32,6 +32,9 @@ You can find out how to get the website running and developed locally on your co
 - Copyright (c) 2016 - Present, Designed & Developed by Themefisher
 - Licensed under MIT (https://github.com/themefisher/kross-jekyll/blob/main/LICENSE)
 
+#### Jekyll v4.2.1 (https://jekyllrb.com/)
+* Licensed under MIT (https://github.com/jekyll/jekyll/blob/master/LICENSE)
+
 #### Bootstrap v4.1.1 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
  * Copyright 2011-2018 Twitter, Inc.
