@@ -10,7 +10,7 @@ email: steve.fruits@email.com
 phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
 copyright: |
- [MIT Licensed](https://github.com/ASKnetCommunity/LEAD/blob/main/LICENSE.txt) by #ASKnet 2021
+ [MIT Licensed](https://github.com/ASKnetCommunity/LEAD/blob/main/LICENSE.txt) by #ASKnet <script> document.write (new Date().getFullYear())</script>
 
  Credits for [Jekyll Theme](https://github.com/themefisher/kross-jekyll)
 
