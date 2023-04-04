@@ -31,7 +31,7 @@ skills:
 
 ---
 
-Esther Keji is a South Sudanese female refugee living in Uganda but relocated to Juba, graduated from Bugema University with a Diploma and Certificate in Information Technology and worked for CTEN Uganda as a field IT assistant in Bidibidi refugee settlement, Yumbe Uganda, and other Organizations like CECI Uganda.
+Esther Keji is a South Sudanese female refugee from Uganda currently relocated to Juba, graduated from Bugema University with a Diploma and Certificate in Information Technology and worked for CTEN Uganda as a field IT assistant in Bidibidi refugee settlement, Yumbe Uganda, and other Organizations like CECI Uganda.
 An advocate for girls in ICT, she equipped herself with skills in basic ICT, Wed design, programming using VB, C++, and C#, graphics design, data collection, and analysis as well as database design, she also has skills in basic networking.
 She is determined to see her community full of self-reliant women and girls.
 
