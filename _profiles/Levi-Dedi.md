@@ -38,7 +38,7 @@ skills:
     }
 
   - {name: 'Organizational Development', number: 3, qualification: "
-    * I have 2 years of experience in the following fields \n
+    * Has 2 years of experience in the following fields: \n \n
 
     1. Project monitoring and evaluation with Certificate in project planning and management \n
     2. Community mobilization in terms of any advocacy projects \n
@@ -59,4 +59,4 @@ skills:
 ---
 
 Levi Dedi is a South Sudanese refugee living in Uganda since 2016, after the civil war in South Sudan. Levi has a passion for helping communities and hence his growth in the use of tech for community transformation, and in that, he has cherished teamwork and the love for football as a part-time hobby,
-Currently, he works as the monitoring and evaluation office for Global Rehabilitation and Transformation Response (GRTR)
+Currently, he works as the monitoring and evaluation office for Global Rehabilitation and Transformation Response (GRTR).
