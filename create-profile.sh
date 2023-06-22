@@ -26,6 +26,10 @@ if [ ! -f "$path_to_profile" ]
     read -p $'Hub/organization\n' HUB
     HUB=$(echo "$HUB" | tr -s ' ')
 
+    read -p $'Languages Eg: English (Very Good), Dinka (Native), French (Basic)\n' LANGUAGES
+    LANGUAGES=$(echo "$LANGUAGES" | tr -s ' ')
+    
+
     read -p $'In which country are you active in?\n' COUNTRY
     COUNTRY=$(echo "$COUNTRY" | tr -s ' ')
 
@@ -73,7 +77,7 @@ if [ ! -f "$path_to_profile" ]
     read -p $'Other\n' OTHER
     OTHER=$(echo "$OTHER" | tr -s ' ')
 
-    read -p $'Profile bio\n' BIO
+    read -d "@" -p $'Profile bio, Type @ at the end to continue\n' BIO
     BIO=$(echo "$BIO" | tr -s ' ')
 
     #check if the expert already has an image directory
@@ -100,7 +104,7 @@ image: \"$IMAGELINK$D_NAME/$D_NAME\"
 country: $COUNTRY
 region: $REGION
 hub: $HUB
-languages:
+languages: $LANGUAGES
 mail: $EMAIL
 phone: \"$PHONE_NUMBER\"
 whatsapp: \"$WHATSAPP_NUMBER\"
@@ -114,8 +118,10 @@ instagram: $INSTAGRAM
 mastodon: $MASTODON
 wikifab: $WIKIFAB
 skills:
-  - {
-  }
+  - { name: '' , number: 1, qualification: \"\"}
+  - { name: '' , number: 2, qualification: \"\"}
+  - { name: '' , number: 3, qualification: \"\"}
+  - { name: '' , number: 4, qualification: \"\"}
 ---
 $BIO" | tee > $path_to_profile
     else
