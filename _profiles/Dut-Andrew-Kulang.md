@@ -9,7 +9,7 @@ languages: "English (very good), Dinka (very good)"
 mail: dutandrew78@gmail.com
 phone: "+256782466476"
 whatsapp: "+256782466476"
-website: "dutkulang.github.io"
+website: "dutkulang.me"
 telegram: DutKulang
 github: DutKulang
 linkedin: dut-andrew-kulang-693b07224
@@ -23,4 +23,4 @@ skills:
   - {name: 'Open Source & Knowledge', number: 2, qualification: 'Experience using Git, Github, Linux'}
 ---
 
-Dut is a South Sudanese computer developer based in Uganda, a member of #ASKnet network. He has over 5 years experience working in IT industry. He has helped organise and facilitate many workshops teaching Git and GitHub and python in Pagirinya refugee Settlement. He has also helped in development of LEAD website.
+Dut is a South Sudanese software engineer living in Uganda, a member of #ASKnet network. He has over 5 years experience working in IT field,  he writes software tools and scripts to test and automate tasks. He has helpes organise and facilitates many workshops and bootcamps teaching basics computer skills,  Git & GitHub and python in Pagirinya refugee Settlement.He has also helpes in development of the #ASKnet LEAD website. He contributes to open source projects like [Mozilla](https://developer.mozilla.org) where many of his code suggestions, corrections accepted and merged into the main site.
