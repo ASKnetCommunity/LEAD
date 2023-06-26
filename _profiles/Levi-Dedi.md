@@ -48,7 +48,7 @@ skills:
     6. Certificate in pitching. Training organized by rog agency \n"
 }
 
-  - {name: 'Community and Moderation', number: 4, qualification: "
+  - {name: 'Community & Moderation', number: 4, qualification: "
   1. Community mobilization for an activity \n
   2. Certificate in counseling and guidance \n
   3. Organizing and facilitating training \n
