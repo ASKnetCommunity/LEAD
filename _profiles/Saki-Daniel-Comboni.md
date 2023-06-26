@@ -7,8 +7,8 @@ region: West Nile
 hub: Youth Empowerment Foundation
 languages: "English (very Good), Madi (very good)"
 mail: shakissdanniell49@gmail.com
-phone: "+256780877885"
-whatsapp: "+256780877885"
+phone: "+256788667785"
+whatsapp: "+256788667785"
 website: 
 telegram: Shakiss
 github: 
