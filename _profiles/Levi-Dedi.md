@@ -37,7 +37,7 @@ skills:
     4. Experience in conducting virtual meetings carried out online "
     }
 
-  - {name: 'Organizational Development', number: 3, qualification: "
+  - {name: 'Organisational Development', number: 3, qualification: "
     * Has 2 years of experience in the following fields: \n \n
 
     1. Project monitoring and evaluation with Certificate in project planning and management \n

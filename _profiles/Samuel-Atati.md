@@ -19,7 +19,7 @@ instagram:
 mastodon: 
 wikifab: 
 skills:
-  - { name: 'Organizational Development' , number: 1, qualification: "Executive Director and co-founder of Humanity Alliance for Rural Development(HARD)"}
+  - { name: 'Organisational Development' , number: 1, qualification: "Executive Director and co-founder of Humanity Alliance for Rural Development(HARD)"}
   - { name: 'Media & Art', number: 2, qualification: "A videographer, Comedian and Content Creator"}
 ---
 Samuel Atati is a young social entrepreneur and community leader who has dedicated his life to improving the lives of rural communities in Uganda. He is the founder of the Humanity Alliance for Rural Development (HARD), a refugee youth-led organization that aims to empower and uplift marginalized communities through education, entrepreneurship, and community development initiatives.

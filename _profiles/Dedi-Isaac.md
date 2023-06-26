@@ -20,7 +20,7 @@ mastodon:
 wikifab: 
 skills:
   - { name: 'Community & Moderation', number: 1, qualification: "Youth Advocator"}
-  - { name: 'Organizational Development' , number: 2, qualification: "Executive Director of YFTC" }
+  - { name: 'Organisational Development' , number: 2, qualification: "Executive Director of YFTC" }
   - { name: 'Media & Art' , number: 3, qualification: "
   * A Digital Story Teller
   

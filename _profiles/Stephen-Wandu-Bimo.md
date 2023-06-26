@@ -19,7 +19,7 @@ instagram:
 mastodon: 
 wikifab: 
 skills:
-  - { name: Organizational Development, number: 1, qualification: 'Holds Diploma in Public Relationship'}
+  - { name: Organisational Development, number: 1, qualification: 'Holds Diploma in Public Relationship'}
   - { name: Media & Art, number: 2, qualification: 'Singer and Songwriter'}
 
   - { name: Community & Moderation, number: 3, qualification: "

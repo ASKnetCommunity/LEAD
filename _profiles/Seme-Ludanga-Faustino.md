@@ -19,7 +19,7 @@ instagram: semeludangafaustino
 mastodon: 
 wikifab:
 skills:
-  - {name: 'Organizational Development', number: 1, qualification: "
+  - {name: 'Organisational Development', number: 1, qualification: "
   * Certificate in logistic and procurement management \n
   * Worked as assistant logistic officer at Kisito Healthcare International \n
   * HR/Project coordinator [I can South Sudan](https://icansouthsudan.org)\n

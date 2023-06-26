@@ -24,7 +24,7 @@ skills:
   
   * Working as a mobilizing officers for RRSA
   "}
-  - {name: 'Organizational Development' , number: 2, qualification: '
+  - {name: 'Organisational Development' , number: 2, qualification: '
   * The Co-founder OF RRSA and <a href="https://www.youtube.com/@keliboyscomedy211">Keli Boys</a>
   
   * Youth advocate.

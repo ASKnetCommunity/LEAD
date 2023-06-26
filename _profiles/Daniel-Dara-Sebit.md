@@ -19,7 +19,7 @@ instagram:
 mastodon: 
 wikifab: 
 skills:
-  - {name: "Organizational Development", number: 1, qualification: "
+  - {name: "Organisational Development", number: 1, qualification: "
     * Certificate in CSSC
 
     * Cohere Hub Coordinator in Imvepi
