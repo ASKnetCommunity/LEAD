@@ -32,7 +32,7 @@ skills:
   * Traîner at Cohere Hub in Imvepi
   "}
 
-  - {name: Media & Art, number: 2, qualification: "
+  - {name: Media & Art, number: 3, qualification: "
   * Certificate in Forum theater
 
   * A comedian
