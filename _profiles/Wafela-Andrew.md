@@ -8,14 +8,14 @@ languages: "English (good), Kiswahili (good), Madi/Lugbara (good), Luganda/Lugis
 hub: Youth Empowerment Foundation
 github: chardso
 mail: wafelaandrew2@gmail.com
-mail2:hardwareandelectronicsprototyp@gmail.com
-twitter: @WafelaAndrew
+mail: hardwareandelectronicsprototyp@gmail.com
+twitter: WafelaAndrew
 facebook: wafela.andrew.9
 instagram: wafela_andrew
 phone: "+256785437751"
 whatsapp: "+256785437751"
 telegram: Chadso
-LinkedIn:Andrew Wafela
+LinkedIn: Andrew Wafela
 website: 
 skills:
   - {name: 'Hardware & Repair', number: 1, qualification: " 
