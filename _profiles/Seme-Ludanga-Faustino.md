@@ -4,7 +4,7 @@ title:  "Seme Ludanga Faustino"
 image: "assets/images/profiles/Seme-Ludanga-Faustino/Seme-Ludanga-Faustino.jpg"
 country: Uganda
 region: West Nile
-hub: Eagle's Wing Computer Center (#ASKnet 2018 Trainee, CTEN)
+hub: Eagle's Wing Computer Center
 languages: "English (fluent), Juba Arabic (fluent), Bari (good), Kakwa (fluent)"
 mail: semeludanga29@gmail.com
 phone: "+256786358785"
