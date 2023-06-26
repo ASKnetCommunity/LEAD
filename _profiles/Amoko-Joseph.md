@@ -19,16 +19,12 @@ instagram: Iam_amokojoseph
 mastodon: 
 wikifab: 
 skills:
-  - { name: 'Podcasting and Audio Productiom' , number: 1, qualification: "
-  * <a href='https://soundcloud.com/refugee-youth-podcast/living-as-a-refugee-in-a-refugee-camp-in-uganda?si=34e5ad1e90ea44e09f5d16e7eec9d42e'>Life of a Refugee</a>
-
-  * <a href='https://soundcloud.com/refugee-youth-podcast/conversation-with-youth-protection-officer-unhcr?si=adeb91e64f6f4dd2a2dd90d369643ea0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'>Interview with UNHCR Senior Protecttion associate </a>
-
-  * <a href='https://soundcloud.com/refugee-youth-podcast/life-of-a-refugee-mother-as-a-refugee-in-a-refugee-settlement-in-uganda?si=ec12cfa2274c4a249c52abff77a10968&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'>Life of a mother in a refugee camp</a>
-
-  * <a href='https://soundcloud.com/refugee-youth-podcast/a-second-chance-to-education?si=dc0b3dcae2ff4a3980dba0dcf9d5f1cc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'>A second chance Drama</a>
-
-  * <a href='https://soundcloud.com/refugee-youth-podcast?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'>The refugee Youth Podcast</a>
+  - { name: 'Media & Art' , number: 1, qualification: "
+  * <a href='https://soundcloud.com/refugee-youth-podcast/living-as-a-refugee-in-a-refugee-camp-in-uganda?si=34e5ad1e90ea44e09f5d16e7eec9d42e'>Life of a Refugee</a> \n
+  * <a href='https://soundcloud.com/refugee-youth-podcast/conversation-with-youth-protection-officer-unhcr?si=adeb91e64f6f4dd2a2dd90d369643ea0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'>Interview with UNHCR Senior Protecttion associate </a>\n
+  * <a href='https://soundcloud.com/refugee-youth-podcast/life-of-a-refugee-mother-as-a-refugee-in-a-refugee-settlement-in-uganda?si=ec12cfa2274c4a249c52abff77a10968&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'>Life of a mother in a refugee camp</a> \n
+  * <a href='https://soundcloud.com/refugee-youth-podcast/a-second-chance-to-education?si=dc0b3dcae2ff4a3980dba0dcf9d5f1cc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'>A second chance Drama</a> \n
+  * <a href='https://soundcloud.com/refugee-youth-podcast?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'>The refugee Youth Podcast</a> \n
   "}
 
 ---
