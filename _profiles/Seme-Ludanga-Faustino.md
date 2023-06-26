@@ -39,7 +39,7 @@ skills:
   * Certificate in event management \n
   * Organized football leagues \n
   "}
-  - {name: 'Media & Art - Video, graphics skills, music, design', number: 4, qualification: "
+  - {name: 'Media & Art', number: 4, qualification: "
   * Certificate in photo and videography from WFP \n
   * Working with WFP as a digital story teller \n
   * He is a singer and song writer \n
