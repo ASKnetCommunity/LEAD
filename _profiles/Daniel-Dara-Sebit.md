@@ -19,8 +19,24 @@ instagram:
 mastodon: 
 wikifab: 
 skills:
-  - {
+  - {name: "Organizational Development", number: 1, qualification: "
+    * Certificate in CSSC
+
+    * Cohere Hub Coordinator in Imvepi
+  "
   }
+
+  - {name: Web & Software, number: 2, qualification: "
+  * Certificat in Computer Application
+  
+  * Traîner at Cohere Hub in Imvepi
+  "}
+
+  - {name: Media & Art, number: 2, qualification: "
+  * Certificate in Forum theater
+
+  * A comedian
+  "}
 ---
 Danniel Dara Sebit is a humanitarian worker and community leader who currently works as a hub coordinator at Cohere Hub in Imvepi Refugee Settlement, located in the Terego District
 
