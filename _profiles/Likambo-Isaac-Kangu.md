@@ -24,7 +24,7 @@ skills:
     * Working as a psychosocial Counselor and HIV, TB/ Leprosy Counselor in the Health Sector in Bidibidi Refugee Settlement.\n
   "}
 
-  - { name: "Organizational Development", number: 2, qualification: "
+  - { name: "Organisational Development", number: 2, qualification: "
     * Diploma in Community Development Studies \n
     * The Cofounder Community Initiative For Rehabilitation and Transformation and CEO of The Refugee Voice all Refugee Led Organization.\n
     * Youth advocate.\n"}

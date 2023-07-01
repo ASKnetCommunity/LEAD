@@ -65,6 +65,7 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
     wdm (0.1.1)
+    webrick (1.7.0)
 
 PLATFORMS
   x86_64-linux-musl
@@ -75,6 +76,8 @@ DEPENDENCIES
   jekyll-remote-include!
   jekyll-sitemap
   wdm (>= 0.1.0)
+  webrick
 
 BUNDLED WITH
-   2.2.24
+   2.3.25
+

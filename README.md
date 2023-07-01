@@ -11,7 +11,11 @@ The local experts can
 - organize gatherings and much more. 
 
 Feel free to contact any of the peers in your region or [suggest another profile](https://github.com/ASKnetCommunity/LEAD/issues) to be added. You might also want to contact one of the partner Hubs for participation.
-If you want to take part, you can start with creating a profile for yourself. You [find the tutorials here](https://github.com/ASKnetCommunity/LEAD/wiki). 
+If you want to take part, you can start with creating a profile for yourself. You [find the tutorials here](https://github.com/ASKnetCommunity/LEAD/wiki).
+
+## Development
+
+You can find out how to get the website running and developed locally on your computer here: [Development](https://github.com/ASKnetCommunity/ASKnet.Community/wiki/development)
 
 ## Partners and Funder
 
@@ -23,6 +27,13 @@ If you want to take part, you can start with creating a profile for yourself. Yo
 ## Credits
 
 - This project was started by the Community members around #ASKnet [Track-II-participants Stories for Community-Empowerment 2020-2021](https://github.com/ASKnet-Open-Training/ASKnet-Track-II-participants-stories-Community-Empowerment-2020-2021/) - Special thanks to all the mentors who helped create it, we will continue the work with a new direction called LEAD - **Local Expert Action Directory** where you can find the local expertise around you, provided by the [#ASKnet](https://openculture.agency/asknet-access-to-skills-and-knowledge-network/) Community
+
+#### Theme: Kross Theme (https://github.com/themefisher/kross-jekyll)
+- Copyright (c) 2016 - Present, Designed & Developed by Themefisher
+- Licensed under MIT (https://github.com/themefisher/kross-jekyll/blob/main/LICENSE)
+
+#### Jekyll v4.2.1 (https://jekyllrb.com/)
+* Licensed under MIT (https://github.com/jekyll/jekyll/blob/master/LICENSE)
 
 #### Bootstrap v4.1.1 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors

@@ -4,7 +4,7 @@ title:  "Seme Ludanga Faustino"
 image: "assets/images/profiles/Seme-Ludanga-Faustino/Seme-Ludanga-Faustino.jpg"
 country: Uganda
 region: West Nile
-hub: Eagle's Wing Computer Center
+hub: CTEN
 languages: "English (fluent), Juba Arabic (fluent), Bari (good), Kakwa (fluent)"
 mail: semeludanga29@gmail.com
 phone: "+256786358785"
@@ -19,7 +19,7 @@ instagram: semeludangafaustino
 mastodon: 
 wikifab:
 skills:
-  - {name: 'Organizational Development', number: 1, qualification: "
+  - {name: 'Organisational Development', number: 1, qualification: "
   * Certificate in logistic and procurement management \n
   * Worked as assistant logistic officer at Kisito Healthcare International \n
   * HR/Project coordinator [I can South Sudan](https://icansouthsudan.org)\n
@@ -39,7 +39,7 @@ skills:
   * Certificate in event management \n
   * Organized football leagues \n
   "}
-  - {name: 'Media & Art - Video, graphics skills, music, design', number: 4, qualification: "
+  - {name: 'Media & Art', number: 4, qualification: "
   * Certificate in photo and videography from WFP \n
   * Working with WFP as a digital story teller \n
   * He is a singer and song writer \n

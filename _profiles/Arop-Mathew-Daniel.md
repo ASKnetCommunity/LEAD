@@ -20,7 +20,7 @@ mastodon:
 wikifab: Aropmathewdaniel
 skills:
   - {name: 'Web & Software', number: 1, qualification: "A bachelors degree in Information Technology"}
-  - {name: 'Organizational Development', number: 2, qualification: "Six month certificate on organisational and operational development"}
+  - {name: 'Organisational Development', number: 2, qualification: "Six month certificate on organisational and operational development"}
   - {name: 'Hardware & Repair', number: 3, qualification: "A bachelors degree in Information Technology"}
   - {name: 'Data Security & Research', number: 4, qualification: "A bachelors degree in Information Technology"}
 ---

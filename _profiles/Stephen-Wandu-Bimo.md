@@ -4,7 +4,7 @@ title: "Stephen Wandu Bimo"
 image: "assets/images/profiles/Stephen-Wandu-Bimo/Stephen-Wandu-Bimo.jpeg"
 country: Uganda
 region: West Nile
-hub: I CAN SOUTH SUDAN
+hub: <a href="https://www.icansouthsudan.com/about-i-can-south-sudan" target=_blank>I CAN SOUTH SUDAN</a>
 languages: English (Good), Juba Arabic (Good), French (Good), Songo (Good), Azende (Native)
 mail: uekowandu@gmail.com
 phone: "+256774857262"
@@ -19,7 +19,7 @@ instagram:
 mastodon: 
 wikifab: 
 skills:
-  - { name: Organizational Development, number: 1, qualification: 'Holds Diploma in Public Relationship'}
+  - { name: Organisational Development, number: 1, qualification: 'Holds Diploma in Public Relationship'}
   - { name: Media & Art, number: 2, qualification: 'Singer and Songwriter'}
 
   - { name: Community & Moderation, number: 3, qualification: "

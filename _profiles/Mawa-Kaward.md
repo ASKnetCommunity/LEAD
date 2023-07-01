@@ -25,7 +25,7 @@ skills:
   * A GBV activist
   "}
 
-  - { name: 'Organizational Development' , number: 2, qualification: "
+  - { name: 'Organisational Development' , number: 2, qualification: "
     * The executive director and co-founder of CIRT 
   "}
 

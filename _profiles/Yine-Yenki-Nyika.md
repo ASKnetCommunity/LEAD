@@ -31,7 +31,7 @@ skills:
     1. Co-created Podcasting training \n
     2. Direct audio Stories
     "}
-  - {name: Community Management, number: 3, qualification: 'project management experience'}
+  - {name: Community & Moderation, number: 3, qualification: 'project management experience'}
   - {name: Open Source & Knowledge, number: 4, qualification: "
     1. an advocate of open knowledge \n
     2. use of open source tools to solve community challenges \n
