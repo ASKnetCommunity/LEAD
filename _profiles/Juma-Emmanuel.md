@@ -31,11 +31,11 @@ skills:
   * Fact checking skills (debunking skills)\n
   * Basic cyber security knowledge.\n
   * Able to connect and use the internet for research and communication"}
-  - { name: 'Organizational Development' , number: 3, qualification: "
+  - { name: 'Organisational Development' , number: 3, qualification: "
   * Leadership skills. I managed to conduct trainings and outreach programs for radio one juba.\n
   * I also served as a minster of internal affairs while at United Media Consultants And Trainers (UMCAT) school of journalism and mass communication\n
   * I organized school meetings."}
-  
+
 ---
 I am Juma Emmanuel a multimedia journalist. I tell stories through audio, visual video and I can also use text to tell stories that's writing. I also connect people through the use of media. I use the media to create a peaceful environment, connect and educate my society. I'm also passionate about youth empowerment and one of my biggest skills include advocating for the youth to be useful and that's through the media.
 I also have a skill in podcasting, media content creation such as text, audio and video editing
