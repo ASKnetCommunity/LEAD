@@ -23,7 +23,7 @@ skills:
   * Change management\n
   * Leadership\n
   * Data analysis and interpretation\n
-  * Organizational culture and change
+  * Organisational culture and change
    "}
    
   - {name: 'Financial and Administration', number: 2, qualification: "
