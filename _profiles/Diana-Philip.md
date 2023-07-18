@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: "Diana Philip"
-image: "assets/images/profiles/Diana-Philip/Diana-Philip"
+image: "assets/images/profiles/Diana-Philip/Diana-Philip.jpg"
 country: South Sudan
 region: Central Equatoria
 hub: GoGirlsICT
