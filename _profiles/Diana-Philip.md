@@ -8,9 +8,9 @@ hub: Gogirlsict
 languages: English, Juba-Arabic
 mail: 
 phone: "+211 915000001"
-whatsapp: "+211 915000001"
+whatsapp: "+211915000001"
 website: 
-telegram: +211 915000001
+telegram: +211915000001
 github: 
 linkedin: 
 twitter: 
@@ -20,9 +20,6 @@ mastodon:
 wikifab: 
 skills:
   - { name: 'Hardware & Repair' , number: 1, qualification: "* Certificate"}
-  - { name: '' , number: 2, qualification: ""}
-  - { name: '' , number: 3, qualification: ""}
-  - { name: '' , number: 4, qualification: ""}
 ---
 Am call Diana Philip a south Sudanese by nationality .
 Live in south Sudan juba!
