@@ -25,7 +25,7 @@ skills:
   * Experience in electrical and mechanical repairs (radios, phone, sound systems, generators, motorbikes, solar lanterns and solar systems)\n
   * Knowledge in DSTV and other satellite television installation (Euro star, Star times)\n
   * Experience in Automotive repair and maintenance –with Certificate from Madi and west Nile economical vocational center"}
-  - { name: 'Community mobilization & Moderation' , number: 2, qualification: "
+  - { name: 'Community & Moderation' , number: 2, qualification: "
   * Ability to mobilize community members for an activity\n
   * I have over 4 years’ experience in organizing community events.\n
   * Experience in translation of message from English to the local languages such as Bari, Kakwa, Arabic and Lubgarati.\n

@@ -46,4 +46,4 @@ skills:
   * Musical instrument player \n
   "}
 ---
-Seme Ludanga Faustino is a South Sudanese refugee in Uganda and age 28, an Organisational developer, digital story teller, a photographer and videographer, event creation and management, singer and a song writer. he likes music and playing musical instruments like guitar, piano and others. he also likes taking photographs of people and the nature, loves working with talented people, sharing of knowledge with others and loves raising up more young man and women in all areas that he is skilled in.
+Seme Ludanga Faustino is a South Sudanese refugee in Uganda and age 28, an organisational developer, digital story teller, a photographer and videographer, event creation and management, singer and a song writer. he likes music and playing musical instruments like guitar, piano and others. he also likes taking photographs of people and the nature, loves working with talented people, sharing of knowledge with others and loves raising up more young man and women in all areas that he is skilled in.
