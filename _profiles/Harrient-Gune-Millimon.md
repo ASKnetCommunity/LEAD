@@ -4,7 +4,7 @@ title: "Harrient Gune Millimon"
 image: "assets/images/profiles/Harrient-Gune-Millimon/Harrient-Gune-Millimon.jpg"
 country: South Sudan
 region: Central Equatoria
-hub: Gogirls
+hub: GoGirlsICT
 languages: English, Kuku, Juba-Arabic
 mail: harrietubi44@gmail.com
 phone: "+211 910059537"
