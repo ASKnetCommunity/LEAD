@@ -39,6 +39,5 @@ skills:
   * Coordination with stake holders.\n
   * Ability to manage team members and work as a Team.
   "}
-  - { name: '' , number: 4, qualification: ""}
 ---
 I'm Aloro Alex a South Sudanese refugee based in Rhino camp, with an innovative mindset of empowering and improving the lives styles of the disadvantaged groups on how to think within the environment they are in to generate income for self-reliance, this motivation came up as a dream after noticing other bad things youths are doing in the settlement Rape, robber, drugs abuse, early marriage and school dropout. I am an expert in doing creative innovation things.
