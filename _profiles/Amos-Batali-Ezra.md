@@ -22,9 +22,7 @@ skills:
   - { name: 'Web & Software' , number: 1, qualification: "
   * I have a broad knowledge in Website Development (WordPress) that has propelled me to handle over 5 projects in a month for clients all over from Nigeria, Kenya, Tanzania Uganda and South Sudan so forth.\n
   * Experience is computer graphics using adobe photoshop."}
-  - { name: '' , number: 2, qualification: ""}
-  - { name: '' , number: 3, qualification: ""}
-  - { name: '' , number: 4, qualification: ""}
+
 ---
 I'm Amos Batali Ezra a refugee, currently living in Yangani Camp, Zone Five Bidibidi Refugee Settlement Uganda. I am one of the top creative Graphic | Web designers because with lots of passion for IT related activities. I am drawn to projects that challenge my creativity and get me thinking outside the Caves ultimately making up stunning designs.
 - Extremely flexible person who easily adapts to the situations without compromising with principles and responsibilities; one that values consultation and transparency; respect for others; and a zealous believer in voluntarism.
