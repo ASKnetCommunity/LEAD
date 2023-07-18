@@ -4,7 +4,7 @@ title: "Diana Philip"
 image: "assets/images/profiles/Diana-Philip/Diana-Philip"
 country: South Sudan
 region: Central Equatoria
-hub: Gogirlsict
+hub: GoGirlsICT
 languages: English, Juba-Arabic
 mail: 
 phone: "+211 915000001"
