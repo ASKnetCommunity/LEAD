@@ -37,6 +37,8 @@ skills:
     2. trainer on data security online and offline
     "}
 ---
-Eva Yayi is a full stack south sudanese Programmer/ Computer scientist who has been exposed to a couple of tech challenges and used them to her advantage of coming with solutions that could help over coming them lie the opening of a girls Tech led organisation to develop strategies of including women in tech decisions
+Eva Yayi is a South Sudanese proficient full-stack programmer and computer scientist who has adeptly navigated various technical challenges, leveraging them to devise innovative solutions.
 
-She has a masters in Computer science and is ready to create change along with her expertise.
+Her proactive approach is exemplified by her establishment of a girls' Tech-led organization, dedicated to formulating strategies for integrating women into pivotal tech decision-making processes. 
+
+Holding a master's degree in Computer Science, Eva Yayi is poised to drive impactful change through her extensive expertise and visionary initiatives.
