@@ -1,7 +1,7 @@
 ---
 layout: profile
 title:  "Mawa Robert"
-image: "assets/images/profiles/mawa-robert/mawa-robert.png"
+image: "assets/images/profiles/Mawa-Robert/Mawa-Robert.png"
 country: Uganda
 region: West Nile
 hub: CC4D
@@ -26,4 +26,4 @@ skills:
 ---
 Robert is a South Sudanese national born on April 1st, 1996. He spent his formative years in Yei, South Sudan where he received his education. 
 
-However, due to the civil war that erupted in the country, he was forced to leave in 2016 and has since been residing in Uganda. With a strong desire to contribute to the next generation, Robert is determined to engage in skills innovation and make a positive impact in the lives of 
+However, due to the civil war that erupted in the country, he was forced to leave in 2016 and has since been residing in Uganda. With a strong desire to contribute to the next generation, Robert is determined to engage in skills innovation and make a positive impact in the lives of others.
