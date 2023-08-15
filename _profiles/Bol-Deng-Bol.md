@@ -22,4 +22,4 @@ skills:
   - { name: 'Organisational Development' , number: 1, qualification: "
   * Bachelor's Degree in Business Administration and Managementn from St. Paul University Kenya"}
 ---
-Bol Deng Bol is a human rights activist and an expert in the civil society advocacy and lobbying field for more than 5 years and he is the chairperson of the Jonglei Civil Society Network of more than 50+ CSOs, NGOs and CBOs in the Greater Jonglei region of South Sudan.
+Bol Deng Bol is a human rights activist and an expert in the civil society. He has been peace lobby and advocacy for more than 5 years and he has been the chairperson of the Jonglei Civil Society Network of more than 50+ CSOs, NGOs and CBOs in the Greater Jonglei region of South Sudan.
