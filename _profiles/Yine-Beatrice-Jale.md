@@ -35,4 +35,8 @@ skills:
     2. conflict management skills
     "}
 ---
-As a dedicated and passionate South Sudanese woman, I have leveraged the challenges I have faced in my life to create solutions that empower myself and others. Through the formation of GOGirls ICT initiative, I have helped to address a number of tech-related challenges and build confidence, self-awareness, and self-realization in the women of my community. I am proud to be part of the #ASKnet community, which supports my dream of creating a safe and empowering environment for girls and young women to develop their skills and become self-reliant.
+A dedicated and passionate South Sudanese woman, Beatrice leverages life's challenges and creates solutions that empower herself and others.
+
+Through the formation of GOGirls ICT initiative, she helped to address a number of tech-related challenges and build confidence, self-awareness, and self-realization among women in her community. 
+
+Beatrice is proud to be part of the #ASKnet community, which supports her dream of creating a safe and empowering environment for girls and young women to develop their skills and become self-reliant.
