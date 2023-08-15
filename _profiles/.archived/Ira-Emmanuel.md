@@ -28,6 +28,6 @@ Ira Emmanuel is South Sudanese Refugee change maker in Uganda, He is the current
 
 He has has a keen interest in uplifting his community due shaped by personal experiences in the refugee situation and Business Education (BBA-Accounting) he attained from Bugema University.
 
-He has a sound and clear interest in Organisational management, entrepreneurship, financial literacy, anti-corruption activism and media.
+He has a sound and clear interest in organisational management, entrepreneurship, financial literacy, anti-corruption activism and media.
 
-He has accumulated skills in various activities under Youth Empowerment Foundation and series of training in TRACK I mentorship program by r0g agency for open culture and critical transformation and other actors in the ecosystem driving creative economy in Uganda, he has excellent knowledge in project proposal writing, report writing, financial reporting, and overall Organisational management.
+He has accumulated skills in various activities under Youth Empowerment Foundation and series of training in TRACK I mentorship program by r0g agency for open culture and critical transformation and other actors in the ecosystem driving creative economy in Uganda, he has excellent knowledge in project proposal writing, report writing, financial reporting, and overall organisational management.

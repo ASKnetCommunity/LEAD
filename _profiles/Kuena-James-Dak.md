@@ -3,7 +3,7 @@ layout: profile
 title: "Kuena James Dak"
 image: "assets/images/profiles/Kuena-James-Dak/Kuena-James-Dak.jpg"
 country: South Sudan
-region: Central Equatoria State
+region: Central Equatoria
 hub: Youth Social Advocacy Team (Ysat-South Sudan)
 languages: English (Fluent), Juba-Arabic (Good), Nuer (Native)
 mail: kuenajamesdak@gmail.com

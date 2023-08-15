@@ -19,14 +19,14 @@ instagram:
 mastodon: 
 wikifab: 
 skills:
-  - { name: 'Web and Software' , number: 1, qualification: "
+  - { name: 'Web & Software' , number: 1, qualification: "
   - web design using Dreamweaver and WordPress, software installation, social media skills
 
   - Diploma in Information Technology
   
   - Certificate in Information Technology
   "}
-  - { name: 'Hardware & repair' , number: 2, qualification: "
+  - { name: 'Hardware & Repair' , number: 2, qualification: "
   - she learnt and have experiences in repairing electronic devices"}
 
   - { name: 'Media & Art' , number: 3, qualification: "
