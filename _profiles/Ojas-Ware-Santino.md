@@ -23,4 +23,4 @@ skills:
 
   - { name: 'Organisational Development', number: 2, qualification: "Executive Director and Co-founder of CENET"}
 ---
-Ojas Aware is a highly skilled and dedicated professional with a diverse educational background and a passion for making a positive impact in the lives of others. He holds a Diploma in Social Science
+Ojas Aware is the Executive Director and Co-founder of CENET. He is a highly-skilled and dedicated professional with a diverse educational background and a passion for making a positive impact in the lives of others. He holds a Diploma in Social Science.

@@ -22,4 +22,4 @@ skills:
   - { name: 'Community & Moderation' , number: 1, qualification: " * Diploma on social work and social Administration and theology"}
   - { name: 'Organisational Development', number: 2, qualification: "The founder and Exécutive director of Hope Care International"}
 ---
-Nelson Mandela is a social work and pastry profession, he is the founder of Hope care internationall a community based organization un Bidibidi refugee settlement.
+Nelson Mandela is a passionate social worker and the founder of Hope Care International, a community-based organization in Bidibidi Refugee Settlement.
