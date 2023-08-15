@@ -4,7 +4,7 @@ title:  "Seme Ludanga Faustino"
 image: "assets/images/profiles/Seme-Ludanga-Faustino/Seme-Ludanga-Faustino.jpg"
 country: Uganda
 region: West Nile
-hub: CTEN
+hub: Truth Works Iinternatinal
 languages: "English (fluent), Juba Arabic (fluent), Bari (good), Kakwa (fluent)"
 mail: semeludanga29@gmail.com
 phone: "+256786358785"
@@ -46,4 +46,9 @@ skills:
   * Musical instrument player \n
   "}
 ---
-Seme Ludanga Faustino is a South Sudanese refugee in Uganda and age 28, an organisational developer, digital story teller, a photographer and videographer, event creation and management, singer and a song writer. he likes music and playing musical instruments like guitar, piano and others. he also likes taking photographs of people and the nature, loves working with talented people, sharing of knowledge with others and loves raising up more young man and women in all areas that he is skilled in.
+Seme Ludanga Faustino is a versatile South Sudanese professional with expertise in organizational development, digital storytelling, photography, videography, event creation and management, singing, and songwriting. 
+
+His passion for music extends to playing various instruments such as the guitar and piano. Seme's creative flair shines through his captivating photographs of both people and nature. 
+
+He thrives in collaborative environments and enjoys sharing his knowledge to empower others. Particularly, Seme is dedicated to mentoring young individuals, fostering their growth across multiple skill domains.
+

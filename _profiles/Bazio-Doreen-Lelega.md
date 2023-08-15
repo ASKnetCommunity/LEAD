@@ -32,9 +32,9 @@ skills:
     My works are available at: [https://doreenbazioblog.wordpress.com/](https://doreenbazioblog.wordpress.com/)
   "}
 ---
-Doreen is a highly experienced Communications Specialist with five years of expertise in Journalism and Public Relations. She has honed her skills through her work in media and government institutions, and has demonstrated her exceptional content development abilities through her current role at the Youth Empowerment Foundation.
+Doreen is a highly experienced Communications Specialist with over five years of expertise in Journalism and Public Relations. She honed her skills through her work in media and government institutions, and has demonstrated her exceptional content development abilities through her current role at the Youth Empowerment Foundation.
 
-Doreen's passion for journalism dates back to her school days, where she excelled in Music, Dance, and Drama. Her love of the newsroom has driven her to attain a Bachelor's Degree in Journalism from Makerere University and a Post Graduate Diploma in Journalism from the Uganda Management Institute.
+Doreen’s passion for journalism dates back to her school days, where she excelled in Music, Dance, and Drama. Her love for newsroom drove her to attain a Bachelor’s Degree in Journalism from Makerere University and a Post Graduate Diploma in Journalism from the Uganda Management Institute.
 
 In addition to her role at the Youth Empowerment Foundation, Doreen also works at a CBO for girls, Train A Girl, Uganda, where she writes and directs the documentation of success stories for NGOs such as EMESCO Development Foundation, Adjumani District Local Government, UNHCR, and World Vision. Her dedication to journalism and media is further demonstrated by her initiation of the mentorship program Media4All, aimed at fostering the growth and development of young journalists in Adjumani.
 
