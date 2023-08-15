@@ -21,7 +21,4 @@ wikifab:
 skills:
   - { name: 'Hardware & Repair' , number: 1, qualification: "* Certificate"}
 ---
-Am call Diana Philip a south Sudanese by nationality .
-Live in south Sudan juba!
-A graduate of juba university school of computer science and information technology.
-And an IOT mentee with gogirlsict
+Diana Philip a graduate from the University of Juba's School of Computer Science and Information Technology. She is also an IOT mentee with GoGirls ICT.
