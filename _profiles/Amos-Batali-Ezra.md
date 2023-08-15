@@ -24,8 +24,8 @@ skills:
   * Experience is computer graphics using adobe photoshop."}
 
 ---
-I'm Amos Batali Ezra a refugee, currently living in Yangani Camp, Zone Five Bidibidi Refugee Settlement Uganda. I am one of the top creative Graphic | Web designers because with lots of passion for IT related activities. I am drawn to projects that challenge my creativity and get me thinking outside the Caves ultimately making up stunning designs.
-- Extremely flexible person who easily adapts to the situations without compromising with principles and responsibilities; one that values consultation and transparency; respect for others; and a zealous believer in voluntarism.
-Currently, working as a Freelance Graphic and Website Designer on a freelance platform called Fiverr.
-•Results-driven professional with repeated success in guiding IT projects from start to finish, managing technical support operations and introducing new technologies to promote operational efficiency.
-•Extremely flexible person who easily adapts to the situations without compromising with principles and responsibilities; one that values consultation and transparency; respect for others; and a zealous believer in voluntarism.
+Amos Batali Ezra is a refugee currently living in Yangani Camp, Zone Five Bidibidi Refugee Settlement, Uganda. He is a graphic and web designers with passion for IT-related activities.
+
+Amos is a flexible personality who easily adapts to situations without compromising his principles and responsibilities. He values consultation and transparency, respect for others, and a zealous believer in voluntarism. 
+
+Amos works as a Freelance Graphic and Website Designer on Fiverr, an online talent-hosting platform. Amos is also a result-driven professional with proven records in guiding successful IT projects.

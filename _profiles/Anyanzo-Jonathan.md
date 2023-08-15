@@ -23,5 +23,10 @@ skills:
   - {name: Data Security & Research, number: 2, qualification: 'Data Analyst - Certificate in data science'} 
 
 ---
-Anyanzo Jonathan is a dedicated and hardworking programmer with a strong commitment to the development of technology for the betterment of society. With a willingness to continuously engage and expand their skills, Anzo is an enthusiastic learner and is always striving to improve their technical abilities.
-Anyanzo's dedication and work ethic make him a valuable asset to any organization. His willingness to engage in new areas of technology development, combined with his eagerness to learn, demonstrates a deep commitment to his work and the positive impact it can have on the well-being of communities. Anzo is a reliable and dependable professional who brings a strong work ethic and a commitment to continuous growth to his role as a programmer.
+Anyanzo Jonathan is a dedicated and hardworking programmer with a strong commitment to the development of technology for the betterment of society. 
+
+With a willingness to continuously engage and expand their skills, Anyanzo is an enthusiastic learner and is always striving to improve his technical abilities. 
+
+Anyanzo’s dedication and work ethic make him a valuable asset to any organization. His willingness to engage in new areas of technology development, combined with his eagerness to learn, demonstrates a deep commitment to his work and the positive impact it can have on the well-being of communities. 
+
+Anyanzo is a reliable and dependable professional who brings a strong work ethic and a commitment to continuous growth to his role as a programmer.

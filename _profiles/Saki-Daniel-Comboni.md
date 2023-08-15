@@ -30,6 +30,12 @@ skills:
   * Administrative coordination and support
    "}
 ---
-Saki Daniel Comboni is a South Sudanese national residing in Adjumani district, Uganda. He is a seasoned professional with a rich background in business and finance, holding a Bachelor's degree in Business and Management with a major in Finance, as well as a Diploma in Accountancy and a Certificate in Administrative Law. This educational foundation has equipped him with a strong skill set in financial management, team work, and administration.
+Saki Daniel Comboni is a seasoned professional with a rich background in business and finance. He holds a Bachelor’s degree in Business and Management with a major in Finance, as well as a Diploma in Accountancy and a Certificate in Administrative Law. This educational foundation equipped him with a strong skill set in financial management, team work, and administration.
 
-Saki is a co-founder of the Youth Empowerment Foundation, established in 2017, where he has served as the Financial Administrative Executive. Through his work with the foundation, Saki has demonstrated his commitment to supporting youth and empowering them to reach their full potential. The foundation provides a platform for youth to overcome their difficulties and build their skills, with a focus on promoting business, technology, and media literacy. Saki is passionate about creating a community that is equipped with the necessary skills and knowledge to embark on successful careers.
+Saki is a co-founder of the Youth Empowerment Foundation, established in 2017, where he has served as the Financial Administrative Executive. 
+
+Through his work with the foundation, Saki has demonstrated his commitment to supporting youth and empowering them to reach their full potential. 
+
+The foundation provides a platform for youth to overcome their difficulties and build their skills, with a focus on promoting business, technology, and media literacy. 
+
+Saki is passionate about creating a community that is equipped with the necessary skills and knowledge to embark on successful careers.

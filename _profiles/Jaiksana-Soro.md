@@ -24,4 +24,10 @@ skills:
     Co-Founder of Platform Africa hub"}
   - {name: Media & Art, number: 2, qualification: "Media producer and musician. [My YouTube channel](https://www.youtube.com/channel/UCCpvkAdnA62AFwLefDfSjOQ)"}
 ---
-Jaiksana Soro is a visionary innovator from South Sudan who has dedicated himself to creating positive change through technology, media, and education. Forced to move to a refugee camp in Uganda in 2016 due to armed conflicts, Jaiksana observed the challenges facing communities in these environments and was inspired to found [Platform Africa](https://www.platformafrica.com/). Through this organization, he empowers young refugees to move towards a more equitable, informed, and resilient society. Jaiksana has made significant contributions to the fields of social media and technology, including creating initiatives to raise awareness about hate speech and online incitement of violence, as well as developing [#ASKotec](https://openculture.agency/outcomes/askotec/) – a hands-on technical resource and repair kit for community trainers. Additionally, Jaiksana is an accomplished writer, music producer, and advocate for veganism and sustainable living.
+Jaiksana Soro is a visionary innovator from South Sudan dedicated to creating positive change through technology, media, and education. 
+
+Forced to move to a refugee camp in Uganda in 2016 due to armed conflicts, Jaiksana observed the challenges facing communities in these environments and founded [Platform Africa](https://www.platformafrica.com/).
+
+Through this organization, he empowers young refugees to move towards a more equitable, informed, and resilient society. Jaiksana has made significant contributions to the fields of social media and technology, including creating initiatives to raise awareness about hate speech and online incitement to violence.
+
+Jaiksana also developed [#ASKotec](https://openculture.agency/outcomes/askotec/), a hands-on technical resource and repair kit for community trainers. Additionally, Jaiksana is an accomplished writer, music producer, and advocate for veganism and sustainable living.

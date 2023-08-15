@@ -26,4 +26,4 @@ skills:
   "}
   - { name: 'Community & Moderation' , number: 2, qualification: " * Executive Director of Afri-Youth Network"}
 ---
-Malish James is a highly skilled and dedicated professional with a diverse educational background and a passion for making a positive impact in the lives of others. He holds a Certificate in Videography, Digital Story Telling and Content Creation.
+Malish James is an accomplished and committed expert with a varied educational foundation and a fervor for creating a positive influence in people's lives. He possesses a Certificate in Videography, Digital Storytelling, and Content Creation.

@@ -25,6 +25,4 @@ skills:
   - Trained and organized podcast sessions at Gogirls ICT"}
 
 ---
-I am call Harriet Gune millimon.
-A South Sudanese nationality.
-And student at the university of Juba pursuing degree in information technology. A podcaster and an actress at maradadi Comedy group, a script writer for both a movie and podcast. I love connecting with people to learn more about various aspects in life.
+Harriet Gune millimon is a passionate podcaster and tech zealot pursuing her degree in Information Technology at University of Juba. Harriet is also an actress at the Maradadi Comedy group, a movie script writer keen on building and expanding her network with like-minded professionals.
