@@ -40,8 +40,10 @@ skills:
   - 5 years experience in Data collection using Kobo collect and ODK
   "}
 ---
-I am an experienced graphics designer with an artistic eye <br>
-I love turning written stories into videos / films<br>
-### Awards Won
-  - Youth with refugees art contest regional winner 2020
-  - EU Stop Motion Animation contest 2021 can be accessed here: <a href="https://www.unhcr.org/afr/news/stories/2021/4/607453994/south-sudanese-refugee-artist-wins-eu-sponsored-covid-19-art-competition.html"> South Sudanese refugee artist wins EU sponsored COVID-19 art competition</a>
+Kuena James Dak is a seasoned graphics designer renowned for his artistic vision and a passion for translating written narratives into captivating visual experiences. 
+
+With a remarkable knack for storytelling through videos and films, James has earned recognition and acclaim for his creative prowess. 
+
+Notably, he clinched the prestigious EU award for Youth with Refugees Art Regional Contest in 2020, followed by a resounding victory in the EU Stop Motion Animation Contest in 2021. 
+
+His innovative approach and impressive accolades showcase his exceptional talent and dedication to the world of visual arts <a href="https://www.unhcr.org/afr/news/stories/2021/4/607453994/south-sudanese-refugee-artist-wins-eu-sponsored-covid-19-art-competition.html"> South Sudanese refugee artist wins EU sponsored COVID-19 art competition</a>
