@@ -35,7 +35,7 @@ skills:
   
   * Advocate of all times to improve policy reforms, and other unjustifiable action against vulnerable or marginalized groups hence realization of social justice and well-being rights of all individuals at their communities.
   "}
-  - { name: 'Data Security & Research ' , number: 2, qualification: "
+  - { name: 'Data Security & Research' , number: 2, qualification: "
   * Ability to carry out data collection both paper based and digital tools such as ODK, Kobo-Collect including data analysis using SPSS
   
   * Knowledge of data entrance using Excel and SPSS
