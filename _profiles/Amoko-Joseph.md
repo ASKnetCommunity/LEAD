@@ -28,4 +28,4 @@ skills:
   "}
 
 ---
-Amos Joseph is the co-founder of the Refugee Youth Podcast which is a Youth-led media platform for sharing refugee stories and training youth to engage in media under the Youth Empowerment Foundation.
+I am the co-founder of the Refugee Youth Podcast which is a Youth led media platform for sharing Refugee Stories and training youth to engage in media under the Youth Empowerment Foundation.
