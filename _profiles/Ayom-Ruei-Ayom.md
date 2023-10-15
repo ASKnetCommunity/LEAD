@@ -21,6 +21,14 @@ skills:
   - {name: 'Open Source & Knowledge', number: 3, qualification: "Later in 2020 we had an online training on git and GitHub by r0g agency and I got a certificate."}
 ---
 
-Ayom Ruel Ayom is a well-rounded individual with a passion for both education and media. Born in Maar, Twic East County, Jonglei State, Ayom has a strong sense of community and desire to help others. With a background in business administration, he has honed his skills in various media outlets, including Radio Jonglei 95.9 FM and Voice of Reconciliation 98.4 FM. As a former reporter and presenter, Ayom has developed excellent communication and teamwork skills.
+Ayom Ruel Ayom is a versatile individual deeply passionate about both education and media. He hails from Maar, Twic East County, Jonglei State, and his commitment to community service is unwavering.
 
-Additionally, Ayom has attended the ASKNET training program, where he expanded his knowledge in new technologies and tools for repairing electronic devices. He is currently working at ATAKA HUB, where he continues to demonstrate his dedication and drive for success. Ayom has a strong interest in empowering his community, particularly through the facilitation of business skills training and phone repair services. With one year left in his bachelor's degree program at Dr. John Garang University of Science and Technology, Ayom is poised for continued growth and success in his career.
+Holding a degree in business administration, he has honed his skills in various media platforms, including his stints at Radio Jonglei 95.9 FM and Voice of Reconciliation 98.4 FM. Through his past roles as a reporter and presenter, Ayom has honed his communication and teamwork abilities to a high standard.
+
+Furthermore, Ayom has enriched his knowledge through the ASKNET training program, where he expanded his expertise in the latest technologies and tools for electronic device repair.
+
+Currently, he is employed at ATAKA HUB, where he continues to exemplify his dedication and determination for success.
+
+Ayom possesses a strong desire to empower his community, particularly through business skills training and phone repair services.
+
+With only one year remaining in his bachelor’s degree program at Dr. John Garang University of Science and Technology, Ayom stands poised for further growth and prosperity in his career.
