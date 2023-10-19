@@ -5,7 +5,7 @@ image: "assets/images/profiles/Amoko-Joseph/Amoko-Joseph.jpg"
 country: Uganda
 region: West Nile
 hub: Youth Empowerment Foundation
-languages: English (very Good), MAdi (Fair), Juba Arabic(Fair)
+languages: English (very Good), Madi (Fair), Juba Arabic(Fair)
 mail: amokoj72@gmail.com
 phone: "+256771651904"
 whatsapp: "+256771651904"
