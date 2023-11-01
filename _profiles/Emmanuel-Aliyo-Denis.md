@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: "Emmanuel Aliyo Denis"
-image: "assets/images/profiles/Emmanuel-Aliyo-Denis/Emmanuel-Aliyo-Denis.png"
+image: "assets/images/profiles/Emmanuel-Aliyo-Denis/Emmanuel-Alio-Denis.png"
 country: Uganda
 region: West Nile
 hub: Reliable Refugee Stories Association
