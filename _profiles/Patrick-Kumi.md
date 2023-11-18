@@ -68,12 +68,12 @@ skills:
   * Up-to-date experience with international web protocols, standards, and technologies.
   "}
 ---
-5 years ago, I left South Sudan due to the civil war that broke out in my home town though I grew up with a single parent. Because of this, I never really knew what it meant to be a kid. Since the adults were quite unsupportive. I didn't learn how to relate well with other kids. While I didn't realize this back then, I had not learned self-awareness until years later.
+Patrick Kumi is a Brand and Online Marketing Strategist with six years of experience in social work and brand marketing.
 
-Patrick Kumi is a Brand and Online Marketing Strategist a social worker who works together with professional persons, CEOs, and executives to grow their professional and personal brands. He has six-years’ experience in both working in social works and brand marketing for expensive brands and organization.
+He specializes in working with professionals, CEOs, and executives to grow their personal and professional brands. Patrick’s expertise lies in driving sold-out launches and conversions through his ability to connect with the general public.
 
-I also worked for new start-ups organizations and businesses, have afforded Patrick the knowledge of what drives sold-out launches, conversions. But what makes Patrick successful in his work areas isn't the mastery of marketing flavors or community projects, but how well, he can make a connection with the general public, he tries to help.
+Patrick holds a bachelor’s degree in social work and social science, a diploma in business administration, and a certificate in digital marketing.
 
-I graduated from Uganda Christian University with a Bachelor's degree in social works and social science, I also hold a diploma in business administration from the Institute of Accountant and commerce and a certificate in digital marketing. I have more than 5 years of experience in online marketing, specializing in extensive sales training or enablement, project leadership, Organational development and digital marketing among others.
-As a Brand and Online Marketing Strategist, am capable of identifying and developing Websites and graphics design projects
-my experience extends to programming and launching an internal blog for E-Communications. This featured product articles and alerts are covering SEO, SEM, eCommerce, mobile, social media marketing, and display advertising.
+His skills include extensive sales training, project leadership, organizational development, and digital marketing, with a focus on website and graphics design, programming, and launching internal blogs covering SEO, SEM, eCommerce, mobile, social media marketing, and display advertising.
+
+Patrick is a seasoned professional dedicated to making meaningful connections in the marketing and social work sectors.

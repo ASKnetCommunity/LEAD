@@ -34,5 +34,8 @@ skills:
   "}
 
 ---
-Inyaa Beatrice is a South Sudanese refugee in Uganda, She obtained Diploma and Certificate in Information Technology from Bugema University in 2019. She worked with graphics hub as a graphics designer, not only that she also worked as choir leader and treasurer of Young Christian Services (YCS) in Adjumani, General vice secretary of a Peace Club in Maridi, General women's secretary Student Association, a Cashier at Eyira Adventist Vocational Academy and Treasurer for Women Association Malaga Church of Seventh Day Adventist Maridi South Sudan. she currently works as audio & video editor and videographer for introduction ceremonies and church weddings in Bugema Seventh Day Adventist church in Arua. She is an expert in repairing electronic devices and teaching basic ICT skills, social media skills, and secretarial skills.
-Inyaa Beatrice is a fast learner and ready to change her community.
+Inyaa Beatrice is a South Sudanese refugee in Uganda. She obtained Diploma and Certificate in Information Technology from Bugema University in 2019 and currently working as an audio & a video editor and videographer for introduction ceremonies and church weddings in Bugema Seventh Day Adventist church in Arua.
+
+Beatrice worked with Graphics Hub as a graphics designer. She is an expert in repairing electronic devices and teaching basic ICT skills, social media skills, and secretarial skills. 
+
+Inyaa Beatrice also worked as a choir master and treasurer of Young Christian Services (YCS) in Adjumani, General Vice Secretary of a Peace Club in Maridi, General Women’s Secretary of Students' Association, a Cashier at Eyira Adventist Vocational Academy and Treasurer for Women Association at Malaga Church of Seventh Day Adventist Maridi South Sudan.

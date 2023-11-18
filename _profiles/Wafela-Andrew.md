@@ -42,6 +42,10 @@ skills:
     * [documentation on rosemary growing](https://github.com/chardso/Rosemary-growing)
     " }
 ---
+Wafela Andrew is a highly skilled open-source technician, with a passion for learning new methodologies in technology.
 
-Andrew is a highly skilled open-source technician, with a passion for learning new methodologies in technology. He has been working in the field for over 20 years and has earned the nickname "Doctor Device" in his hometown. In 2019, he was introduced to the world of open source technology through his collaboration with the Executive Director of Youth Empowerment Foundation, Vuga William. Together, they worked on various projects, including the #ASKotec initiative and the development of LED lights. Andrew's expertise was further showcased in the late 2019 community repair cafe in Adjumani, where he had the opportunity to meet and learn from experts in open tech from various parts of the world, including Sudan, Kenya, and Berlin. Andrew's dedication to open source technology has made him a valuable asset in his community.
+He has been working in the field for over 20 years and has earned the nickname “Doctor Device” in his hometown. In 2019, he was introduced to the world of open source technology through his collaboration with the Executive Director of Youth Empowerment Foundation, Vuga William.
 
+Together, they worked on various projects, including the #ASKotec initiative and the development of LED lights. Andrew’s expertise was further showcased in the late 2019 community repair cafe in Adjumani, where he had the opportunity to meet and learn from experts in open tech from various parts of the world, including Sudan, Kenya, and Berlin.
+
+Andrew’s dedication to open source technology has made him a valuable asset in his community.

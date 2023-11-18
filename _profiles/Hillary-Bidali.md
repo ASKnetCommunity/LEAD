@@ -25,4 +25,8 @@ skills:
   * Musician"
   }
 ---
-Hillary Bidali is a talented broadcast journalist and gospel artist from South Sudan. He worked as a journalist for Morobo FM, a community radio station in the town of Morobo, where he was known for his dedication to providing accurate and timely news and information to his listeners. In addition to his work as a journalist, Hillary Bidali is also a recording gospel artist with a passion for music and a desire to spread positive messages through his songs. His music is characterized by its uplifting lyrics and catchy melodies, and has earned him a following both in South Sudan and beyond. Overall, Hillary Bidali is a multi-talented individual who has made significant contributions to both the media industry and the music industry in his home country.
+Hillary Bidali is a talented broadcast journalist and gospel artist from South Sudan. He worked as a journalist for Morobo FM, a community radio station in the town of Morobo, where he was known for his dedication to providing accurate and timely news and information to his listeners.
+
+Additionally, Hillary Bidali is also a recording gospel artist with passion for music and a desire to spread positive messages through his songs.
+
+His music, characterized uplifting lyrics and catchy melodies, has earned him a following in South Sudan and beyond. Overall, Hillary Bidali is a multi-talented individual who has made significant contributions to the media and music industries in his home country.
