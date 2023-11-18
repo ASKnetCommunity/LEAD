@@ -19,18 +19,31 @@ instagram: edina_dawa
 mastodon: 
 wikifab: https://wikifab.org/wiki/Utilisateur:Dawa_Edina
 skills:
-  - {name: Hardware & Repair, number: 1, qualification: "She has experiences repairing electronics, hardware maintenance and managing repair cafés \n \n 
-    * Diploma in Information Technology - where she learnt about repairing electronic devices. \n
-    * CISCO Instructors training - she participated in several CISCO Instructors trainings - which equipped her with the required knowledge for repairing appliances and networking. \n
-    * Repair café - She participated in DIY #ASKnet training in 2018 and online track II #ASKnet training project (Remote Open-Tool collaboration) where she participated in facilitating repair café events in Rhino camp.\n \n
-    [My DIY Solar Generator Repository on Github](https://github.com/dawaedina27/DIY-Solar-Generator)"}
-  - {name: Web & Software, number: 2, qualification: "Web Development. Programming (Coding) skills using html, C#, C++, Vb.net and basic python skills. Software installation and maintenance. social media skills. \n \n
-    * Diploma in Information Technology"}
-  - {name: Data Security & Research, number: 3, qualification: "With skills in data collection and analysis, privacy, personal data security and encryption. \n \n 
-    * Diploma in Information Technology where she learnt a course unit called Data collection and analysis and it has the required content for data collection. \n
-    * UNHCR partners data management training - In 2021 she participated in a UNHCR and Map Uganda led training on Spatial data collection and analysis, Kobo and powerBI which gave her additional knowledge concerning data."}
-  - {name: Media & Art, number: 4, qualification: "She has basic knowledge and experiences on Audio and video editing and graphics skills. \n \n
-    * Diploma and Certificate in Information Technology"} 
+  - {name: Hardware & Repair, number: 1, qualification: "
+  * Edina has experiences repairing electronics, hardware maintenance, and managing repair cafés.\n
+  * She holds a diploma in Information Technology - where she learnt about repairing electronic devices.\n
+  * Edina participated in several CISCO instructors training sessions - which equipped her with the required knowledge for repairing appliances and networking.\n
+  * She participated in DIY #ASKnet training in 2018 and online track II #ASKnet training project (Remote Open-Tool collaboration) where she facilitated events at Repair Café in Rhino camp.\n"}
+
+  - {name: Web & Software, number: 2, qualification: "
+  * Edina is a Web Developer and Programmer with coding skills in HTML, C#, C++, Vb.net, and basic python skills.\n
+  * She is also a specialist in software installation and maintenance.\n
+  * Ms. Edina possesses social media skills.\n
+  * She is a holder of diploma in Information Technology.\n"}
+
+  - {name: Data Security & Research, number: 3, qualification: "
+    * Edina has skills in data collection and analysis, privacy, personal data security and encryption.\n
+    * She holds a Diploma in Information Technology where she learnt a course unit called Data collection and analysis and it has the required content for data collection.\n
+    * In 2021 she participated in a UNHCR and Map Uganda-led training on Spatial data collection and analysis, Kobo and powerBI, which gave her additional knowledge on data.\n"}
+  - {name: Media & Art, number: 4, qualification: "
+    * She has basic knowledge and experiences on Audio and video editing and graphics skills.\n
+    * She holds a Diploma and Certificate in Information Technology.\n"} 
 ---
 
-Dawa Edina Hillary is a highly skilled Information Technology professional with extensive experience in data management, electronics repair and maintenance, video editing, web development, and basic programming. Holding a diploma in Information Technology, she has demonstrated her expertise through her various roles as an IT technician, ICT instructor, M&E assistant, and community girls teacher. With a passion for using technology to drive community development, she is the Co-Founder of Community Creativity for Development (CC4D), where she currently serves as the gender advocate, finance and admin manager. Born in Rhino Camp refugee settlement in Uganda and forced to become a refugee once again due to tribal conflict in South Sudan, Dawa's experiences have driven her to become a dedicated advocate for gender equality and empowerment through technology.
+Dawa Edina Hillary is a highly proficient Information Technology specialist with extensive expertise encompassing data management, electronics repair, video editing, web development, and fundamental programming. She possesses a diploma in Information Technology and has effectively showcased her skills in various capacities, including IT technician, ICT instructor, M&E assistant, and community girls teacher.
+
+Passionately committed to leveraging technology for community advancement, Dawa is the Co-Founder of Community Creativity for Development (CC4D), where she presently holds the roles of gender advocate, finance manager, and administrative manager.
+
+Born in the Rhino Camp refugee settlement in Uganda, Dawa's life journey led her to become a refugee once again, this time due to tribal conflicts in South Sudan. These personal experiences have fueled her unwavering dedication to advocating for gender equality and empowerment through the transformative power of technology.
+
+(Comment) Kindly include the name(s) of institution (s) where Edina acquired her Diploma and Certificate in Information Technology.

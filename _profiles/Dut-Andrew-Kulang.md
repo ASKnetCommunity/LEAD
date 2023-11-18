@@ -16,7 +16,7 @@ linkedin: dut-andrew-kulang-693b07224
 twitter: DutKulang1
 facebook: BlackElphant
 instagram: 
-mastodon: 
+mastodon: dutkulang
 wikifab:
 skills:
   - {name: 'Web & Software', number: 1, qualification: 'Successfully completed the courses "[Python for Beginners](../../assets/images/profiles/Dut-Andrew-Kulang/Python-for-Beginners.jpg)" and "[Coding for Marketers](../../assets/images/profiles/Dut-Andrew-Kulang/coding-for-marketers.jpg)" on sololearn<br />Successfully completed the course "[Web Design](../../assets/images/profiles/Dut-Andrew-Kulang/html.jpg)" on sololearn'}

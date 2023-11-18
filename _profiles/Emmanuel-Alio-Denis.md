@@ -1,7 +1,7 @@
 ---
 layout: profile
-title: "Emmanuel Aliyo Denis"
-image: "assets/images/profiles/Emmanuel-Aliyo-Denis/Emmanuel-Aliyo-Denis.jpg"
+title: "Emmanuel Alio Denis"
+image: "assets/images/profiles/Emmanuel-Alio-Denis/Emmanuel-Alio-Denis.png"
 country: Uganda
 region: West Nile
 hub: Reliable Refugee Stories Association
@@ -32,4 +32,4 @@ skills:
   - {name: 'Media & Art', number: 3, qualification: "A Comedian and Digital Refugee Story Teller"}
   - {name: 'Sustainability & Environment', number: 4, qualification: "Climate Change and Environmental Advocate"}
 ---
-Emmanuel Aliyo Denis is a highly skilled and dedicated professional with a diverse educational background and a passion for making a positive impact in the lives of others. He holds a Certificate in Videography and Content Creation.
+Emmanuel Alio Denis is a highly skilled and dedicated professional with a diverse educational background and a passion for making a positive impact in the lives of others. He holds a Certificate in Videography and Content Creation.

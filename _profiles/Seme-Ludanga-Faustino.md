@@ -4,12 +4,12 @@ title:  "Seme Ludanga Faustino"
 image: "assets/images/profiles/Seme-Ludanga-Faustino/Seme-Ludanga-Faustino.jpg"
 country: Uganda
 region: West Nile
-hub: Truth Works Iinternatinal
+hub: Truth Works Iinternational
 languages: "English (fluent), Juba Arabic (fluent), Bari (good), Kakwa (fluent)"
 mail: semeludanga29@gmail.com
 phone: "+256786358785"
 whatsapp: "+256786358785"
-website: 
+website:  "facebook.com/profile.php?id=100070935821238"
 telegram: 
 github: 
 linkedin: 
