@@ -162,37 +162,53 @@ testimonial-items:
 
 client-slider-items:
   - logo: "assets/images/clients-logo/r0g_logo.png"
-    url: "#"
+    url: https://openculture.agency/
     bw: true
     
   - logo: "assets/images/clients-logo/founder_BMZ.jpg"
-    url: "#"
+    url: https://www.bmz.de/en
     bw: true
     
   - logo: "assets/images/clients-logo/hive_colab.png"
-    url: "#"
+    url: https://hivecolab.org/
     bw: true
     
   - logo: "assets/images/clients-logo/platform-africa.png"
-    url: "#"
+    url: https://www.platformafrica.ngo/
     bw: true
     
   - logo: "assets/images/clients-logo/gogirls.png"
-    url: "#"
+    url: https://gogirlsict.org/
     bw: true
     
   - logo: "assets/images/clients-logo/junub.png"
-    url: "#"
-    bw: true
-    
-  - logo: "assets/images/clients-logo/ataka.png"
-    url: "#"
+    url: https://junubos.org/
     bw: true
     
   - logo: "assets/images/clients-logo/yef.png"
-    url: "#"
+    url: https://yef-uganda.org/
     bw: true
-    
+
+  - logo: "assets/images/clients-logo/CC4D.png"
+    url: https://cc4d.tech/
+    bw: true
+
+  - logo: "assets/images/clients-logo/ma-mara.jpg"
+    url: https://mamarasakitvillage.org/
+    bw: true
+
+  - logo: "assets/images/clients-logo/CECI.png"
+    url: https://www.ceciuganda.org/
+    bw: true
+
+  - logo: "assets/images/clients-logo/CIC.jpg"
+    url: https://www.facebook.com/profile.php?id=100076026173627
+    bw: true
+
+  - logo: "assets/images/clients-logo/koneta.png"
+    url: https://konetahub.org/
+    bw: true
+
 
 #-------------------------------
 # Contact Section
