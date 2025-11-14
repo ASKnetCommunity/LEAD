@@ -5,7 +5,7 @@ author     : '#ASKnet'
 screenshot: https://raw.githubusercontent.com/ASKnetCommunity/LEAD/development/assets/images/screenshot.jpg
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lead.asknet.community" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://leadv1.asknet.community" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
